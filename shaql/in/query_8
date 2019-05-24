@@ -1,0 +1,5 @@
+SELECT ?mov_title ?dir_likes 
+{
+   ?mov <https://schema.org/name>/<http://www.semanticweb.org/rohanchhokra/ontologies/2019/2/oscar-ontology#textString> ?mov_title .
+   ?mov <https://schema.org/director>/<https://schema.org/interactionStatistic>/<https://schema.org/userInteractionCount>/<http://www.semanticweb.org/rohanchhokra/ontologies/2019/2/oscar-ontology#numberInt> ?dir_likes .
+}

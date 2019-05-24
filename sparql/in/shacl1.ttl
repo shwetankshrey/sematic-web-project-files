@@ -1,0 +1,12 @@
+<http://www.semanticweb.org/rohanchhokra/ontologies/2019/2/oscar-ontology#Shape1>
+a <http://www.w3.org/ns/shacl#NodeShape> ;
+<http://www.w3.org/ns/shacl#targetNode> <http://www.semanticweb.org/rohanchhokra/ontologies/2019/2/oscar-ontology#_title_1> ;
+<http://www.w3.org/ns/shacl#property> [
+	<http://www.w3.org/ns/shacl#path> <http://www.semanticweb.org/rohanchhokra/ontologies/2019/2/oscar-ontology#textString> ;
+	<http://www.w3.org/ns/shacl#minCount> 1 ;
+	<http://www.w3.org/ns/shacl#maxCount> 1 ;
+	<http://www.w3.org/ns/shacl#minLength> 1 ;
+    <http://www.w3.org/ns/shacl#maxLength> 100 ;
+    <http://www.w3.org/ns/shacl#datatype> <http://www.w3.org/2001/XMLSchema#string> ;
+	<http://www.w3.org/ns/shacl#severity> <http://www.w3.org/ns/shacl#Violation> ;
+] .

@@ -1,0 +1,5 @@
+ASK {
+       <http://www.semanticweb.org/rohanchhokra/ontologies/2019/2/oscar-ontology#_director_1>
+       <http://www.semanticweb.org/rohanchhokra/ontologies/2019/2/oscar-ontology#type>
+       <https://schema.org/Person>.
+       }

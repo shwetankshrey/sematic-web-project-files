@@ -1,0 +1,1003 @@
+| mov_title                                                         | film_crew_likes | typex                                                                                   |
+=================================================================================================================================================================================
+| "Avatar "                                                         | 0               | <http://www.semanticweb.org/rohanchhokra/ontologies/2019/2/oscar-ontology#Director>     |
+| "Avatar "                                                         | 0               | <http://www.semanticweb.org/rohanchhokra/ontologies/2019/2/oscar-ontology#FilmCrew>     |
+| "Avatar "                                                         | 0               | <https://schema.org/Person>                                                             |
+| "Avatar "                                                         | 855             | <http://www.semanticweb.org/rohanchhokra/ontologies/2019/2/oscar-ontology#FilmCrew>     |
+| "Avatar "                                                         | 855             | <https://schema.org/Person>                                                             |
+| "Avatar "                                                         | 855             | <http://www.semanticweb.org/rohanchhokra/ontologies/2019/2/oscar-ontology#SupportActor> |
+| "Avatar "                                                         | 855             | <http://www.semanticweb.org/rohanchhokra/ontologies/2019/2/oscar-ontology#Actor>        |
+| "Avatar "                                                         | 855             | <http://www.semanticweb.org/rohanchhokra/ontologies/2019/2/oscar-ontology#FilmCrew>     |
+| "Avatar "                                                         | 855             | <https://schema.org/Person>                                                             |
+| "Avatar "                                                         | 855             | <http://www.semanticweb.org/rohanchhokra/ontologies/2019/2/oscar-ontology#SupportActor> |
+| "Avatar "                                                         | 855             | <http://www.semanticweb.org/rohanchhokra/ontologies/2019/2/oscar-ontology#Actor>        |
+| "Avatar "                                                         | 936             | <http://www.semanticweb.org/rohanchhokra/ontologies/2019/2/oscar-ontology#FilmCrew>     |
+| "Avatar "                                                         | 936             | <https://schema.org/Person>                                                             |
+| "Avatar "                                                         | 936             | <http://www.semanticweb.org/rohanchhokra/ontologies/2019/2/oscar-ontology#SupportActor> |
+| "Avatar "                                                         | 936             | <http://www.semanticweb.org/rohanchhokra/ontologies/2019/2/oscar-ontology#Actor>        |
+| "Pirates of the Caribbean: At World's End "                       | 563             | <http://www.semanticweb.org/rohanchhokra/ontologies/2019/2/oscar-ontology#Director>     |
+| "Pirates of the Caribbean: At World's End "                       | 563             | <http://www.semanticweb.org/rohanchhokra/ontologies/2019/2/oscar-ontology#FilmCrew>     |
+| "Pirates of the Caribbean: At World's End "                       | 563             | <https://schema.org/Person>                                                             |
+| "Pirates of the Caribbean: At World's End "                       | 1000            | <http://www.semanticweb.org/rohanchhokra/ontologies/2019/2/oscar-ontology#FilmCrew>     |
+| "Pirates of the Caribbean: At World's End "                       | 1000            | <https://schema.org/Person>                                                             |
+| "Pirates of the Caribbean: At World's End "                       | 1000            | <http://www.semanticweb.org/rohanchhokra/ontologies/2019/2/oscar-ontology#SupportActor> |
+| "Pirates of the Caribbean: At World's End "                       | 1000            | <http://www.semanticweb.org/rohanchhokra/ontologies/2019/2/oscar-ontology#Actor>        |
+| "Pirates of the Caribbean: At World's End "                       | 1000            | <http://www.semanticweb.org/rohanchhokra/ontologies/2019/2/oscar-ontology#FilmCrew>     |
+| "Pirates of the Caribbean: At World's End "                       | 1000            | <https://schema.org/Person>                                                             |
+| "Pirates of the Caribbean: At World's End "                       | 1000            | <http://www.semanticweb.org/rohanchhokra/ontologies/2019/2/oscar-ontology#SupportActor> |
+| "Pirates of the Caribbean: At World's End "                       | 1000            | <http://www.semanticweb.org/rohanchhokra/ontologies/2019/2/oscar-ontology#Actor>        |
+| "Pirates of the Caribbean: At World's End "                       | 5000            | <http://www.semanticweb.org/rohanchhokra/ontologies/2019/2/oscar-ontology#FilmCrew>     |
+| "Pirates of the Caribbean: At World's End "                       | 5000            | <https://schema.org/Person>                                                             |
+| "Pirates of the Caribbean: At World's End "                       | 5000            | <http://www.semanticweb.org/rohanchhokra/ontologies/2019/2/oscar-ontology#SupportActor> |
+| "Pirates of the Caribbean: At World's End "                       | 5000            | <http://www.semanticweb.org/rohanchhokra/ontologies/2019/2/oscar-ontology#Actor>        |
+| "Spectre "                                                        | 0               | <http://www.semanticweb.org/rohanchhokra/ontologies/2019/2/oscar-ontology#Director>     |
+| "Spectre "                                                        | 0               | <http://www.semanticweb.org/rohanchhokra/ontologies/2019/2/oscar-ontology#FilmCrew>     |
+| "Spectre "                                                        | 0               | <https://schema.org/Person>                                                             |
+| "Spectre "                                                        | 161             | <http://www.semanticweb.org/rohanchhokra/ontologies/2019/2/oscar-ontology#FilmCrew>     |
+| "Spectre "                                                        | 161             | <https://schema.org/Person>                                                             |
+| "Spectre "                                                        | 161             | <http://www.semanticweb.org/rohanchhokra/ontologies/2019/2/oscar-ontology#SupportActor> |
+| "Spectre "                                                        | 161             | <http://www.semanticweb.org/rohanchhokra/ontologies/2019/2/oscar-ontology#Actor>        |
+| "Spectre "                                                        | 161             | <http://www.semanticweb.org/rohanchhokra/ontologies/2019/2/oscar-ontology#FilmCrew>     |
+| "Spectre "                                                        | 161             | <https://schema.org/Person>                                                             |
+| "Spectre "                                                        | 161             | <http://www.semanticweb.org/rohanchhokra/ontologies/2019/2/oscar-ontology#SupportActor> |
+| "Spectre "                                                        | 161             | <http://www.semanticweb.org/rohanchhokra/ontologies/2019/2/oscar-ontology#Actor>        |
+| "Spectre "                                                        | 393             | <http://www.semanticweb.org/rohanchhokra/ontologies/2019/2/oscar-ontology#FilmCrew>     |
+| "Spectre "                                                        | 393             | <https://schema.org/Person>                                                             |
+| "Spectre "                                                        | 393             | <http://www.semanticweb.org/rohanchhokra/ontologies/2019/2/oscar-ontology#SupportActor> |
+| "Spectre "                                                        | 393             | <http://www.semanticweb.org/rohanchhokra/ontologies/2019/2/oscar-ontology#Actor>        |
+| "The Dark Knight Rises "                                          | 22000           | <http://www.semanticweb.org/rohanchhokra/ontologies/2019/2/oscar-ontology#Director>     |
+| "The Dark Knight Rises "                                          | 22000           | <http://www.semanticweb.org/rohanchhokra/ontologies/2019/2/oscar-ontology#FilmCrew>     |
+| "The Dark Knight Rises "                                          | 22000           | <https://schema.org/Person>                                                             |
+| "The Dark Knight Rises "                                          | 23000           | <http://www.semanticweb.org/rohanchhokra/ontologies/2019/2/oscar-ontology#FilmCrew>     |
+| "The Dark Knight Rises "                                          | 23000           | <https://schema.org/Person>                                                             |
+| "The Dark Knight Rises "                                          | 23000           | <http://www.semanticweb.org/rohanchhokra/ontologies/2019/2/oscar-ontology#SupportActor> |
+| "The Dark Knight Rises "                                          | 23000           | <http://www.semanticweb.org/rohanchhokra/ontologies/2019/2/oscar-ontology#Actor>        |
+| "The Dark Knight Rises "                                          | 23000           | <http://www.semanticweb.org/rohanchhokra/ontologies/2019/2/oscar-ontology#FilmCrew>     |
+| "The Dark Knight Rises "                                          | 23000           | <https://schema.org/Person>                                                             |
+| "The Dark Knight Rises "                                          | 23000           | <http://www.semanticweb.org/rohanchhokra/ontologies/2019/2/oscar-ontology#SupportActor> |
+| "The Dark Knight Rises "                                          | 23000           | <http://www.semanticweb.org/rohanchhokra/ontologies/2019/2/oscar-ontology#Actor>        |
+| "The Dark Knight Rises "                                          | 23000           | <http://www.semanticweb.org/rohanchhokra/ontologies/2019/2/oscar-ontology#FilmCrew>     |
+| "The Dark Knight Rises "                                          | 23000           | <https://schema.org/Person>                                                             |
+| "The Dark Knight Rises "                                          | 23000           | <http://www.semanticweb.org/rohanchhokra/ontologies/2019/2/oscar-ontology#SupportActor> |
+| "The Dark Knight Rises "                                          | 23000           | <http://www.semanticweb.org/rohanchhokra/ontologies/2019/2/oscar-ontology#Actor>        |
+| "Star Wars: Episode VII - The Force Awakens             "         | 131             | <http://www.semanticweb.org/rohanchhokra/ontologies/2019/2/oscar-ontology#Director>     |
+| "Star Wars: Episode VII - The Force Awakens             "         | 131             | <http://www.semanticweb.org/rohanchhokra/ontologies/2019/2/oscar-ontology#FilmCrew>     |
+| "Star Wars: Episode VII - The Force Awakens             "         | 131             | <https://schema.org/Person>                                                             |
+| "Star Wars: Episode VII - The Force Awakens             "         | 12              | <http://www.semanticweb.org/rohanchhokra/ontologies/2019/2/oscar-ontology#FilmCrew>     |
+| "Star Wars: Episode VII - The Force Awakens             "         | 12              | <https://schema.org/Person>                                                             |
+| "Star Wars: Episode VII - The Force Awakens             "         | 12              | <http://www.semanticweb.org/rohanchhokra/ontologies/2019/2/oscar-ontology#SupportActor> |
+| "Star Wars: Episode VII - The Force Awakens             "         | 12              | <http://www.semanticweb.org/rohanchhokra/ontologies/2019/2/oscar-ontology#Actor>        |
+| "John Carter "                                                    | 475             | <http://www.semanticweb.org/rohanchhokra/ontologies/2019/2/oscar-ontology#Director>     |
+| "John Carter "                                                    | 475             | <http://www.semanticweb.org/rohanchhokra/ontologies/2019/2/oscar-ontology#FilmCrew>     |
+| "John Carter "                                                    | 475             | <https://schema.org/Person>                                                             |
+| "John Carter "                                                    | 530             | <http://www.semanticweb.org/rohanchhokra/ontologies/2019/2/oscar-ontology#FilmCrew>     |
+| "John Carter "                                                    | 530             | <https://schema.org/Person>                                                             |
+| "John Carter "                                                    | 530             | <http://www.semanticweb.org/rohanchhokra/ontologies/2019/2/oscar-ontology#SupportActor> |
+| "John Carter "                                                    | 530             | <http://www.semanticweb.org/rohanchhokra/ontologies/2019/2/oscar-ontology#Actor>        |
+| "John Carter "                                                    | 530             | <http://www.semanticweb.org/rohanchhokra/ontologies/2019/2/oscar-ontology#FilmCrew>     |
+| "John Carter "                                                    | 530             | <https://schema.org/Person>                                                             |
+| "John Carter "                                                    | 530             | <http://www.semanticweb.org/rohanchhokra/ontologies/2019/2/oscar-ontology#SupportActor> |
+| "John Carter "                                                    | 530             | <http://www.semanticweb.org/rohanchhokra/ontologies/2019/2/oscar-ontology#Actor>        |
+| "John Carter "                                                    | 632             | <http://www.semanticweb.org/rohanchhokra/ontologies/2019/2/oscar-ontology#FilmCrew>     |
+| "John Carter "                                                    | 632             | <https://schema.org/Person>                                                             |
+| "John Carter "                                                    | 632             | <http://www.semanticweb.org/rohanchhokra/ontologies/2019/2/oscar-ontology#SupportActor> |
+| "John Carter "                                                    | 632             | <http://www.semanticweb.org/rohanchhokra/ontologies/2019/2/oscar-ontology#Actor>        |
+| "Spider-Man 3 "                                                   | 0               | <http://www.semanticweb.org/rohanchhokra/ontologies/2019/2/oscar-ontology#Director>     |
+| "Spider-Man 3 "                                                   | 0               | <http://www.semanticweb.org/rohanchhokra/ontologies/2019/2/oscar-ontology#FilmCrew>     |
+| "Spider-Man 3 "                                                   | 0               | <https://schema.org/Person>                                                             |
+| "Spider-Man 3 "                                                   | 4000            | <http://www.semanticweb.org/rohanchhokra/ontologies/2019/2/oscar-ontology#FilmCrew>     |
+| "Spider-Man 3 "                                                   | 4000            | <https://schema.org/Person>                                                             |
+| "Spider-Man 3 "                                                   | 4000            | <http://www.semanticweb.org/rohanchhokra/ontologies/2019/2/oscar-ontology#SupportActor> |
+| "Spider-Man 3 "                                                   | 4000            | <http://www.semanticweb.org/rohanchhokra/ontologies/2019/2/oscar-ontology#Actor>        |
+| "Spider-Man 3 "                                                   | 4000            | <http://www.semanticweb.org/rohanchhokra/ontologies/2019/2/oscar-ontology#FilmCrew>     |
+| "Spider-Man 3 "                                                   | 4000            | <https://schema.org/Person>                                                             |
+| "Spider-Man 3 "                                                   | 4000            | <http://www.semanticweb.org/rohanchhokra/ontologies/2019/2/oscar-ontology#SupportActor> |
+| "Spider-Man 3 "                                                   | 4000            | <http://www.semanticweb.org/rohanchhokra/ontologies/2019/2/oscar-ontology#Actor>        |
+| "Spider-Man 3 "                                                   | 11000           | <http://www.semanticweb.org/rohanchhokra/ontologies/2019/2/oscar-ontology#FilmCrew>     |
+| "Spider-Man 3 "                                                   | 11000           | <https://schema.org/Person>                                                             |
+| "Spider-Man 3 "                                                   | 11000           | <http://www.semanticweb.org/rohanchhokra/ontologies/2019/2/oscar-ontology#SupportActor> |
+| "Spider-Man 3 "                                                   | 11000           | <http://www.semanticweb.org/rohanchhokra/ontologies/2019/2/oscar-ontology#Actor>        |
+| "Tangled "                                                        | 15              | <http://www.semanticweb.org/rohanchhokra/ontologies/2019/2/oscar-ontology#Director>     |
+| "Tangled "                                                        | 15              | <http://www.semanticweb.org/rohanchhokra/ontologies/2019/2/oscar-ontology#FilmCrew>     |
+| "Tangled "                                                        | 15              | <https://schema.org/Person>                                                             |
+| "Tangled "                                                        | 284             | <http://www.semanticweb.org/rohanchhokra/ontologies/2019/2/oscar-ontology#FilmCrew>     |
+| "Tangled "                                                        | 284             | <https://schema.org/Person>                                                             |
+| "Tangled "                                                        | 284             | <http://www.semanticweb.org/rohanchhokra/ontologies/2019/2/oscar-ontology#SupportActor> |
+| "Tangled "                                                        | 284             | <http://www.semanticweb.org/rohanchhokra/ontologies/2019/2/oscar-ontology#Actor>        |
+| "Tangled "                                                        | 284             | <http://www.semanticweb.org/rohanchhokra/ontologies/2019/2/oscar-ontology#FilmCrew>     |
+| "Tangled "                                                        | 284             | <https://schema.org/Person>                                                             |
+| "Tangled "                                                        | 284             | <http://www.semanticweb.org/rohanchhokra/ontologies/2019/2/oscar-ontology#SupportActor> |
+| "Tangled "                                                        | 284             | <http://www.semanticweb.org/rohanchhokra/ontologies/2019/2/oscar-ontology#Actor>        |
+| "Tangled "                                                        | 553             | <http://www.semanticweb.org/rohanchhokra/ontologies/2019/2/oscar-ontology#FilmCrew>     |
+| "Tangled "                                                        | 553             | <https://schema.org/Person>                                                             |
+| "Tangled "                                                        | 553             | <http://www.semanticweb.org/rohanchhokra/ontologies/2019/2/oscar-ontology#SupportActor> |
+| "Tangled "                                                        | 553             | <http://www.semanticweb.org/rohanchhokra/ontologies/2019/2/oscar-ontology#Actor>        |
+| "Avengers: Age of Ultron "                                        | 0               | <http://www.semanticweb.org/rohanchhokra/ontologies/2019/2/oscar-ontology#Director>     |
+| "Avengers: Age of Ultron "                                        | 0               | <http://www.semanticweb.org/rohanchhokra/ontologies/2019/2/oscar-ontology#FilmCrew>     |
+| "Avengers: Age of Ultron "                                        | 0               | <https://schema.org/Person>                                                             |
+| "Avengers: Age of Ultron "                                        | 19000           | <http://www.semanticweb.org/rohanchhokra/ontologies/2019/2/oscar-ontology#FilmCrew>     |
+| "Avengers: Age of Ultron "                                        | 19000           | <https://schema.org/Person>                                                             |
+| "Avengers: Age of Ultron "                                        | 19000           | <http://www.semanticweb.org/rohanchhokra/ontologies/2019/2/oscar-ontology#SupportActor> |
+| "Avengers: Age of Ultron "                                        | 19000           | <http://www.semanticweb.org/rohanchhokra/ontologies/2019/2/oscar-ontology#Actor>        |
+| "Avengers: Age of Ultron "                                        | 19000           | <http://www.semanticweb.org/rohanchhokra/ontologies/2019/2/oscar-ontology#FilmCrew>     |
+| "Avengers: Age of Ultron "                                        | 19000           | <https://schema.org/Person>                                                             |
+| "Avengers: Age of Ultron "                                        | 19000           | <http://www.semanticweb.org/rohanchhokra/ontologies/2019/2/oscar-ontology#SupportActor> |
+| "Avengers: Age of Ultron "                                        | 19000           | <http://www.semanticweb.org/rohanchhokra/ontologies/2019/2/oscar-ontology#Actor>        |
+| "Avengers: Age of Ultron "                                        | 21000           | <http://www.semanticweb.org/rohanchhokra/ontologies/2019/2/oscar-ontology#FilmCrew>     |
+| "Avengers: Age of Ultron "                                        | 21000           | <https://schema.org/Person>                                                             |
+| "Avengers: Age of Ultron "                                        | 21000           | <http://www.semanticweb.org/rohanchhokra/ontologies/2019/2/oscar-ontology#SupportActor> |
+| "Avengers: Age of Ultron "                                        | 21000           | <http://www.semanticweb.org/rohanchhokra/ontologies/2019/2/oscar-ontology#Actor>        |
+| "Harry Potter and the Half-Blood Prince "                         | 282             | <http://www.semanticweb.org/rohanchhokra/ontologies/2019/2/oscar-ontology#Director>     |
+| "Harry Potter and the Half-Blood Prince "                         | 282             | <http://www.semanticweb.org/rohanchhokra/ontologies/2019/2/oscar-ontology#FilmCrew>     |
+| "Harry Potter and the Half-Blood Prince "                         | 282             | <https://schema.org/Person>                                                             |
+| "Harry Potter and the Half-Blood Prince "                         | 10000           | <http://www.semanticweb.org/rohanchhokra/ontologies/2019/2/oscar-ontology#FilmCrew>     |
+| "Harry Potter and the Half-Blood Prince "                         | 10000           | <https://schema.org/Person>                                                             |
+| "Harry Potter and the Half-Blood Prince "                         | 10000           | <http://www.semanticweb.org/rohanchhokra/ontologies/2019/2/oscar-ontology#SupportActor> |
+| "Harry Potter and the Half-Blood Prince "                         | 10000           | <http://www.semanticweb.org/rohanchhokra/ontologies/2019/2/oscar-ontology#Actor>        |
+| "Harry Potter and the Half-Blood Prince "                         | 10000           | <http://www.semanticweb.org/rohanchhokra/ontologies/2019/2/oscar-ontology#FilmCrew>     |
+| "Harry Potter and the Half-Blood Prince "                         | 10000           | <https://schema.org/Person>                                                             |
+| "Harry Potter and the Half-Blood Prince "                         | 10000           | <http://www.semanticweb.org/rohanchhokra/ontologies/2019/2/oscar-ontology#SupportActor> |
+| "Harry Potter and the Half-Blood Prince "                         | 10000           | <http://www.semanticweb.org/rohanchhokra/ontologies/2019/2/oscar-ontology#Actor>        |
+| "Harry Potter and the Half-Blood Prince "                         | 11000           | <http://www.semanticweb.org/rohanchhokra/ontologies/2019/2/oscar-ontology#FilmCrew>     |
+| "Harry Potter and the Half-Blood Prince "                         | 11000           | <https://schema.org/Person>                                                             |
+| "Harry Potter and the Half-Blood Prince "                         | 11000           | <http://www.semanticweb.org/rohanchhokra/ontologies/2019/2/oscar-ontology#SupportActor> |
+| "Harry Potter and the Half-Blood Prince "                         | 11000           | <http://www.semanticweb.org/rohanchhokra/ontologies/2019/2/oscar-ontology#Actor>        |
+| "Batman v Superman: Dawn of Justice "                             | 0               | <http://www.semanticweb.org/rohanchhokra/ontologies/2019/2/oscar-ontology#Director>     |
+| "Batman v Superman: Dawn of Justice "                             | 0               | <http://www.semanticweb.org/rohanchhokra/ontologies/2019/2/oscar-ontology#FilmCrew>     |
+| "Batman v Superman: Dawn of Justice "                             | 0               | <https://schema.org/Person>                                                             |
+| "Batman v Superman: Dawn of Justice "                             | 2000            | <http://www.semanticweb.org/rohanchhokra/ontologies/2019/2/oscar-ontology#FilmCrew>     |
+| "Batman v Superman: Dawn of Justice "                             | 2000            | <https://schema.org/Person>                                                             |
+| "Batman v Superman: Dawn of Justice "                             | 2000            | <http://www.semanticweb.org/rohanchhokra/ontologies/2019/2/oscar-ontology#SupportActor> |
+| "Batman v Superman: Dawn of Justice "                             | 2000            | <http://www.semanticweb.org/rohanchhokra/ontologies/2019/2/oscar-ontology#Actor>        |
+| "Batman v Superman: Dawn of Justice "                             | 2000            | <http://www.semanticweb.org/rohanchhokra/ontologies/2019/2/oscar-ontology#FilmCrew>     |
+| "Batman v Superman: Dawn of Justice "                             | 2000            | <https://schema.org/Person>                                                             |
+| "Batman v Superman: Dawn of Justice "                             | 2000            | <http://www.semanticweb.org/rohanchhokra/ontologies/2019/2/oscar-ontology#SupportActor> |
+| "Batman v Superman: Dawn of Justice "                             | 2000            | <http://www.semanticweb.org/rohanchhokra/ontologies/2019/2/oscar-ontology#Actor>        |
+| "Batman v Superman: Dawn of Justice "                             | 4000            | <http://www.semanticweb.org/rohanchhokra/ontologies/2019/2/oscar-ontology#FilmCrew>     |
+| "Batman v Superman: Dawn of Justice "                             | 4000            | <https://schema.org/Person>                                                             |
+| "Batman v Superman: Dawn of Justice "                             | 4000            | <http://www.semanticweb.org/rohanchhokra/ontologies/2019/2/oscar-ontology#SupportActor> |
+| "Batman v Superman: Dawn of Justice "                             | 4000            | <http://www.semanticweb.org/rohanchhokra/ontologies/2019/2/oscar-ontology#Actor>        |
+| "Superman Returns "                                               | 0               | <http://www.semanticweb.org/rohanchhokra/ontologies/2019/2/oscar-ontology#Director>     |
+| "Superman Returns "                                               | 0               | <http://www.semanticweb.org/rohanchhokra/ontologies/2019/2/oscar-ontology#FilmCrew>     |
+| "Superman Returns "                                               | 0               | <https://schema.org/Person>                                                             |
+| "Superman Returns "                                               | 903             | <http://www.semanticweb.org/rohanchhokra/ontologies/2019/2/oscar-ontology#FilmCrew>     |
+| "Superman Returns "                                               | 903             | <https://schema.org/Person>                                                             |
+| "Superman Returns "                                               | 903             | <http://www.semanticweb.org/rohanchhokra/ontologies/2019/2/oscar-ontology#SupportActor> |
+| "Superman Returns "                                               | 903             | <http://www.semanticweb.org/rohanchhokra/ontologies/2019/2/oscar-ontology#Actor>        |
+| "Superman Returns "                                               | 903             | <http://www.semanticweb.org/rohanchhokra/ontologies/2019/2/oscar-ontology#FilmCrew>     |
+| "Superman Returns "                                               | 903             | <https://schema.org/Person>                                                             |
+| "Superman Returns "                                               | 903             | <http://www.semanticweb.org/rohanchhokra/ontologies/2019/2/oscar-ontology#SupportActor> |
+| "Superman Returns "                                               | 903             | <http://www.semanticweb.org/rohanchhokra/ontologies/2019/2/oscar-ontology#Actor>        |
+| "Superman Returns "                                               | 10000           | <http://www.semanticweb.org/rohanchhokra/ontologies/2019/2/oscar-ontology#FilmCrew>     |
+| "Superman Returns "                                               | 10000           | <https://schema.org/Person>                                                             |
+| "Superman Returns "                                               | 10000           | <http://www.semanticweb.org/rohanchhokra/ontologies/2019/2/oscar-ontology#SupportActor> |
+| "Superman Returns "                                               | 10000           | <http://www.semanticweb.org/rohanchhokra/ontologies/2019/2/oscar-ontology#Actor>        |
+| "Quantum of Solace "                                              | 395             | <http://www.semanticweb.org/rohanchhokra/ontologies/2019/2/oscar-ontology#Director>     |
+| "Quantum of Solace "                                              | 395             | <http://www.semanticweb.org/rohanchhokra/ontologies/2019/2/oscar-ontology#FilmCrew>     |
+| "Quantum of Solace "                                              | 395             | <https://schema.org/Person>                                                             |
+| "Quantum of Solace "                                              | 393             | <http://www.semanticweb.org/rohanchhokra/ontologies/2019/2/oscar-ontology#FilmCrew>     |
+| "Quantum of Solace "                                              | 393             | <https://schema.org/Person>                                                             |
+| "Quantum of Solace "                                              | 393             | <http://www.semanticweb.org/rohanchhokra/ontologies/2019/2/oscar-ontology#SupportActor> |
+| "Quantum of Solace "                                              | 393             | <http://www.semanticweb.org/rohanchhokra/ontologies/2019/2/oscar-ontology#Actor>        |
+| "Quantum of Solace "                                              | 393             | <http://www.semanticweb.org/rohanchhokra/ontologies/2019/2/oscar-ontology#FilmCrew>     |
+| "Quantum of Solace "                                              | 393             | <https://schema.org/Person>                                                             |
+| "Quantum of Solace "                                              | 393             | <http://www.semanticweb.org/rohanchhokra/ontologies/2019/2/oscar-ontology#SupportActor> |
+| "Quantum of Solace "                                              | 393             | <http://www.semanticweb.org/rohanchhokra/ontologies/2019/2/oscar-ontology#Actor>        |
+| "Quantum of Solace "                                              | 412             | <http://www.semanticweb.org/rohanchhokra/ontologies/2019/2/oscar-ontology#FilmCrew>     |
+| "Quantum of Solace "                                              | 412             | <https://schema.org/Person>                                                             |
+| "Quantum of Solace "                                              | 412             | <http://www.semanticweb.org/rohanchhokra/ontologies/2019/2/oscar-ontology#SupportActor> |
+| "Quantum of Solace "                                              | 412             | <http://www.semanticweb.org/rohanchhokra/ontologies/2019/2/oscar-ontology#Actor>        |
+| "Pirates of the Caribbean: Dead Man's Chest "                     | 563             | <http://www.semanticweb.org/rohanchhokra/ontologies/2019/2/oscar-ontology#Director>     |
+| "Pirates of the Caribbean: Dead Man's Chest "                     | 563             | <http://www.semanticweb.org/rohanchhokra/ontologies/2019/2/oscar-ontology#FilmCrew>     |
+| "Pirates of the Caribbean: Dead Man's Chest "                     | 563             | <https://schema.org/Person>                                                             |
+| "Pirates of the Caribbean: Dead Man's Chest "                     | 1000            | <http://www.semanticweb.org/rohanchhokra/ontologies/2019/2/oscar-ontology#FilmCrew>     |
+| "Pirates of the Caribbean: Dead Man's Chest "                     | 1000            | <https://schema.org/Person>                                                             |
+| "Pirates of the Caribbean: Dead Man's Chest "                     | 1000            | <http://www.semanticweb.org/rohanchhokra/ontologies/2019/2/oscar-ontology#SupportActor> |
+| "Pirates of the Caribbean: Dead Man's Chest "                     | 1000            | <http://www.semanticweb.org/rohanchhokra/ontologies/2019/2/oscar-ontology#Actor>        |
+| "Pirates of the Caribbean: Dead Man's Chest "                     | 1000            | <http://www.semanticweb.org/rohanchhokra/ontologies/2019/2/oscar-ontology#FilmCrew>     |
+| "Pirates of the Caribbean: Dead Man's Chest "                     | 1000            | <https://schema.org/Person>                                                             |
+| "Pirates of the Caribbean: Dead Man's Chest "                     | 1000            | <http://www.semanticweb.org/rohanchhokra/ontologies/2019/2/oscar-ontology#SupportActor> |
+| "Pirates of the Caribbean: Dead Man's Chest "                     | 1000            | <http://www.semanticweb.org/rohanchhokra/ontologies/2019/2/oscar-ontology#Actor>        |
+| "Pirates of the Caribbean: Dead Man's Chest "                     | 5000            | <http://www.semanticweb.org/rohanchhokra/ontologies/2019/2/oscar-ontology#FilmCrew>     |
+| "Pirates of the Caribbean: Dead Man's Chest "                     | 5000            | <https://schema.org/Person>                                                             |
+| "Pirates of the Caribbean: Dead Man's Chest "                     | 5000            | <http://www.semanticweb.org/rohanchhokra/ontologies/2019/2/oscar-ontology#SupportActor> |
+| "Pirates of the Caribbean: Dead Man's Chest "                     | 5000            | <http://www.semanticweb.org/rohanchhokra/ontologies/2019/2/oscar-ontology#Actor>        |
+| "The Lone Ranger "                                                | 563             | <http://www.semanticweb.org/rohanchhokra/ontologies/2019/2/oscar-ontology#Director>     |
+| "The Lone Ranger "                                                | 563             | <http://www.semanticweb.org/rohanchhokra/ontologies/2019/2/oscar-ontology#FilmCrew>     |
+| "The Lone Ranger "                                                | 563             | <https://schema.org/Person>                                                             |
+| "The Lone Ranger "                                                | 1000            | <http://www.semanticweb.org/rohanchhokra/ontologies/2019/2/oscar-ontology#FilmCrew>     |
+| "The Lone Ranger "                                                | 1000            | <https://schema.org/Person>                                                             |
+| "The Lone Ranger "                                                | 1000            | <http://www.semanticweb.org/rohanchhokra/ontologies/2019/2/oscar-ontology#SupportActor> |
+| "The Lone Ranger "                                                | 1000            | <http://www.semanticweb.org/rohanchhokra/ontologies/2019/2/oscar-ontology#Actor>        |
+| "The Lone Ranger "                                                | 1000            | <http://www.semanticweb.org/rohanchhokra/ontologies/2019/2/oscar-ontology#FilmCrew>     |
+| "The Lone Ranger "                                                | 1000            | <https://schema.org/Person>                                                             |
+| "The Lone Ranger "                                                | 1000            | <http://www.semanticweb.org/rohanchhokra/ontologies/2019/2/oscar-ontology#SupportActor> |
+| "The Lone Ranger "                                                | 1000            | <http://www.semanticweb.org/rohanchhokra/ontologies/2019/2/oscar-ontology#Actor>        |
+| "The Lone Ranger "                                                | 2000            | <http://www.semanticweb.org/rohanchhokra/ontologies/2019/2/oscar-ontology#FilmCrew>     |
+| "The Lone Ranger "                                                | 2000            | <https://schema.org/Person>                                                             |
+| "The Lone Ranger "                                                | 2000            | <http://www.semanticweb.org/rohanchhokra/ontologies/2019/2/oscar-ontology#SupportActor> |
+| "The Lone Ranger "                                                | 2000            | <http://www.semanticweb.org/rohanchhokra/ontologies/2019/2/oscar-ontology#Actor>        |
+| "Man of Steel "                                                   | 0               | <http://www.semanticweb.org/rohanchhokra/ontologies/2019/2/oscar-ontology#Director>     |
+| "Man of Steel "                                                   | 0               | <http://www.semanticweb.org/rohanchhokra/ontologies/2019/2/oscar-ontology#FilmCrew>     |
+| "Man of Steel "                                                   | 0               | <https://schema.org/Person>                                                             |
+| "Man of Steel "                                                   | 748             | <http://www.semanticweb.org/rohanchhokra/ontologies/2019/2/oscar-ontology#FilmCrew>     |
+| "Man of Steel "                                                   | 748             | <https://schema.org/Person>                                                             |
+| "Man of Steel "                                                   | 748             | <http://www.semanticweb.org/rohanchhokra/ontologies/2019/2/oscar-ontology#SupportActor> |
+| "Man of Steel "                                                   | 748             | <http://www.semanticweb.org/rohanchhokra/ontologies/2019/2/oscar-ontology#Actor>        |
+| "Man of Steel "                                                   | 748             | <http://www.semanticweb.org/rohanchhokra/ontologies/2019/2/oscar-ontology#FilmCrew>     |
+| "Man of Steel "                                                   | 748             | <https://schema.org/Person>                                                             |
+| "Man of Steel "                                                   | 748             | <http://www.semanticweb.org/rohanchhokra/ontologies/2019/2/oscar-ontology#SupportActor> |
+| "Man of Steel "                                                   | 748             | <http://www.semanticweb.org/rohanchhokra/ontologies/2019/2/oscar-ontology#Actor>        |
+| "Man of Steel "                                                   | 3000            | <http://www.semanticweb.org/rohanchhokra/ontologies/2019/2/oscar-ontology#FilmCrew>     |
+| "Man of Steel "                                                   | 3000            | <https://schema.org/Person>                                                             |
+| "Man of Steel "                                                   | 3000            | <http://www.semanticweb.org/rohanchhokra/ontologies/2019/2/oscar-ontology#SupportActor> |
+| "Man of Steel "                                                   | 3000            | <http://www.semanticweb.org/rohanchhokra/ontologies/2019/2/oscar-ontology#Actor>        |
+| "The Chronicles of Narnia: Prince Caspian "                       | 80              | <http://www.semanticweb.org/rohanchhokra/ontologies/2019/2/oscar-ontology#Director>     |
+| "The Chronicles of Narnia: Prince Caspian "                       | 80              | <http://www.semanticweb.org/rohanchhokra/ontologies/2019/2/oscar-ontology#FilmCrew>     |
+| "The Chronicles of Narnia: Prince Caspian "                       | 80              | <https://schema.org/Person>                                                             |
+| "The Chronicles of Narnia: Prince Caspian "                       | 201             | <http://www.semanticweb.org/rohanchhokra/ontologies/2019/2/oscar-ontology#FilmCrew>     |
+| "The Chronicles of Narnia: Prince Caspian "                       | 201             | <https://schema.org/Person>                                                             |
+| "The Chronicles of Narnia: Prince Caspian "                       | 201             | <http://www.semanticweb.org/rohanchhokra/ontologies/2019/2/oscar-ontology#SupportActor> |
+| "The Chronicles of Narnia: Prince Caspian "                       | 201             | <http://www.semanticweb.org/rohanchhokra/ontologies/2019/2/oscar-ontology#Actor>        |
+| "The Chronicles of Narnia: Prince Caspian "                       | 201             | <http://www.semanticweb.org/rohanchhokra/ontologies/2019/2/oscar-ontology#FilmCrew>     |
+| "The Chronicles of Narnia: Prince Caspian "                       | 201             | <https://schema.org/Person>                                                             |
+| "The Chronicles of Narnia: Prince Caspian "                       | 201             | <http://www.semanticweb.org/rohanchhokra/ontologies/2019/2/oscar-ontology#SupportActor> |
+| "The Chronicles of Narnia: Prince Caspian "                       | 201             | <http://www.semanticweb.org/rohanchhokra/ontologies/2019/2/oscar-ontology#Actor>        |
+| "The Chronicles of Narnia: Prince Caspian "                       | 216             | <http://www.semanticweb.org/rohanchhokra/ontologies/2019/2/oscar-ontology#FilmCrew>     |
+| "The Chronicles of Narnia: Prince Caspian "                       | 216             | <https://schema.org/Person>                                                             |
+| "The Chronicles of Narnia: Prince Caspian "                       | 216             | <http://www.semanticweb.org/rohanchhokra/ontologies/2019/2/oscar-ontology#SupportActor> |
+| "The Chronicles of Narnia: Prince Caspian "                       | 216             | <http://www.semanticweb.org/rohanchhokra/ontologies/2019/2/oscar-ontology#Actor>        |
+| "The Avengers "                                                   | 0               | <http://www.semanticweb.org/rohanchhokra/ontologies/2019/2/oscar-ontology#Director>     |
+| "The Avengers "                                                   | 0               | <http://www.semanticweb.org/rohanchhokra/ontologies/2019/2/oscar-ontology#FilmCrew>     |
+| "The Avengers "                                                   | 0               | <https://schema.org/Person>                                                             |
+| "The Avengers "                                                   | 19000           | <http://www.semanticweb.org/rohanchhokra/ontologies/2019/2/oscar-ontology#FilmCrew>     |
+| "The Avengers "                                                   | 19000           | <https://schema.org/Person>                                                             |
+| "The Avengers "                                                   | 19000           | <http://www.semanticweb.org/rohanchhokra/ontologies/2019/2/oscar-ontology#SupportActor> |
+| "The Avengers "                                                   | 19000           | <http://www.semanticweb.org/rohanchhokra/ontologies/2019/2/oscar-ontology#Actor>        |
+| "The Avengers "                                                   | 19000           | <http://www.semanticweb.org/rohanchhokra/ontologies/2019/2/oscar-ontology#FilmCrew>     |
+| "The Avengers "                                                   | 19000           | <https://schema.org/Person>                                                             |
+| "The Avengers "                                                   | 19000           | <http://www.semanticweb.org/rohanchhokra/ontologies/2019/2/oscar-ontology#SupportActor> |
+| "The Avengers "                                                   | 19000           | <http://www.semanticweb.org/rohanchhokra/ontologies/2019/2/oscar-ontology#Actor>        |
+| "The Avengers "                                                   | 21000           | <http://www.semanticweb.org/rohanchhokra/ontologies/2019/2/oscar-ontology#FilmCrew>     |
+| "The Avengers "                                                   | 21000           | <https://schema.org/Person>                                                             |
+| "The Avengers "                                                   | 21000           | <http://www.semanticweb.org/rohanchhokra/ontologies/2019/2/oscar-ontology#SupportActor> |
+| "The Avengers "                                                   | 21000           | <http://www.semanticweb.org/rohanchhokra/ontologies/2019/2/oscar-ontology#Actor>        |
+| "Pirates of the Caribbean: On Stranger Tides "                    | 252             | <http://www.semanticweb.org/rohanchhokra/ontologies/2019/2/oscar-ontology#Director>     |
+| "Pirates of the Caribbean: On Stranger Tides "                    | 252             | <http://www.semanticweb.org/rohanchhokra/ontologies/2019/2/oscar-ontology#FilmCrew>     |
+| "Pirates of the Caribbean: On Stranger Tides "                    | 252             | <https://schema.org/Person>                                                             |
+| "Pirates of the Caribbean: On Stranger Tides "                    | 1000            | <http://www.semanticweb.org/rohanchhokra/ontologies/2019/2/oscar-ontology#FilmCrew>     |
+| "Pirates of the Caribbean: On Stranger Tides "                    | 1000            | <https://schema.org/Person>                                                             |
+| "Pirates of the Caribbean: On Stranger Tides "                    | 1000            | <http://www.semanticweb.org/rohanchhokra/ontologies/2019/2/oscar-ontology#SupportActor> |
+| "Pirates of the Caribbean: On Stranger Tides "                    | 1000            | <http://www.semanticweb.org/rohanchhokra/ontologies/2019/2/oscar-ontology#Actor>        |
+| "Pirates of the Caribbean: On Stranger Tides "                    | 1000            | <http://www.semanticweb.org/rohanchhokra/ontologies/2019/2/oscar-ontology#FilmCrew>     |
+| "Pirates of the Caribbean: On Stranger Tides "                    | 1000            | <https://schema.org/Person>                                                             |
+| "Pirates of the Caribbean: On Stranger Tides "                    | 1000            | <http://www.semanticweb.org/rohanchhokra/ontologies/2019/2/oscar-ontology#SupportActor> |
+| "Pirates of the Caribbean: On Stranger Tides "                    | 1000            | <http://www.semanticweb.org/rohanchhokra/ontologies/2019/2/oscar-ontology#Actor>        |
+| "Pirates of the Caribbean: On Stranger Tides "                    | 11000           | <http://www.semanticweb.org/rohanchhokra/ontologies/2019/2/oscar-ontology#FilmCrew>     |
+| "Pirates of the Caribbean: On Stranger Tides "                    | 11000           | <https://schema.org/Person>                                                             |
+| "Pirates of the Caribbean: On Stranger Tides "                    | 11000           | <http://www.semanticweb.org/rohanchhokra/ontologies/2019/2/oscar-ontology#SupportActor> |
+| "Pirates of the Caribbean: On Stranger Tides "                    | 11000           | <http://www.semanticweb.org/rohanchhokra/ontologies/2019/2/oscar-ontology#Actor>        |
+| "Men in Black 3 "                                                 | 188             | <http://www.semanticweb.org/rohanchhokra/ontologies/2019/2/oscar-ontology#Director>     |
+| "Men in Black 3 "                                                 | 188             | <http://www.semanticweb.org/rohanchhokra/ontologies/2019/2/oscar-ontology#FilmCrew>     |
+| "Men in Black 3 "                                                 | 188             | <https://schema.org/Person>                                                             |
+| "Men in Black 3 "                                                 | 718             | <http://www.semanticweb.org/rohanchhokra/ontologies/2019/2/oscar-ontology#FilmCrew>     |
+| "Men in Black 3 "                                                 | 718             | <https://schema.org/Person>                                                             |
+| "Men in Black 3 "                                                 | 718             | <http://www.semanticweb.org/rohanchhokra/ontologies/2019/2/oscar-ontology#SupportActor> |
+| "Men in Black 3 "                                                 | 718             | <http://www.semanticweb.org/rohanchhokra/ontologies/2019/2/oscar-ontology#Actor>        |
+| "Men in Black 3 "                                                 | 718             | <http://www.semanticweb.org/rohanchhokra/ontologies/2019/2/oscar-ontology#FilmCrew>     |
+| "Men in Black 3 "                                                 | 718             | <https://schema.org/Person>                                                             |
+| "Men in Black 3 "                                                 | 718             | <http://www.semanticweb.org/rohanchhokra/ontologies/2019/2/oscar-ontology#SupportActor> |
+| "Men in Black 3 "                                                 | 718             | <http://www.semanticweb.org/rohanchhokra/ontologies/2019/2/oscar-ontology#Actor>        |
+| "Men in Black 3 "                                                 | 816             | <http://www.semanticweb.org/rohanchhokra/ontologies/2019/2/oscar-ontology#FilmCrew>     |
+| "Men in Black 3 "                                                 | 816             | <https://schema.org/Person>                                                             |
+| "Men in Black 3 "                                                 | 816             | <http://www.semanticweb.org/rohanchhokra/ontologies/2019/2/oscar-ontology#SupportActor> |
+| "Men in Black 3 "                                                 | 816             | <http://www.semanticweb.org/rohanchhokra/ontologies/2019/2/oscar-ontology#Actor>        |
+| "The Hobbit: The Battle of the Five Armies "                      | 0               | <http://www.semanticweb.org/rohanchhokra/ontologies/2019/2/oscar-ontology#Director>     |
+| "The Hobbit: The Battle of the Five Armies "                      | 0               | <http://www.semanticweb.org/rohanchhokra/ontologies/2019/2/oscar-ontology#FilmCrew>     |
+| "The Hobbit: The Battle of the Five Armies "                      | 0               | <https://schema.org/Person>                                                             |
+| "The Hobbit: The Battle of the Five Armies "                      | 773             | <http://www.semanticweb.org/rohanchhokra/ontologies/2019/2/oscar-ontology#FilmCrew>     |
+| "The Hobbit: The Battle of the Five Armies "                      | 773             | <https://schema.org/Person>                                                             |
+| "The Hobbit: The Battle of the Five Armies "                      | 773             | <http://www.semanticweb.org/rohanchhokra/ontologies/2019/2/oscar-ontology#SupportActor> |
+| "The Hobbit: The Battle of the Five Armies "                      | 773             | <http://www.semanticweb.org/rohanchhokra/ontologies/2019/2/oscar-ontology#Actor>        |
+| "The Hobbit: The Battle of the Five Armies "                      | 773             | <http://www.semanticweb.org/rohanchhokra/ontologies/2019/2/oscar-ontology#FilmCrew>     |
+| "The Hobbit: The Battle of the Five Armies "                      | 773             | <https://schema.org/Person>                                                             |
+| "The Hobbit: The Battle of the Five Armies "                      | 773             | <http://www.semanticweb.org/rohanchhokra/ontologies/2019/2/oscar-ontology#SupportActor> |
+| "The Hobbit: The Battle of the Five Armies "                      | 773             | <http://www.semanticweb.org/rohanchhokra/ontologies/2019/2/oscar-ontology#Actor>        |
+| "The Hobbit: The Battle of the Five Armies "                      | 972             | <http://www.semanticweb.org/rohanchhokra/ontologies/2019/2/oscar-ontology#FilmCrew>     |
+| "The Hobbit: The Battle of the Five Armies "                      | 972             | <https://schema.org/Person>                                                             |
+| "The Hobbit: The Battle of the Five Armies "                      | 972             | <http://www.semanticweb.org/rohanchhokra/ontologies/2019/2/oscar-ontology#SupportActor> |
+| "The Hobbit: The Battle of the Five Armies "                      | 972             | <http://www.semanticweb.org/rohanchhokra/ontologies/2019/2/oscar-ontology#Actor>        |
+| "The Amazing Spider-Man "                                         | 464             | <http://www.semanticweb.org/rohanchhokra/ontologies/2019/2/oscar-ontology#Director>     |
+| "The Amazing Spider-Man "                                         | 464             | <http://www.semanticweb.org/rohanchhokra/ontologies/2019/2/oscar-ontology#FilmCrew>     |
+| "The Amazing Spider-Man "                                         | 464             | <https://schema.org/Person>                                                             |
+| "The Amazing Spider-Man "                                         | 963             | <http://www.semanticweb.org/rohanchhokra/ontologies/2019/2/oscar-ontology#FilmCrew>     |
+| "The Amazing Spider-Man "                                         | 963             | <https://schema.org/Person>                                                             |
+| "The Amazing Spider-Man "                                         | 963             | <http://www.semanticweb.org/rohanchhokra/ontologies/2019/2/oscar-ontology#SupportActor> |
+| "The Amazing Spider-Man "                                         | 963             | <http://www.semanticweb.org/rohanchhokra/ontologies/2019/2/oscar-ontology#Actor>        |
+| "The Amazing Spider-Man "                                         | 963             | <http://www.semanticweb.org/rohanchhokra/ontologies/2019/2/oscar-ontology#FilmCrew>     |
+| "The Amazing Spider-Man "                                         | 963             | <https://schema.org/Person>                                                             |
+| "The Amazing Spider-Man "                                         | 963             | <http://www.semanticweb.org/rohanchhokra/ontologies/2019/2/oscar-ontology#SupportActor> |
+| "The Amazing Spider-Man "                                         | 963             | <http://www.semanticweb.org/rohanchhokra/ontologies/2019/2/oscar-ontology#Actor>        |
+| "The Amazing Spider-Man "                                         | 10000           | <http://www.semanticweb.org/rohanchhokra/ontologies/2019/2/oscar-ontology#FilmCrew>     |
+| "The Amazing Spider-Man "                                         | 10000           | <https://schema.org/Person>                                                             |
+| "The Amazing Spider-Man "                                         | 10000           | <http://www.semanticweb.org/rohanchhokra/ontologies/2019/2/oscar-ontology#SupportActor> |
+| "The Amazing Spider-Man "                                         | 10000           | <http://www.semanticweb.org/rohanchhokra/ontologies/2019/2/oscar-ontology#Actor>        |
+| "Robin Hood "                                                     | 0               | <http://www.semanticweb.org/rohanchhokra/ontologies/2019/2/oscar-ontology#Director>     |
+| "Robin Hood "                                                     | 0               | <http://www.semanticweb.org/rohanchhokra/ontologies/2019/2/oscar-ontology#FilmCrew>     |
+| "Robin Hood "                                                     | 0               | <https://schema.org/Person>                                                             |
+| "Robin Hood "                                                     | 738             | <http://www.semanticweb.org/rohanchhokra/ontologies/2019/2/oscar-ontology#FilmCrew>     |
+| "Robin Hood "                                                     | 738             | <https://schema.org/Person>                                                             |
+| "Robin Hood "                                                     | 738             | <http://www.semanticweb.org/rohanchhokra/ontologies/2019/2/oscar-ontology#SupportActor> |
+| "Robin Hood "                                                     | 738             | <http://www.semanticweb.org/rohanchhokra/ontologies/2019/2/oscar-ontology#Actor>        |
+| "Robin Hood "                                                     | 738             | <http://www.semanticweb.org/rohanchhokra/ontologies/2019/2/oscar-ontology#FilmCrew>     |
+| "Robin Hood "                                                     | 738             | <https://schema.org/Person>                                                             |
+| "Robin Hood "                                                     | 738             | <http://www.semanticweb.org/rohanchhokra/ontologies/2019/2/oscar-ontology#SupportActor> |
+| "Robin Hood "                                                     | 738             | <http://www.semanticweb.org/rohanchhokra/ontologies/2019/2/oscar-ontology#Actor>        |
+| "Robin Hood "                                                     | 882             | <http://www.semanticweb.org/rohanchhokra/ontologies/2019/2/oscar-ontology#FilmCrew>     |
+| "Robin Hood "                                                     | 882             | <https://schema.org/Person>                                                             |
+| "Robin Hood "                                                     | 882             | <http://www.semanticweb.org/rohanchhokra/ontologies/2019/2/oscar-ontology#SupportActor> |
+| "Robin Hood "                                                     | 882             | <http://www.semanticweb.org/rohanchhokra/ontologies/2019/2/oscar-ontology#Actor>        |
+| "The Hobbit: The Desolation of Smaug "                            | 0               | <http://www.semanticweb.org/rohanchhokra/ontologies/2019/2/oscar-ontology#Director>     |
+| "The Hobbit: The Desolation of Smaug "                            | 0               | <http://www.semanticweb.org/rohanchhokra/ontologies/2019/2/oscar-ontology#FilmCrew>     |
+| "The Hobbit: The Desolation of Smaug "                            | 0               | <https://schema.org/Person>                                                             |
+| "The Hobbit: The Desolation of Smaug "                            | 773             | <http://www.semanticweb.org/rohanchhokra/ontologies/2019/2/oscar-ontology#FilmCrew>     |
+| "The Hobbit: The Desolation of Smaug "                            | 773             | <https://schema.org/Person>                                                             |
+| "The Hobbit: The Desolation of Smaug "                            | 773             | <http://www.semanticweb.org/rohanchhokra/ontologies/2019/2/oscar-ontology#SupportActor> |
+| "The Hobbit: The Desolation of Smaug "                            | 773             | <http://www.semanticweb.org/rohanchhokra/ontologies/2019/2/oscar-ontology#Actor>        |
+| "The Hobbit: The Desolation of Smaug "                            | 773             | <http://www.semanticweb.org/rohanchhokra/ontologies/2019/2/oscar-ontology#FilmCrew>     |
+| "The Hobbit: The Desolation of Smaug "                            | 773             | <https://schema.org/Person>                                                             |
+| "The Hobbit: The Desolation of Smaug "                            | 773             | <http://www.semanticweb.org/rohanchhokra/ontologies/2019/2/oscar-ontology#SupportActor> |
+| "The Hobbit: The Desolation of Smaug "                            | 773             | <http://www.semanticweb.org/rohanchhokra/ontologies/2019/2/oscar-ontology#Actor>        |
+| "The Hobbit: The Desolation of Smaug "                            | 972             | <http://www.semanticweb.org/rohanchhokra/ontologies/2019/2/oscar-ontology#FilmCrew>     |
+| "The Hobbit: The Desolation of Smaug "                            | 972             | <https://schema.org/Person>                                                             |
+| "The Hobbit: The Desolation of Smaug "                            | 972             | <http://www.semanticweb.org/rohanchhokra/ontologies/2019/2/oscar-ontology#SupportActor> |
+| "The Hobbit: The Desolation of Smaug "                            | 972             | <http://www.semanticweb.org/rohanchhokra/ontologies/2019/2/oscar-ontology#Actor>        |
+| "The Golden Compass "                                             | 129             | <http://www.semanticweb.org/rohanchhokra/ontologies/2019/2/oscar-ontology#Director>     |
+| "The Golden Compass "                                             | 129             | <http://www.semanticweb.org/rohanchhokra/ontologies/2019/2/oscar-ontology#FilmCrew>     |
+| "The Golden Compass "                                             | 129             | <https://schema.org/Person>                                                             |
+| "The Golden Compass "                                             | 1000            | <http://www.semanticweb.org/rohanchhokra/ontologies/2019/2/oscar-ontology#FilmCrew>     |
+| "The Golden Compass "                                             | 1000            | <https://schema.org/Person>                                                             |
+| "The Golden Compass "                                             | 1000            | <http://www.semanticweb.org/rohanchhokra/ontologies/2019/2/oscar-ontology#SupportActor> |
+| "The Golden Compass "                                             | 1000            | <http://www.semanticweb.org/rohanchhokra/ontologies/2019/2/oscar-ontology#Actor>        |
+| "The Golden Compass "                                             | 1000            | <http://www.semanticweb.org/rohanchhokra/ontologies/2019/2/oscar-ontology#FilmCrew>     |
+| "The Golden Compass "                                             | 1000            | <https://schema.org/Person>                                                             |
+| "The Golden Compass "                                             | 1000            | <http://www.semanticweb.org/rohanchhokra/ontologies/2019/2/oscar-ontology#SupportActor> |
+| "The Golden Compass "                                             | 1000            | <http://www.semanticweb.org/rohanchhokra/ontologies/2019/2/oscar-ontology#Actor>        |
+| "The Golden Compass "                                             | 6000            | <http://www.semanticweb.org/rohanchhokra/ontologies/2019/2/oscar-ontology#FilmCrew>     |
+| "The Golden Compass "                                             | 6000            | <https://schema.org/Person>                                                             |
+| "The Golden Compass "                                             | 6000            | <http://www.semanticweb.org/rohanchhokra/ontologies/2019/2/oscar-ontology#SupportActor> |
+| "The Golden Compass "                                             | 6000            | <http://www.semanticweb.org/rohanchhokra/ontologies/2019/2/oscar-ontology#Actor>        |
+| "King Kong "                                                      | 0               | <http://www.semanticweb.org/rohanchhokra/ontologies/2019/2/oscar-ontology#Director>     |
+| "King Kong "                                                      | 0               | <http://www.semanticweb.org/rohanchhokra/ontologies/2019/2/oscar-ontology#FilmCrew>     |
+| "King Kong "                                                      | 0               | <https://schema.org/Person>                                                             |
+| "King Kong "                                                      | 84              | <http://www.semanticweb.org/rohanchhokra/ontologies/2019/2/oscar-ontology#FilmCrew>     |
+| "King Kong "                                                      | 84              | <https://schema.org/Person>                                                             |
+| "King Kong "                                                      | 84              | <http://www.semanticweb.org/rohanchhokra/ontologies/2019/2/oscar-ontology#SupportActor> |
+| "King Kong "                                                      | 84              | <http://www.semanticweb.org/rohanchhokra/ontologies/2019/2/oscar-ontology#Actor>        |
+| "King Kong "                                                      | 84              | <http://www.semanticweb.org/rohanchhokra/ontologies/2019/2/oscar-ontology#FilmCrew>     |
+| "King Kong "                                                      | 84              | <https://schema.org/Person>                                                             |
+| "King Kong "                                                      | 84              | <http://www.semanticweb.org/rohanchhokra/ontologies/2019/2/oscar-ontology#SupportActor> |
+| "King Kong "                                                      | 84              | <http://www.semanticweb.org/rohanchhokra/ontologies/2019/2/oscar-ontology#Actor>        |
+| "King Kong "                                                      | 919             | <http://www.semanticweb.org/rohanchhokra/ontologies/2019/2/oscar-ontology#FilmCrew>     |
+| "King Kong "                                                      | 919             | <https://schema.org/Person>                                                             |
+| "King Kong "                                                      | 919             | <http://www.semanticweb.org/rohanchhokra/ontologies/2019/2/oscar-ontology#SupportActor> |
+| "King Kong "                                                      | 919             | <http://www.semanticweb.org/rohanchhokra/ontologies/2019/2/oscar-ontology#Actor>        |
+| "Titanic "                                                        | 0               | <http://www.semanticweb.org/rohanchhokra/ontologies/2019/2/oscar-ontology#Director>     |
+| "Titanic "                                                        | 0               | <http://www.semanticweb.org/rohanchhokra/ontologies/2019/2/oscar-ontology#FilmCrew>     |
+| "Titanic "                                                        | 0               | <https://schema.org/Person>                                                             |
+| "Titanic "                                                        | 794             | <http://www.semanticweb.org/rohanchhokra/ontologies/2019/2/oscar-ontology#FilmCrew>     |
+| "Titanic "                                                        | 794             | <https://schema.org/Person>                                                             |
+| "Titanic "                                                        | 794             | <http://www.semanticweb.org/rohanchhokra/ontologies/2019/2/oscar-ontology#SupportActor> |
+| "Titanic "                                                        | 794             | <http://www.semanticweb.org/rohanchhokra/ontologies/2019/2/oscar-ontology#Actor>        |
+| "Titanic "                                                        | 794             | <http://www.semanticweb.org/rohanchhokra/ontologies/2019/2/oscar-ontology#FilmCrew>     |
+| "Titanic "                                                        | 794             | <https://schema.org/Person>                                                             |
+| "Titanic "                                                        | 794             | <http://www.semanticweb.org/rohanchhokra/ontologies/2019/2/oscar-ontology#SupportActor> |
+| "Titanic "                                                        | 794             | <http://www.semanticweb.org/rohanchhokra/ontologies/2019/2/oscar-ontology#Actor>        |
+| "Titanic "                                                        | 14000           | <http://www.semanticweb.org/rohanchhokra/ontologies/2019/2/oscar-ontology#FilmCrew>     |
+| "Titanic "                                                        | 14000           | <https://schema.org/Person>                                                             |
+| "Titanic "                                                        | 14000           | <http://www.semanticweb.org/rohanchhokra/ontologies/2019/2/oscar-ontology#SupportActor> |
+| "Titanic "                                                        | 14000           | <http://www.semanticweb.org/rohanchhokra/ontologies/2019/2/oscar-ontology#Actor>        |
+| "Captain America: Civil War "                                     | 94              | <http://www.semanticweb.org/rohanchhokra/ontologies/2019/2/oscar-ontology#Director>     |
+| "Captain America: Civil War "                                     | 94              | <http://www.semanticweb.org/rohanchhokra/ontologies/2019/2/oscar-ontology#FilmCrew>     |
+| "Captain America: Civil War "                                     | 94              | <https://schema.org/Person>                                                             |
+| "Captain America: Civil War "                                     | 11000           | <http://www.semanticweb.org/rohanchhokra/ontologies/2019/2/oscar-ontology#FilmCrew>     |
+| "Captain America: Civil War "                                     | 11000           | <https://schema.org/Person>                                                             |
+| "Captain America: Civil War "                                     | 11000           | <http://www.semanticweb.org/rohanchhokra/ontologies/2019/2/oscar-ontology#SupportActor> |
+| "Captain America: Civil War "                                     | 11000           | <http://www.semanticweb.org/rohanchhokra/ontologies/2019/2/oscar-ontology#Actor>        |
+| "Captain America: Civil War "                                     | 11000           | <http://www.semanticweb.org/rohanchhokra/ontologies/2019/2/oscar-ontology#FilmCrew>     |
+| "Captain America: Civil War "                                     | 11000           | <https://schema.org/Person>                                                             |
+| "Captain America: Civil War "                                     | 11000           | <http://www.semanticweb.org/rohanchhokra/ontologies/2019/2/oscar-ontology#SupportActor> |
+| "Captain America: Civil War "                                     | 11000           | <http://www.semanticweb.org/rohanchhokra/ontologies/2019/2/oscar-ontology#Actor>        |
+| "Captain America: Civil War "                                     | 19000           | <http://www.semanticweb.org/rohanchhokra/ontologies/2019/2/oscar-ontology#FilmCrew>     |
+| "Captain America: Civil War "                                     | 19000           | <https://schema.org/Person>                                                             |
+| "Captain America: Civil War "                                     | 19000           | <http://www.semanticweb.org/rohanchhokra/ontologies/2019/2/oscar-ontology#SupportActor> |
+| "Captain America: Civil War "                                     | 19000           | <http://www.semanticweb.org/rohanchhokra/ontologies/2019/2/oscar-ontology#Actor>        |
+| "Battleship "                                                     | 532             | <http://www.semanticweb.org/rohanchhokra/ontologies/2019/2/oscar-ontology#Director>     |
+| "Battleship "                                                     | 532             | <http://www.semanticweb.org/rohanchhokra/ontologies/2019/2/oscar-ontology#FilmCrew>     |
+| "Battleship "                                                     | 532             | <https://schema.org/Person>                                                             |
+| "Battleship "                                                     | 627             | <http://www.semanticweb.org/rohanchhokra/ontologies/2019/2/oscar-ontology#FilmCrew>     |
+| "Battleship "                                                     | 627             | <https://schema.org/Person>                                                             |
+| "Battleship "                                                     | 627             | <http://www.semanticweb.org/rohanchhokra/ontologies/2019/2/oscar-ontology#SupportActor> |
+| "Battleship "                                                     | 627             | <http://www.semanticweb.org/rohanchhokra/ontologies/2019/2/oscar-ontology#Actor>        |
+| "Battleship "                                                     | 627             | <http://www.semanticweb.org/rohanchhokra/ontologies/2019/2/oscar-ontology#FilmCrew>     |
+| "Battleship "                                                     | 627             | <https://schema.org/Person>                                                             |
+| "Battleship "                                                     | 627             | <http://www.semanticweb.org/rohanchhokra/ontologies/2019/2/oscar-ontology#SupportActor> |
+| "Battleship "                                                     | 627             | <http://www.semanticweb.org/rohanchhokra/ontologies/2019/2/oscar-ontology#Actor>        |
+| "Battleship "                                                     | 10000           | <http://www.semanticweb.org/rohanchhokra/ontologies/2019/2/oscar-ontology#FilmCrew>     |
+| "Battleship "                                                     | 10000           | <https://schema.org/Person>                                                             |
+| "Battleship "                                                     | 10000           | <http://www.semanticweb.org/rohanchhokra/ontologies/2019/2/oscar-ontology#SupportActor> |
+| "Battleship "                                                     | 10000           | <http://www.semanticweb.org/rohanchhokra/ontologies/2019/2/oscar-ontology#Actor>        |
+| "Jurassic World "                                                 | 365             | <http://www.semanticweb.org/rohanchhokra/ontologies/2019/2/oscar-ontology#Director>     |
+| "Jurassic World "                                                 | 365             | <http://www.semanticweb.org/rohanchhokra/ontologies/2019/2/oscar-ontology#FilmCrew>     |
+| "Jurassic World "                                                 | 365             | <https://schema.org/Person>                                                             |
+| "Jurassic World "                                                 | 1000            | <http://www.semanticweb.org/rohanchhokra/ontologies/2019/2/oscar-ontology#FilmCrew>     |
+| "Jurassic World "                                                 | 1000            | <https://schema.org/Person>                                                             |
+| "Jurassic World "                                                 | 1000            | <http://www.semanticweb.org/rohanchhokra/ontologies/2019/2/oscar-ontology#SupportActor> |
+| "Jurassic World "                                                 | 1000            | <http://www.semanticweb.org/rohanchhokra/ontologies/2019/2/oscar-ontology#Actor>        |
+| "Jurassic World "                                                 | 1000            | <http://www.semanticweb.org/rohanchhokra/ontologies/2019/2/oscar-ontology#FilmCrew>     |
+| "Jurassic World "                                                 | 1000            | <https://schema.org/Person>                                                             |
+| "Jurassic World "                                                 | 1000            | <http://www.semanticweb.org/rohanchhokra/ontologies/2019/2/oscar-ontology#SupportActor> |
+| "Jurassic World "                                                 | 1000            | <http://www.semanticweb.org/rohanchhokra/ontologies/2019/2/oscar-ontology#Actor>        |
+| "Jurassic World "                                                 | 2000            | <http://www.semanticweb.org/rohanchhokra/ontologies/2019/2/oscar-ontology#FilmCrew>     |
+| "Jurassic World "                                                 | 2000            | <https://schema.org/Person>                                                             |
+| "Jurassic World "                                                 | 2000            | <http://www.semanticweb.org/rohanchhokra/ontologies/2019/2/oscar-ontology#SupportActor> |
+| "Jurassic World "                                                 | 2000            | <http://www.semanticweb.org/rohanchhokra/ontologies/2019/2/oscar-ontology#Actor>        |
+| "Skyfall "                                                        | 0               | <http://www.semanticweb.org/rohanchhokra/ontologies/2019/2/oscar-ontology#Director>     |
+| "Skyfall "                                                        | 0               | <http://www.semanticweb.org/rohanchhokra/ontologies/2019/2/oscar-ontology#FilmCrew>     |
+| "Skyfall "                                                        | 0               | <https://schema.org/Person>                                                             |
+| "Skyfall "                                                        | 393             | <http://www.semanticweb.org/rohanchhokra/ontologies/2019/2/oscar-ontology#FilmCrew>     |
+| "Skyfall "                                                        | 393             | <https://schema.org/Person>                                                             |
+| "Skyfall "                                                        | 393             | <http://www.semanticweb.org/rohanchhokra/ontologies/2019/2/oscar-ontology#SupportActor> |
+| "Skyfall "                                                        | 393             | <http://www.semanticweb.org/rohanchhokra/ontologies/2019/2/oscar-ontology#Actor>        |
+| "Skyfall "                                                        | 393             | <http://www.semanticweb.org/rohanchhokra/ontologies/2019/2/oscar-ontology#FilmCrew>     |
+| "Skyfall "                                                        | 393             | <https://schema.org/Person>                                                             |
+| "Skyfall "                                                        | 393             | <http://www.semanticweb.org/rohanchhokra/ontologies/2019/2/oscar-ontology#SupportActor> |
+| "Skyfall "                                                        | 393             | <http://www.semanticweb.org/rohanchhokra/ontologies/2019/2/oscar-ontology#Actor>        |
+| "Skyfall "                                                        | 563             | <http://www.semanticweb.org/rohanchhokra/ontologies/2019/2/oscar-ontology#FilmCrew>     |
+| "Skyfall "                                                        | 563             | <https://schema.org/Person>                                                             |
+| "Skyfall "                                                        | 563             | <http://www.semanticweb.org/rohanchhokra/ontologies/2019/2/oscar-ontology#SupportActor> |
+| "Skyfall "                                                        | 563             | <http://www.semanticweb.org/rohanchhokra/ontologies/2019/2/oscar-ontology#Actor>        |
+| "Spider-Man 2 "                                                   | 0               | <http://www.semanticweb.org/rohanchhokra/ontologies/2019/2/oscar-ontology#Director>     |
+| "Spider-Man 2 "                                                   | 0               | <http://www.semanticweb.org/rohanchhokra/ontologies/2019/2/oscar-ontology#FilmCrew>     |
+| "Spider-Man 2 "                                                   | 0               | <https://schema.org/Person>                                                             |
+| "Spider-Man 2 "                                                   | 4000            | <http://www.semanticweb.org/rohanchhokra/ontologies/2019/2/oscar-ontology#FilmCrew>     |
+| "Spider-Man 2 "                                                   | 4000            | <https://schema.org/Person>                                                             |
+| "Spider-Man 2 "                                                   | 4000            | <http://www.semanticweb.org/rohanchhokra/ontologies/2019/2/oscar-ontology#SupportActor> |
+| "Spider-Man 2 "                                                   | 4000            | <http://www.semanticweb.org/rohanchhokra/ontologies/2019/2/oscar-ontology#Actor>        |
+| "Spider-Man 2 "                                                   | 4000            | <http://www.semanticweb.org/rohanchhokra/ontologies/2019/2/oscar-ontology#FilmCrew>     |
+| "Spider-Man 2 "                                                   | 4000            | <https://schema.org/Person>                                                             |
+| "Spider-Man 2 "                                                   | 4000            | <http://www.semanticweb.org/rohanchhokra/ontologies/2019/2/oscar-ontology#SupportActor> |
+| "Spider-Man 2 "                                                   | 4000            | <http://www.semanticweb.org/rohanchhokra/ontologies/2019/2/oscar-ontology#Actor>        |
+| "Spider-Man 2 "                                                   | 11000           | <http://www.semanticweb.org/rohanchhokra/ontologies/2019/2/oscar-ontology#FilmCrew>     |
+| "Spider-Man 2 "                                                   | 11000           | <https://schema.org/Person>                                                             |
+| "Spider-Man 2 "                                                   | 11000           | <http://www.semanticweb.org/rohanchhokra/ontologies/2019/2/oscar-ontology#SupportActor> |
+| "Spider-Man 2 "                                                   | 11000           | <http://www.semanticweb.org/rohanchhokra/ontologies/2019/2/oscar-ontology#Actor>        |
+| "Iron Man 3 "                                                     | 1000            | <http://www.semanticweb.org/rohanchhokra/ontologies/2019/2/oscar-ontology#Director>     |
+| "Iron Man 3 "                                                     | 1000            | <http://www.semanticweb.org/rohanchhokra/ontologies/2019/2/oscar-ontology#FilmCrew>     |
+| "Iron Man 3 "                                                     | 1000            | <https://schema.org/Person>                                                             |
+| "Iron Man 3 "                                                     | 3000            | <http://www.semanticweb.org/rohanchhokra/ontologies/2019/2/oscar-ontology#FilmCrew>     |
+| "Iron Man 3 "                                                     | 3000            | <https://schema.org/Person>                                                             |
+| "Iron Man 3 "                                                     | 3000            | <http://www.semanticweb.org/rohanchhokra/ontologies/2019/2/oscar-ontology#SupportActor> |
+| "Iron Man 3 "                                                     | 3000            | <http://www.semanticweb.org/rohanchhokra/ontologies/2019/2/oscar-ontology#Actor>        |
+| "Iron Man 3 "                                                     | 3000            | <http://www.semanticweb.org/rohanchhokra/ontologies/2019/2/oscar-ontology#FilmCrew>     |
+| "Iron Man 3 "                                                     | 3000            | <https://schema.org/Person>                                                             |
+| "Iron Man 3 "                                                     | 3000            | <http://www.semanticweb.org/rohanchhokra/ontologies/2019/2/oscar-ontology#SupportActor> |
+| "Iron Man 3 "                                                     | 3000            | <http://www.semanticweb.org/rohanchhokra/ontologies/2019/2/oscar-ontology#Actor>        |
+| "Iron Man 3 "                                                     | 4000            | <http://www.semanticweb.org/rohanchhokra/ontologies/2019/2/oscar-ontology#FilmCrew>     |
+| "Iron Man 3 "                                                     | 4000            | <https://schema.org/Person>                                                             |
+| "Iron Man 3 "                                                     | 4000            | <http://www.semanticweb.org/rohanchhokra/ontologies/2019/2/oscar-ontology#SupportActor> |
+| "Iron Man 3 "                                                     | 4000            | <http://www.semanticweb.org/rohanchhokra/ontologies/2019/2/oscar-ontology#Actor>        |
+| "Alice in Wonderland "                                            | 13000           | <http://www.semanticweb.org/rohanchhokra/ontologies/2019/2/oscar-ontology#Director>     |
+| "Alice in Wonderland "                                            | 13000           | <http://www.semanticweb.org/rohanchhokra/ontologies/2019/2/oscar-ontology#FilmCrew>     |
+| "Alice in Wonderland "                                            | 13000           | <https://schema.org/Person>                                                             |
+| "Alice in Wonderland "                                            | 11000           | <http://www.semanticweb.org/rohanchhokra/ontologies/2019/2/oscar-ontology#FilmCrew>     |
+| "Alice in Wonderland "                                            | 11000           | <https://schema.org/Person>                                                             |
+| "Alice in Wonderland "                                            | 11000           | <http://www.semanticweb.org/rohanchhokra/ontologies/2019/2/oscar-ontology#SupportActor> |
+| "Alice in Wonderland "                                            | 11000           | <http://www.semanticweb.org/rohanchhokra/ontologies/2019/2/oscar-ontology#Actor>        |
+| "Alice in Wonderland "                                            | 11000           | <http://www.semanticweb.org/rohanchhokra/ontologies/2019/2/oscar-ontology#FilmCrew>     |
+| "Alice in Wonderland "                                            | 11000           | <https://schema.org/Person>                                                             |
+| "Alice in Wonderland "                                            | 11000           | <http://www.semanticweb.org/rohanchhokra/ontologies/2019/2/oscar-ontology#SupportActor> |
+| "Alice in Wonderland "                                            | 11000           | <http://www.semanticweb.org/rohanchhokra/ontologies/2019/2/oscar-ontology#Actor>        |
+| "Alice in Wonderland "                                            | 25000           | <http://www.semanticweb.org/rohanchhokra/ontologies/2019/2/oscar-ontology#FilmCrew>     |
+| "Alice in Wonderland "                                            | 25000           | <https://schema.org/Person>                                                             |
+| "Alice in Wonderland "                                            | 25000           | <http://www.semanticweb.org/rohanchhokra/ontologies/2019/2/oscar-ontology#SupportActor> |
+| "Alice in Wonderland "                                            | 25000           | <http://www.semanticweb.org/rohanchhokra/ontologies/2019/2/oscar-ontology#Actor>        |
+| "X-Men: The Last Stand "                                          | 420             | <http://www.semanticweb.org/rohanchhokra/ontologies/2019/2/oscar-ontology#Director>     |
+| "X-Men: The Last Stand "                                          | 420             | <http://www.semanticweb.org/rohanchhokra/ontologies/2019/2/oscar-ontology#FilmCrew>     |
+| "X-Men: The Last Stand "                                          | 420             | <https://schema.org/Person>                                                             |
+| "X-Men: The Last Stand "                                          | 560             | <http://www.semanticweb.org/rohanchhokra/ontologies/2019/2/oscar-ontology#FilmCrew>     |
+| "X-Men: The Last Stand "                                          | 560             | <https://schema.org/Person>                                                             |
+| "X-Men: The Last Stand "                                          | 560             | <http://www.semanticweb.org/rohanchhokra/ontologies/2019/2/oscar-ontology#SupportActor> |
+| "X-Men: The Last Stand "                                          | 560             | <http://www.semanticweb.org/rohanchhokra/ontologies/2019/2/oscar-ontology#Actor>        |
+| "X-Men: The Last Stand "                                          | 560             | <http://www.semanticweb.org/rohanchhokra/ontologies/2019/2/oscar-ontology#FilmCrew>     |
+| "X-Men: The Last Stand "                                          | 560             | <https://schema.org/Person>                                                             |
+| "X-Men: The Last Stand "                                          | 560             | <http://www.semanticweb.org/rohanchhokra/ontologies/2019/2/oscar-ontology#SupportActor> |
+| "X-Men: The Last Stand "                                          | 560             | <http://www.semanticweb.org/rohanchhokra/ontologies/2019/2/oscar-ontology#Actor>        |
+| "X-Men: The Last Stand "                                          | 808             | <http://www.semanticweb.org/rohanchhokra/ontologies/2019/2/oscar-ontology#FilmCrew>     |
+| "X-Men: The Last Stand "                                          | 808             | <https://schema.org/Person>                                                             |
+| "X-Men: The Last Stand "                                          | 808             | <http://www.semanticweb.org/rohanchhokra/ontologies/2019/2/oscar-ontology#SupportActor> |
+| "X-Men: The Last Stand "                                          | 808             | <http://www.semanticweb.org/rohanchhokra/ontologies/2019/2/oscar-ontology#Actor>        |
+| "Monsters University "                                            | 37              | <http://www.semanticweb.org/rohanchhokra/ontologies/2019/2/oscar-ontology#Director>     |
+| "Monsters University "                                            | 37              | <http://www.semanticweb.org/rohanchhokra/ontologies/2019/2/oscar-ontology#FilmCrew>     |
+| "Monsters University "                                            | 37              | <https://schema.org/Person>                                                             |
+| "Monsters University "                                            | 760             | <http://www.semanticweb.org/rohanchhokra/ontologies/2019/2/oscar-ontology#FilmCrew>     |
+| "Monsters University "                                            | 760             | <https://schema.org/Person>                                                             |
+| "Monsters University "                                            | 760             | <http://www.semanticweb.org/rohanchhokra/ontologies/2019/2/oscar-ontology#SupportActor> |
+| "Monsters University "                                            | 760             | <http://www.semanticweb.org/rohanchhokra/ontologies/2019/2/oscar-ontology#Actor>        |
+| "Monsters University "                                            | 760             | <http://www.semanticweb.org/rohanchhokra/ontologies/2019/2/oscar-ontology#FilmCrew>     |
+| "Monsters University "                                            | 760             | <https://schema.org/Person>                                                             |
+| "Monsters University "                                            | 760             | <http://www.semanticweb.org/rohanchhokra/ontologies/2019/2/oscar-ontology#SupportActor> |
+| "Monsters University "                                            | 760             | <http://www.semanticweb.org/rohanchhokra/ontologies/2019/2/oscar-ontology#Actor>        |
+| "Monsters University "                                            | 779             | <http://www.semanticweb.org/rohanchhokra/ontologies/2019/2/oscar-ontology#FilmCrew>     |
+| "Monsters University "                                            | 779             | <https://schema.org/Person>                                                             |
+| "Monsters University "                                            | 779             | <http://www.semanticweb.org/rohanchhokra/ontologies/2019/2/oscar-ontology#SupportActor> |
+| "Monsters University "                                            | 779             | <http://www.semanticweb.org/rohanchhokra/ontologies/2019/2/oscar-ontology#Actor>        |
+| "Transformers: Revenge of the Fallen "                            | 0               | <http://www.semanticweb.org/rohanchhokra/ontologies/2019/2/oscar-ontology#Director>     |
+| "Transformers: Revenge of the Fallen "                            | 0               | <http://www.semanticweb.org/rohanchhokra/ontologies/2019/2/oscar-ontology#FilmCrew>     |
+| "Transformers: Revenge of the Fallen "                            | 0               | <https://schema.org/Person>                                                             |
+| "Transformers: Revenge of the Fallen "                            | 464             | <http://www.semanticweb.org/rohanchhokra/ontologies/2019/2/oscar-ontology#FilmCrew>     |
+| "Transformers: Revenge of the Fallen "                            | 464             | <https://schema.org/Person>                                                             |
+| "Transformers: Revenge of the Fallen "                            | 464             | <http://www.semanticweb.org/rohanchhokra/ontologies/2019/2/oscar-ontology#SupportActor> |
+| "Transformers: Revenge of the Fallen "                            | 464             | <http://www.semanticweb.org/rohanchhokra/ontologies/2019/2/oscar-ontology#Actor>        |
+| "Transformers: Revenge of the Fallen "                            | 464             | <http://www.semanticweb.org/rohanchhokra/ontologies/2019/2/oscar-ontology#FilmCrew>     |
+| "Transformers: Revenge of the Fallen "                            | 464             | <https://schema.org/Person>                                                             |
+| "Transformers: Revenge of the Fallen "                            | 464             | <http://www.semanticweb.org/rohanchhokra/ontologies/2019/2/oscar-ontology#SupportActor> |
+| "Transformers: Revenge of the Fallen "                            | 464             | <http://www.semanticweb.org/rohanchhokra/ontologies/2019/2/oscar-ontology#Actor>        |
+| "Transformers: Revenge of the Fallen "                            | 581             | <http://www.semanticweb.org/rohanchhokra/ontologies/2019/2/oscar-ontology#FilmCrew>     |
+| "Transformers: Revenge of the Fallen "                            | 581             | <https://schema.org/Person>                                                             |
+| "Transformers: Revenge of the Fallen "                            | 581             | <http://www.semanticweb.org/rohanchhokra/ontologies/2019/2/oscar-ontology#SupportActor> |
+| "Transformers: Revenge of the Fallen "                            | 581             | <http://www.semanticweb.org/rohanchhokra/ontologies/2019/2/oscar-ontology#Actor>        |
+| "Transformers: Age of Extinction "                                | 0               | <http://www.semanticweb.org/rohanchhokra/ontologies/2019/2/oscar-ontology#Director>     |
+| "Transformers: Age of Extinction "                                | 0               | <http://www.semanticweb.org/rohanchhokra/ontologies/2019/2/oscar-ontology#FilmCrew>     |
+| "Transformers: Age of Extinction "                                | 0               | <https://schema.org/Person>                                                             |
+| "Transformers: Age of Extinction "                                | 808             | <http://www.semanticweb.org/rohanchhokra/ontologies/2019/2/oscar-ontology#FilmCrew>     |
+| "Transformers: Age of Extinction "                                | 808             | <https://schema.org/Person>                                                             |
+| "Transformers: Age of Extinction "                                | 808             | <http://www.semanticweb.org/rohanchhokra/ontologies/2019/2/oscar-ontology#SupportActor> |
+| "Transformers: Age of Extinction "                                | 808             | <http://www.semanticweb.org/rohanchhokra/ontologies/2019/2/oscar-ontology#Actor>        |
+| "Transformers: Age of Extinction "                                | 808             | <http://www.semanticweb.org/rohanchhokra/ontologies/2019/2/oscar-ontology#FilmCrew>     |
+| "Transformers: Age of Extinction "                                | 808             | <https://schema.org/Person>                                                             |
+| "Transformers: Age of Extinction "                                | 808             | <http://www.semanticweb.org/rohanchhokra/ontologies/2019/2/oscar-ontology#SupportActor> |
+| "Transformers: Age of Extinction "                                | 808             | <http://www.semanticweb.org/rohanchhokra/ontologies/2019/2/oscar-ontology#Actor>        |
+| "Transformers: Age of Extinction "                                | 956             | <http://www.semanticweb.org/rohanchhokra/ontologies/2019/2/oscar-ontology#FilmCrew>     |
+| "Transformers: Age of Extinction "                                | 956             | <https://schema.org/Person>                                                             |
+| "Transformers: Age of Extinction "                                | 956             | <http://www.semanticweb.org/rohanchhokra/ontologies/2019/2/oscar-ontology#SupportActor> |
+| "Transformers: Age of Extinction "                                | 956             | <http://www.semanticweb.org/rohanchhokra/ontologies/2019/2/oscar-ontology#Actor>        |
+| "Oz the Great and Powerful "                                      | 0               | <http://www.semanticweb.org/rohanchhokra/ontologies/2019/2/oscar-ontology#Director>     |
+| "Oz the Great and Powerful "                                      | 0               | <http://www.semanticweb.org/rohanchhokra/ontologies/2019/2/oscar-ontology#FilmCrew>     |
+| "Oz the Great and Powerful "                                      | 0               | <https://schema.org/Person>                                                             |
+| "Oz the Great and Powerful "                                      | 11000           | <http://www.semanticweb.org/rohanchhokra/ontologies/2019/2/oscar-ontology#FilmCrew>     |
+| "Oz the Great and Powerful "                                      | 11000           | <https://schema.org/Person>                                                             |
+| "Oz the Great and Powerful "                                      | 11000           | <http://www.semanticweb.org/rohanchhokra/ontologies/2019/2/oscar-ontology#SupportActor> |
+| "Oz the Great and Powerful "                                      | 11000           | <http://www.semanticweb.org/rohanchhokra/ontologies/2019/2/oscar-ontology#Actor>        |
+| "Oz the Great and Powerful "                                      | 11000           | <http://www.semanticweb.org/rohanchhokra/ontologies/2019/2/oscar-ontology#FilmCrew>     |
+| "Oz the Great and Powerful "                                      | 11000           | <https://schema.org/Person>                                                             |
+| "Oz the Great and Powerful "                                      | 11000           | <http://www.semanticweb.org/rohanchhokra/ontologies/2019/2/oscar-ontology#SupportActor> |
+| "Oz the Great and Powerful "                                      | 11000           | <http://www.semanticweb.org/rohanchhokra/ontologies/2019/2/oscar-ontology#Actor>        |
+| "Oz the Great and Powerful "                                      | 15000           | <http://www.semanticweb.org/rohanchhokra/ontologies/2019/2/oscar-ontology#FilmCrew>     |
+| "Oz the Great and Powerful "                                      | 15000           | <https://schema.org/Person>                                                             |
+| "Oz the Great and Powerful "                                      | 15000           | <http://www.semanticweb.org/rohanchhokra/ontologies/2019/2/oscar-ontology#SupportActor> |
+| "Oz the Great and Powerful "                                      | 15000           | <http://www.semanticweb.org/rohanchhokra/ontologies/2019/2/oscar-ontology#Actor>        |
+| "The Amazing Spider-Man 2 "                                       | 464             | <http://www.semanticweb.org/rohanchhokra/ontologies/2019/2/oscar-ontology#Director>     |
+| "The Amazing Spider-Man 2 "                                       | 464             | <http://www.semanticweb.org/rohanchhokra/ontologies/2019/2/oscar-ontology#FilmCrew>     |
+| "The Amazing Spider-Man 2 "                                       | 464             | <https://schema.org/Person>                                                             |
+| "The Amazing Spider-Man 2 "                                       | 825             | <http://www.semanticweb.org/rohanchhokra/ontologies/2019/2/oscar-ontology#FilmCrew>     |
+| "The Amazing Spider-Man 2 "                                       | 825             | <https://schema.org/Person>                                                             |
+| "The Amazing Spider-Man 2 "                                       | 825             | <http://www.semanticweb.org/rohanchhokra/ontologies/2019/2/oscar-ontology#SupportActor> |
+| "The Amazing Spider-Man 2 "                                       | 825             | <http://www.semanticweb.org/rohanchhokra/ontologies/2019/2/oscar-ontology#Actor>        |
+| "The Amazing Spider-Man 2 "                                       | 825             | <http://www.semanticweb.org/rohanchhokra/ontologies/2019/2/oscar-ontology#FilmCrew>     |
+| "The Amazing Spider-Man 2 "                                       | 825             | <https://schema.org/Person>                                                             |
+| "The Amazing Spider-Man 2 "                                       | 825             | <http://www.semanticweb.org/rohanchhokra/ontologies/2019/2/oscar-ontology#SupportActor> |
+| "The Amazing Spider-Man 2 "                                       | 825             | <http://www.semanticweb.org/rohanchhokra/ontologies/2019/2/oscar-ontology#Actor>        |
+| "The Amazing Spider-Man 2 "                                       | 10000           | <http://www.semanticweb.org/rohanchhokra/ontologies/2019/2/oscar-ontology#FilmCrew>     |
+| "The Amazing Spider-Man 2 "                                       | 10000           | <https://schema.org/Person>                                                             |
+| "The Amazing Spider-Man 2 "                                       | 10000           | <http://www.semanticweb.org/rohanchhokra/ontologies/2019/2/oscar-ontology#SupportActor> |
+| "The Amazing Spider-Man 2 "                                       | 10000           | <http://www.semanticweb.org/rohanchhokra/ontologies/2019/2/oscar-ontology#Actor>        |
+| "TRON: Legacy "                                                   | 364             | <http://www.semanticweb.org/rohanchhokra/ontologies/2019/2/oscar-ontology#Director>     |
+| "TRON: Legacy "                                                   | 364             | <http://www.semanticweb.org/rohanchhokra/ontologies/2019/2/oscar-ontology#FilmCrew>     |
+| "TRON: Legacy "                                                   | 364             | <https://schema.org/Person>                                                             |
+| "TRON: Legacy "                                                   | 1000            | <http://www.semanticweb.org/rohanchhokra/ontologies/2019/2/oscar-ontology#FilmCrew>     |
+| "TRON: Legacy "                                                   | 1000            | <https://schema.org/Person>                                                             |
+| "TRON: Legacy "                                                   | 1000            | <http://www.semanticweb.org/rohanchhokra/ontologies/2019/2/oscar-ontology#SupportActor> |
+| "TRON: Legacy "                                                   | 1000            | <http://www.semanticweb.org/rohanchhokra/ontologies/2019/2/oscar-ontology#Actor>        |
+| "TRON: Legacy "                                                   | 1000            | <http://www.semanticweb.org/rohanchhokra/ontologies/2019/2/oscar-ontology#FilmCrew>     |
+| "TRON: Legacy "                                                   | 1000            | <https://schema.org/Person>                                                             |
+| "TRON: Legacy "                                                   | 1000            | <http://www.semanticweb.org/rohanchhokra/ontologies/2019/2/oscar-ontology#SupportActor> |
+| "TRON: Legacy "                                                   | 1000            | <http://www.semanticweb.org/rohanchhokra/ontologies/2019/2/oscar-ontology#Actor>        |
+| "TRON: Legacy "                                                   | 10000           | <http://www.semanticweb.org/rohanchhokra/ontologies/2019/2/oscar-ontology#FilmCrew>     |
+| "TRON: Legacy "                                                   | 10000           | <https://schema.org/Person>                                                             |
+| "TRON: Legacy "                                                   | 10000           | <http://www.semanticweb.org/rohanchhokra/ontologies/2019/2/oscar-ontology#SupportActor> |
+| "TRON: Legacy "                                                   | 10000           | <http://www.semanticweb.org/rohanchhokra/ontologies/2019/2/oscar-ontology#Actor>        |
+| "Cars 2 "                                                         | 487             | <http://www.semanticweb.org/rohanchhokra/ontologies/2019/2/oscar-ontology#Director>     |
+| "Cars 2 "                                                         | 487             | <http://www.semanticweb.org/rohanchhokra/ontologies/2019/2/oscar-ontology#FilmCrew>     |
+| "Cars 2 "                                                         | 487             | <https://schema.org/Person>                                                             |
+| "Cars 2 "                                                         | 776             | <http://www.semanticweb.org/rohanchhokra/ontologies/2019/2/oscar-ontology#FilmCrew>     |
+| "Cars 2 "                                                         | 776             | <https://schema.org/Person>                                                             |
+| "Cars 2 "                                                         | 776             | <http://www.semanticweb.org/rohanchhokra/ontologies/2019/2/oscar-ontology#SupportActor> |
+| "Cars 2 "                                                         | 776             | <http://www.semanticweb.org/rohanchhokra/ontologies/2019/2/oscar-ontology#Actor>        |
+| "Cars 2 "                                                         | 776             | <http://www.semanticweb.org/rohanchhokra/ontologies/2019/2/oscar-ontology#FilmCrew>     |
+| "Cars 2 "                                                         | 776             | <https://schema.org/Person>                                                             |
+| "Cars 2 "                                                         | 776             | <http://www.semanticweb.org/rohanchhokra/ontologies/2019/2/oscar-ontology#SupportActor> |
+| "Cars 2 "                                                         | 776             | <http://www.semanticweb.org/rohanchhokra/ontologies/2019/2/oscar-ontology#Actor>        |
+| "Cars 2 "                                                         | 919             | <http://www.semanticweb.org/rohanchhokra/ontologies/2019/2/oscar-ontology#FilmCrew>     |
+| "Cars 2 "                                                         | 919             | <https://schema.org/Person>                                                             |
+| "Cars 2 "                                                         | 919             | <http://www.semanticweb.org/rohanchhokra/ontologies/2019/2/oscar-ontology#SupportActor> |
+| "Cars 2 "                                                         | 919             | <http://www.semanticweb.org/rohanchhokra/ontologies/2019/2/oscar-ontology#Actor>        |
+| "Green Lantern "                                                  | 258             | <http://www.semanticweb.org/rohanchhokra/ontologies/2019/2/oscar-ontology#Director>     |
+| "Green Lantern "                                                  | 258             | <http://www.semanticweb.org/rohanchhokra/ontologies/2019/2/oscar-ontology#FilmCrew>     |
+| "Green Lantern "                                                  | 258             | <https://schema.org/Person>                                                             |
+| "Green Lantern "                                                  | 326             | <http://www.semanticweb.org/rohanchhokra/ontologies/2019/2/oscar-ontology#FilmCrew>     |
+| "Green Lantern "                                                  | 326             | <https://schema.org/Person>                                                             |
+| "Green Lantern "                                                  | 326             | <http://www.semanticweb.org/rohanchhokra/ontologies/2019/2/oscar-ontology#SupportActor> |
+| "Green Lantern "                                                  | 326             | <http://www.semanticweb.org/rohanchhokra/ontologies/2019/2/oscar-ontology#Actor>        |
+| "Green Lantern "                                                  | 326             | <http://www.semanticweb.org/rohanchhokra/ontologies/2019/2/oscar-ontology#FilmCrew>     |
+| "Green Lantern "                                                  | 326             | <https://schema.org/Person>                                                             |
+| "Green Lantern "                                                  | 326             | <http://www.semanticweb.org/rohanchhokra/ontologies/2019/2/oscar-ontology#SupportActor> |
+| "Green Lantern "                                                  | 326             | <http://www.semanticweb.org/rohanchhokra/ontologies/2019/2/oscar-ontology#Actor>        |
+| "Green Lantern "                                                  | 368             | <http://www.semanticweb.org/rohanchhokra/ontologies/2019/2/oscar-ontology#FilmCrew>     |
+| "Green Lantern "                                                  | 368             | <https://schema.org/Person>                                                             |
+| "Green Lantern "                                                  | 368             | <http://www.semanticweb.org/rohanchhokra/ontologies/2019/2/oscar-ontology#SupportActor> |
+| "Green Lantern "                                                  | 368             | <http://www.semanticweb.org/rohanchhokra/ontologies/2019/2/oscar-ontology#Actor>        |
+| "Toy Story 3 "                                                    | 125             | <http://www.semanticweb.org/rohanchhokra/ontologies/2019/2/oscar-ontology#Director>     |
+| "Toy Story 3 "                                                    | 125             | <http://www.semanticweb.org/rohanchhokra/ontologies/2019/2/oscar-ontology#FilmCrew>     |
+| "Toy Story 3 "                                                    | 125             | <https://schema.org/Person>                                                             |
+| "Toy Story 3 "                                                    | 721             | <http://www.semanticweb.org/rohanchhokra/ontologies/2019/2/oscar-ontology#FilmCrew>     |
+| "Toy Story 3 "                                                    | 721             | <https://schema.org/Person>                                                             |
+| "Toy Story 3 "                                                    | 721             | <http://www.semanticweb.org/rohanchhokra/ontologies/2019/2/oscar-ontology#SupportActor> |
+| "Toy Story 3 "                                                    | 721             | <http://www.semanticweb.org/rohanchhokra/ontologies/2019/2/oscar-ontology#Actor>        |
+| "Toy Story 3 "                                                    | 721             | <http://www.semanticweb.org/rohanchhokra/ontologies/2019/2/oscar-ontology#FilmCrew>     |
+| "Toy Story 3 "                                                    | 721             | <https://schema.org/Person>                                                             |
+| "Toy Story 3 "                                                    | 721             | <http://www.semanticweb.org/rohanchhokra/ontologies/2019/2/oscar-ontology#SupportActor> |
+| "Toy Story 3 "                                                    | 721             | <http://www.semanticweb.org/rohanchhokra/ontologies/2019/2/oscar-ontology#Actor>        |
+| "Toy Story 3 "                                                    | 1000            | <http://www.semanticweb.org/rohanchhokra/ontologies/2019/2/oscar-ontology#FilmCrew>     |
+| "Toy Story 3 "                                                    | 1000            | <https://schema.org/Person>                                                             |
+| "Toy Story 3 "                                                    | 1000            | <http://www.semanticweb.org/rohanchhokra/ontologies/2019/2/oscar-ontology#SupportActor> |
+| "Toy Story 3 "                                                    | 1000            | <http://www.semanticweb.org/rohanchhokra/ontologies/2019/2/oscar-ontology#Actor>        |
+| "Terminator Salvation "                                           | 368             | <http://www.semanticweb.org/rohanchhokra/ontologies/2019/2/oscar-ontology#Director>     |
+| "Terminator Salvation "                                           | 368             | <http://www.semanticweb.org/rohanchhokra/ontologies/2019/2/oscar-ontology#FilmCrew>     |
+| "Terminator Salvation "                                           | 368             | <https://schema.org/Person>                                                             |
+| "Terminator Salvation "                                           | 988             | <http://www.semanticweb.org/rohanchhokra/ontologies/2019/2/oscar-ontology#FilmCrew>     |
+| "Terminator Salvation "                                           | 988             | <https://schema.org/Person>                                                             |
+| "Terminator Salvation "                                           | 988             | <http://www.semanticweb.org/rohanchhokra/ontologies/2019/2/oscar-ontology#SupportActor> |
+| "Terminator Salvation "                                           | 988             | <http://www.semanticweb.org/rohanchhokra/ontologies/2019/2/oscar-ontology#Actor>        |
+| "Terminator Salvation "                                           | 988             | <http://www.semanticweb.org/rohanchhokra/ontologies/2019/2/oscar-ontology#FilmCrew>     |
+| "Terminator Salvation "                                           | 988             | <https://schema.org/Person>                                                             |
+| "Terminator Salvation "                                           | 988             | <http://www.semanticweb.org/rohanchhokra/ontologies/2019/2/oscar-ontology#SupportActor> |
+| "Terminator Salvation "                                           | 988             | <http://www.semanticweb.org/rohanchhokra/ontologies/2019/2/oscar-ontology#Actor>        |
+| "Terminator Salvation "                                           | 3000            | <http://www.semanticweb.org/rohanchhokra/ontologies/2019/2/oscar-ontology#FilmCrew>     |
+| "Terminator Salvation "                                           | 3000            | <https://schema.org/Person>                                                             |
+| "Terminator Salvation "                                           | 3000            | <http://www.semanticweb.org/rohanchhokra/ontologies/2019/2/oscar-ontology#SupportActor> |
+| "Terminator Salvation "                                           | 3000            | <http://www.semanticweb.org/rohanchhokra/ontologies/2019/2/oscar-ontology#Actor>        |
+| "Furious 7 "                                                      | 0               | <http://www.semanticweb.org/rohanchhokra/ontologies/2019/2/oscar-ontology#Director>     |
+| "Furious 7 "                                                      | 0               | <http://www.semanticweb.org/rohanchhokra/ontologies/2019/2/oscar-ontology#FilmCrew>     |
+| "Furious 7 "                                                      | 0               | <https://schema.org/Person>                                                             |
+| "Furious 7 "                                                      | 14000           | <http://www.semanticweb.org/rohanchhokra/ontologies/2019/2/oscar-ontology#FilmCrew>     |
+| "Furious 7 "                                                      | 14000           | <https://schema.org/Person>                                                             |
+| "Furious 7 "                                                      | 14000           | <http://www.semanticweb.org/rohanchhokra/ontologies/2019/2/oscar-ontology#SupportActor> |
+| "Furious 7 "                                                      | 14000           | <http://www.semanticweb.org/rohanchhokra/ontologies/2019/2/oscar-ontology#Actor>        |
+| "Furious 7 "                                                      | 14000           | <http://www.semanticweb.org/rohanchhokra/ontologies/2019/2/oscar-ontology#FilmCrew>     |
+| "Furious 7 "                                                      | 14000           | <https://schema.org/Person>                                                             |
+| "Furious 7 "                                                      | 14000           | <http://www.semanticweb.org/rohanchhokra/ontologies/2019/2/oscar-ontology#SupportActor> |
+| "Furious 7 "                                                      | 14000           | <http://www.semanticweb.org/rohanchhokra/ontologies/2019/2/oscar-ontology#Actor>        |
+| "Furious 7 "                                                      | 23000           | <http://www.semanticweb.org/rohanchhokra/ontologies/2019/2/oscar-ontology#FilmCrew>     |
+| "Furious 7 "                                                      | 23000           | <https://schema.org/Person>                                                             |
+| "Furious 7 "                                                      | 23000           | <http://www.semanticweb.org/rohanchhokra/ontologies/2019/2/oscar-ontology#SupportActor> |
+| "Furious 7 "                                                      | 23000           | <http://www.semanticweb.org/rohanchhokra/ontologies/2019/2/oscar-ontology#Actor>        |
+| "World War Z "                                                    | 395             | <http://www.semanticweb.org/rohanchhokra/ontologies/2019/2/oscar-ontology#Director>     |
+| "World War Z "                                                    | 395             | <http://www.semanticweb.org/rohanchhokra/ontologies/2019/2/oscar-ontology#FilmCrew>     |
+| "World War Z "                                                    | 395             | <https://schema.org/Person>                                                             |
+| "World War Z "                                                    | 1000            | <http://www.semanticweb.org/rohanchhokra/ontologies/2019/2/oscar-ontology#FilmCrew>     |
+| "World War Z "                                                    | 1000            | <https://schema.org/Person>                                                             |
+| "World War Z "                                                    | 1000            | <http://www.semanticweb.org/rohanchhokra/ontologies/2019/2/oscar-ontology#SupportActor> |
+| "World War Z "                                                    | 1000            | <http://www.semanticweb.org/rohanchhokra/ontologies/2019/2/oscar-ontology#Actor>        |
+| "World War Z "                                                    | 1000            | <http://www.semanticweb.org/rohanchhokra/ontologies/2019/2/oscar-ontology#FilmCrew>     |
+| "World War Z "                                                    | 1000            | <https://schema.org/Person>                                                             |
+| "World War Z "                                                    | 1000            | <http://www.semanticweb.org/rohanchhokra/ontologies/2019/2/oscar-ontology#SupportActor> |
+| "World War Z "                                                    | 1000            | <http://www.semanticweb.org/rohanchhokra/ontologies/2019/2/oscar-ontology#Actor>        |
+| "World War Z "                                                    | 11000           | <http://www.semanticweb.org/rohanchhokra/ontologies/2019/2/oscar-ontology#FilmCrew>     |
+| "World War Z "                                                    | 11000           | <https://schema.org/Person>                                                             |
+| "World War Z "                                                    | 11000           | <http://www.semanticweb.org/rohanchhokra/ontologies/2019/2/oscar-ontology#SupportActor> |
+| "World War Z "                                                    | 11000           | <http://www.semanticweb.org/rohanchhokra/ontologies/2019/2/oscar-ontology#Actor>        |
+| "X-Men: Days of Future Past "                                     | 0               | <http://www.semanticweb.org/rohanchhokra/ontologies/2019/2/oscar-ontology#Director>     |
+| "X-Men: Days of Future Past "                                     | 0               | <http://www.semanticweb.org/rohanchhokra/ontologies/2019/2/oscar-ontology#FilmCrew>     |
+| "X-Men: Days of Future Past "                                     | 0               | <https://schema.org/Person>                                                             |
+| "X-Men: Days of Future Past "                                     | 20000           | <http://www.semanticweb.org/rohanchhokra/ontologies/2019/2/oscar-ontology#FilmCrew>     |
+| "X-Men: Days of Future Past "                                     | 20000           | <https://schema.org/Person>                                                             |
+| "X-Men: Days of Future Past "                                     | 20000           | <http://www.semanticweb.org/rohanchhokra/ontologies/2019/2/oscar-ontology#SupportActor> |
+| "X-Men: Days of Future Past "                                     | 20000           | <http://www.semanticweb.org/rohanchhokra/ontologies/2019/2/oscar-ontology#Actor>        |
+| "X-Men: Days of Future Past "                                     | 20000           | <http://www.semanticweb.org/rohanchhokra/ontologies/2019/2/oscar-ontology#FilmCrew>     |
+| "X-Men: Days of Future Past "                                     | 20000           | <https://schema.org/Person>                                                             |
+| "X-Men: Days of Future Past "                                     | 20000           | <http://www.semanticweb.org/rohanchhokra/ontologies/2019/2/oscar-ontology#SupportActor> |
+| "X-Men: Days of Future Past "                                     | 20000           | <http://www.semanticweb.org/rohanchhokra/ontologies/2019/2/oscar-ontology#Actor>        |
+| "X-Men: Days of Future Past "                                     | 22000           | <http://www.semanticweb.org/rohanchhokra/ontologies/2019/2/oscar-ontology#FilmCrew>     |
+| "X-Men: Days of Future Past "                                     | 22000           | <https://schema.org/Person>                                                             |
+| "X-Men: Days of Future Past "                                     | 22000           | <http://www.semanticweb.org/rohanchhokra/ontologies/2019/2/oscar-ontology#SupportActor> |
+| "X-Men: Days of Future Past "                                     | 22000           | <http://www.semanticweb.org/rohanchhokra/ontologies/2019/2/oscar-ontology#Actor>        |
+| "Star Trek Into Darkness "                                        | 14000           | <http://www.semanticweb.org/rohanchhokra/ontologies/2019/2/oscar-ontology#Director>     |
+| "Star Trek Into Darkness "                                        | 14000           | <http://www.semanticweb.org/rohanchhokra/ontologies/2019/2/oscar-ontology#FilmCrew>     |
+| "Star Trek Into Darkness "                                        | 14000           | <https://schema.org/Person>                                                             |
+| "Star Trek Into Darkness "                                        | 928             | <http://www.semanticweb.org/rohanchhokra/ontologies/2019/2/oscar-ontology#FilmCrew>     |
+| "Star Trek Into Darkness "                                        | 928             | <https://schema.org/Person>                                                             |
+| "Star Trek Into Darkness "                                        | 928             | <http://www.semanticweb.org/rohanchhokra/ontologies/2019/2/oscar-ontology#SupportActor> |
+| "Star Trek Into Darkness "                                        | 928             | <http://www.semanticweb.org/rohanchhokra/ontologies/2019/2/oscar-ontology#Actor>        |
+| "Star Trek Into Darkness "                                        | 928             | <http://www.semanticweb.org/rohanchhokra/ontologies/2019/2/oscar-ontology#FilmCrew>     |
+| "Star Trek Into Darkness "                                        | 928             | <https://schema.org/Person>                                                             |
+| "Star Trek Into Darkness "                                        | 928             | <http://www.semanticweb.org/rohanchhokra/ontologies/2019/2/oscar-ontology#SupportActor> |
+| "Star Trek Into Darkness "                                        | 928             | <http://www.semanticweb.org/rohanchhokra/ontologies/2019/2/oscar-ontology#Actor>        |
+| "Star Trek Into Darkness "                                        | 981             | <http://www.semanticweb.org/rohanchhokra/ontologies/2019/2/oscar-ontology#FilmCrew>     |
+| "Star Trek Into Darkness "                                        | 981             | <https://schema.org/Person>                                                             |
+| "Star Trek Into Darkness "                                        | 981             | <http://www.semanticweb.org/rohanchhokra/ontologies/2019/2/oscar-ontology#SupportActor> |
+| "Star Trek Into Darkness "                                        | 981             | <http://www.semanticweb.org/rohanchhokra/ontologies/2019/2/oscar-ontology#Actor>        |
+| "Jack the Giant Slayer "                                          | 0               | <http://www.semanticweb.org/rohanchhokra/ontologies/2019/2/oscar-ontology#Director>     |
+| "Jack the Giant Slayer "                                          | 0               | <http://www.semanticweb.org/rohanchhokra/ontologies/2019/2/oscar-ontology#FilmCrew>     |
+| "Jack the Giant Slayer "                                          | 0               | <https://schema.org/Person>                                                             |
+| "Jack the Giant Slayer "                                          | 140             | <http://www.semanticweb.org/rohanchhokra/ontologies/2019/2/oscar-ontology#FilmCrew>     |
+| "Jack the Giant Slayer "                                          | 140             | <https://schema.org/Person>                                                             |
+| "Jack the Giant Slayer "                                          | 140             | <http://www.semanticweb.org/rohanchhokra/ontologies/2019/2/oscar-ontology#SupportActor> |
+| "Jack the Giant Slayer "                                          | 140             | <http://www.semanticweb.org/rohanchhokra/ontologies/2019/2/oscar-ontology#Actor>        |
+| "Jack the Giant Slayer "                                          | 140             | <http://www.semanticweb.org/rohanchhokra/ontologies/2019/2/oscar-ontology#FilmCrew>     |
+| "Jack the Giant Slayer "                                          | 140             | <https://schema.org/Person>                                                             |
+| "Jack the Giant Slayer "                                          | 140             | <http://www.semanticweb.org/rohanchhokra/ontologies/2019/2/oscar-ontology#SupportActor> |
+| "Jack the Giant Slayer "                                          | 140             | <http://www.semanticweb.org/rohanchhokra/ontologies/2019/2/oscar-ontology#Actor>        |
+| "Jack the Giant Slayer "                                          | 557             | <http://www.semanticweb.org/rohanchhokra/ontologies/2019/2/oscar-ontology#FilmCrew>     |
+| "Jack the Giant Slayer "                                          | 557             | <https://schema.org/Person>                                                             |
+| "Jack the Giant Slayer "                                          | 557             | <http://www.semanticweb.org/rohanchhokra/ontologies/2019/2/oscar-ontology#SupportActor> |
+| "Jack the Giant Slayer "                                          | 557             | <http://www.semanticweb.org/rohanchhokra/ontologies/2019/2/oscar-ontology#Actor>        |
+| "The Great Gatsby "                                               | 1000            | <http://www.semanticweb.org/rohanchhokra/ontologies/2019/2/oscar-ontology#Director>     |
+| "The Great Gatsby "                                               | 1000            | <http://www.semanticweb.org/rohanchhokra/ontologies/2019/2/oscar-ontology#FilmCrew>     |
+| "The Great Gatsby "                                               | 1000            | <https://schema.org/Person>                                                             |
+| "The Great Gatsby "                                               | 77              | <http://www.semanticweb.org/rohanchhokra/ontologies/2019/2/oscar-ontology#FilmCrew>     |
+| "The Great Gatsby "                                               | 77              | <https://schema.org/Person>                                                             |
+| "The Great Gatsby "                                               | 77              | <http://www.semanticweb.org/rohanchhokra/ontologies/2019/2/oscar-ontology#SupportActor> |
+| "The Great Gatsby "                                               | 77              | <http://www.semanticweb.org/rohanchhokra/ontologies/2019/2/oscar-ontology#Actor>        |
+| "The Great Gatsby "                                               | 77              | <http://www.semanticweb.org/rohanchhokra/ontologies/2019/2/oscar-ontology#FilmCrew>     |
+| "The Great Gatsby "                                               | 77              | <https://schema.org/Person>                                                             |
+| "The Great Gatsby "                                               | 77              | <http://www.semanticweb.org/rohanchhokra/ontologies/2019/2/oscar-ontology#SupportActor> |
+| "The Great Gatsby "                                               | 77              | <http://www.semanticweb.org/rohanchhokra/ontologies/2019/2/oscar-ontology#Actor>        |
+| "The Great Gatsby "                                               | 509             | <http://www.semanticweb.org/rohanchhokra/ontologies/2019/2/oscar-ontology#FilmCrew>     |
+| "The Great Gatsby "                                               | 509             | <https://schema.org/Person>                                                             |
+| "The Great Gatsby "                                               | 509             | <http://www.semanticweb.org/rohanchhokra/ontologies/2019/2/oscar-ontology#SupportActor> |
+| "The Great Gatsby "                                               | 509             | <http://www.semanticweb.org/rohanchhokra/ontologies/2019/2/oscar-ontology#Actor>        |
+| "Prince of Persia: The Sands of Time "                            | 179             | <http://www.semanticweb.org/rohanchhokra/ontologies/2019/2/oscar-ontology#Director>     |
+| "Prince of Persia: The Sands of Time "                            | 179             | <http://www.semanticweb.org/rohanchhokra/ontologies/2019/2/oscar-ontology#FilmCrew>     |
+| "Prince of Persia: The Sands of Time "                            | 179             | <https://schema.org/Person>                                                             |
+| "Prince of Persia: The Sands of Time "                            | 236             | <http://www.semanticweb.org/rohanchhokra/ontologies/2019/2/oscar-ontology#FilmCrew>     |
+| "Prince of Persia: The Sands of Time "                            | 236             | <https://schema.org/Person>                                                             |
+| "Prince of Persia: The Sands of Time "                            | 236             | <http://www.semanticweb.org/rohanchhokra/ontologies/2019/2/oscar-ontology#SupportActor> |
+| "Prince of Persia: The Sands of Time "                            | 236             | <http://www.semanticweb.org/rohanchhokra/ontologies/2019/2/oscar-ontology#Actor>        |
+| "Prince of Persia: The Sands of Time "                            | 236             | <http://www.semanticweb.org/rohanchhokra/ontologies/2019/2/oscar-ontology#FilmCrew>     |
+| "Prince of Persia: The Sands of Time "                            | 236             | <https://schema.org/Person>                                                             |
+| "Prince of Persia: The Sands of Time "                            | 236             | <http://www.semanticweb.org/rohanchhokra/ontologies/2019/2/oscar-ontology#SupportActor> |
+| "Prince of Persia: The Sands of Time "                            | 236             | <http://www.semanticweb.org/rohanchhokra/ontologies/2019/2/oscar-ontology#Actor>        |
+| "Prince of Persia: The Sands of Time "                            | 567             | <http://www.semanticweb.org/rohanchhokra/ontologies/2019/2/oscar-ontology#FilmCrew>     |
+| "Prince of Persia: The Sands of Time "                            | 567             | <https://schema.org/Person>                                                             |
+| "Prince of Persia: The Sands of Time "                            | 567             | <http://www.semanticweb.org/rohanchhokra/ontologies/2019/2/oscar-ontology#SupportActor> |
+| "Prince of Persia: The Sands of Time "                            | 567             | <http://www.semanticweb.org/rohanchhokra/ontologies/2019/2/oscar-ontology#Actor>        |
+| "Pacific Rim "                                                    | 0               | <http://www.semanticweb.org/rohanchhokra/ontologies/2019/2/oscar-ontology#Director>     |
+| "Pacific Rim "                                                    | 0               | <http://www.semanticweb.org/rohanchhokra/ontologies/2019/2/oscar-ontology#FilmCrew>     |
+| "Pacific Rim "                                                    | 0               | <https://schema.org/Person>                                                             |
+| "Pacific Rim "                                                    | 919             | <http://www.semanticweb.org/rohanchhokra/ontologies/2019/2/oscar-ontology#FilmCrew>     |
+| "Pacific Rim "                                                    | 919             | <https://schema.org/Person>                                                             |
+| "Pacific Rim "                                                    | 919             | <http://www.semanticweb.org/rohanchhokra/ontologies/2019/2/oscar-ontology#SupportActor> |
+| "Pacific Rim "                                                    | 919             | <http://www.semanticweb.org/rohanchhokra/ontologies/2019/2/oscar-ontology#Actor>        |
+| "Pacific Rim "                                                    | 919             | <http://www.semanticweb.org/rohanchhokra/ontologies/2019/2/oscar-ontology#FilmCrew>     |
+| "Pacific Rim "                                                    | 919             | <https://schema.org/Person>                                                             |
+| "Pacific Rim "                                                    | 919             | <http://www.semanticweb.org/rohanchhokra/ontologies/2019/2/oscar-ontology#SupportActor> |
+| "Pacific Rim "                                                    | 919             | <http://www.semanticweb.org/rohanchhokra/ontologies/2019/2/oscar-ontology#Actor>        |
+| "Pacific Rim "                                                    | 968             | <http://www.semanticweb.org/rohanchhokra/ontologies/2019/2/oscar-ontology#FilmCrew>     |
+| "Pacific Rim "                                                    | 968             | <https://schema.org/Person>                                                             |
+| "Pacific Rim "                                                    | 968             | <http://www.semanticweb.org/rohanchhokra/ontologies/2019/2/oscar-ontology#SupportActor> |
+| "Pacific Rim "                                                    | 968             | <http://www.semanticweb.org/rohanchhokra/ontologies/2019/2/oscar-ontology#Actor>        |
+| "Transformers: Dark of the Moon "                                 | 0               | <http://www.semanticweb.org/rohanchhokra/ontologies/2019/2/oscar-ontology#Director>     |
+| "Transformers: Dark of the Moon "                                 | 0               | <http://www.semanticweb.org/rohanchhokra/ontologies/2019/2/oscar-ontology#FilmCrew>     |
+| "Transformers: Dark of the Moon "                                 | 0               | <https://schema.org/Person>                                                             |
+| "Transformers: Dark of the Moon "                                 | 581             | <http://www.semanticweb.org/rohanchhokra/ontologies/2019/2/oscar-ontology#FilmCrew>     |
+| "Transformers: Dark of the Moon "                                 | 581             | <https://schema.org/Person>                                                             |
+| "Transformers: Dark of the Moon "                                 | 581             | <http://www.semanticweb.org/rohanchhokra/ontologies/2019/2/oscar-ontology#SupportActor> |
+| "Transformers: Dark of the Moon "                                 | 581             | <http://www.semanticweb.org/rohanchhokra/ontologies/2019/2/oscar-ontology#Actor>        |
+| "Transformers: Dark of the Moon "                                 | 581             | <http://www.semanticweb.org/rohanchhokra/ontologies/2019/2/oscar-ontology#FilmCrew>     |
+| "Transformers: Dark of the Moon "                                 | 581             | <https://schema.org/Person>                                                             |
+| "Transformers: Dark of the Moon "                                 | 581             | <http://www.semanticweb.org/rohanchhokra/ontologies/2019/2/oscar-ontology#SupportActor> |
+| "Transformers: Dark of the Moon "                                 | 581             | <http://www.semanticweb.org/rohanchhokra/ontologies/2019/2/oscar-ontology#Actor>        |
+| "Transformers: Dark of the Moon "                                 | 829             | <http://www.semanticweb.org/rohanchhokra/ontologies/2019/2/oscar-ontology#FilmCrew>     |
+| "Transformers: Dark of the Moon "                                 | 829             | <https://schema.org/Person>                                                             |
+| "Transformers: Dark of the Moon "                                 | 829             | <http://www.semanticweb.org/rohanchhokra/ontologies/2019/2/oscar-ontology#SupportActor> |
+| "Transformers: Dark of the Moon "                                 | 829             | <http://www.semanticweb.org/rohanchhokra/ontologies/2019/2/oscar-ontology#Actor>        |
+| "Indiana Jones and the Kingdom of the Crystal Skull "             | 14000           | <http://www.semanticweb.org/rohanchhokra/ontologies/2019/2/oscar-ontology#Director>     |
+| "Indiana Jones and the Kingdom of the Crystal Skull "             | 14000           | <http://www.semanticweb.org/rohanchhokra/ontologies/2019/2/oscar-ontology#FilmCrew>     |
+| "Indiana Jones and the Kingdom of the Crystal Skull "             | 14000           | <https://schema.org/Person>                                                             |
+| "Indiana Jones and the Kingdom of the Crystal Skull "             | 1000            | <http://www.semanticweb.org/rohanchhokra/ontologies/2019/2/oscar-ontology#FilmCrew>     |
+| "Indiana Jones and the Kingdom of the Crystal Skull "             | 1000            | <https://schema.org/Person>                                                             |
+| "Indiana Jones and the Kingdom of the Crystal Skull "             | 1000            | <http://www.semanticweb.org/rohanchhokra/ontologies/2019/2/oscar-ontology#SupportActor> |
+| "Indiana Jones and the Kingdom of the Crystal Skull "             | 1000            | <http://www.semanticweb.org/rohanchhokra/ontologies/2019/2/oscar-ontology#Actor>        |
+| "Indiana Jones and the Kingdom of the Crystal Skull "             | 1000            | <http://www.semanticweb.org/rohanchhokra/ontologies/2019/2/oscar-ontology#FilmCrew>     |
+| "Indiana Jones and the Kingdom of the Crystal Skull "             | 1000            | <https://schema.org/Person>                                                             |
+| "Indiana Jones and the Kingdom of the Crystal Skull "             | 1000            | <http://www.semanticweb.org/rohanchhokra/ontologies/2019/2/oscar-ontology#SupportActor> |
+| "Indiana Jones and the Kingdom of the Crystal Skull "             | 1000            | <http://www.semanticweb.org/rohanchhokra/ontologies/2019/2/oscar-ontology#Actor>        |
+| "Indiana Jones and the Kingdom of the Crystal Skull "             | 1000            | <http://www.semanticweb.org/rohanchhokra/ontologies/2019/2/oscar-ontology#FilmCrew>     |
+| "Indiana Jones and the Kingdom of the Crystal Skull "             | 1000            | <https://schema.org/Person>                                                             |
+| "Indiana Jones and the Kingdom of the Crystal Skull "             | 1000            | <http://www.semanticweb.org/rohanchhokra/ontologies/2019/2/oscar-ontology#SupportActor> |
+| "Indiana Jones and the Kingdom of the Crystal Skull "             | 1000            | <http://www.semanticweb.org/rohanchhokra/ontologies/2019/2/oscar-ontology#Actor>        |
+| "The Good Dinosaur "                                              | 113             | <http://www.semanticweb.org/rohanchhokra/ontologies/2019/2/oscar-ontology#Director>     |
+| "The Good Dinosaur "                                              | 113             | <http://www.semanticweb.org/rohanchhokra/ontologies/2019/2/oscar-ontology#FilmCrew>     |
+| "The Good Dinosaur "                                              | 113             | <https://schema.org/Person>                                                             |
+| "The Good Dinosaur "                                              | 113             | <http://www.semanticweb.org/rohanchhokra/ontologies/2019/2/oscar-ontology#FilmCrew>     |
+| "The Good Dinosaur "                                              | 113             | <https://schema.org/Person>                                                             |
+| "The Good Dinosaur "                                              | 113             | <http://www.semanticweb.org/rohanchhokra/ontologies/2019/2/oscar-ontology#SupportActor> |
+| "The Good Dinosaur "                                              | 113             | <http://www.semanticweb.org/rohanchhokra/ontologies/2019/2/oscar-ontology#Actor>        |
+| "The Good Dinosaur "                                              | 113             | <http://www.semanticweb.org/rohanchhokra/ontologies/2019/2/oscar-ontology#FilmCrew>     |
+| "The Good Dinosaur "                                              | 113             | <https://schema.org/Person>                                                             |
+| "The Good Dinosaur "                                              | 113             | <http://www.semanticweb.org/rohanchhokra/ontologies/2019/2/oscar-ontology#SupportActor> |
+| "The Good Dinosaur "                                              | 113             | <http://www.semanticweb.org/rohanchhokra/ontologies/2019/2/oscar-ontology#Actor>        |
+| "The Good Dinosaur "                                              | 150             | <http://www.semanticweb.org/rohanchhokra/ontologies/2019/2/oscar-ontology#FilmCrew>     |
+| "The Good Dinosaur "                                              | 150             | <https://schema.org/Person>                                                             |
+| "The Good Dinosaur "                                              | 150             | <http://www.semanticweb.org/rohanchhokra/ontologies/2019/2/oscar-ontology#SupportActor> |
+| "The Good Dinosaur "                                              | 150             | <http://www.semanticweb.org/rohanchhokra/ontologies/2019/2/oscar-ontology#Actor>        |
+| "Brave "                                                          | 56              | <http://www.semanticweb.org/rohanchhokra/ontologies/2019/2/oscar-ontology#Director>     |
+| "Brave "                                                          | 56              | <http://www.semanticweb.org/rohanchhokra/ontologies/2019/2/oscar-ontology#FilmCrew>     |
+| "Brave "                                                          | 56              | <https://schema.org/Person>                                                             |
+| "Brave "                                                          | 838             | <http://www.semanticweb.org/rohanchhokra/ontologies/2019/2/oscar-ontology#FilmCrew>     |
+| "Brave "                                                          | 838             | <https://schema.org/Person>                                                             |
+| "Brave "                                                          | 838             | <http://www.semanticweb.org/rohanchhokra/ontologies/2019/2/oscar-ontology#SupportActor> |
+| "Brave "                                                          | 838             | <http://www.semanticweb.org/rohanchhokra/ontologies/2019/2/oscar-ontology#Actor>        |
+| "Brave "                                                          | 838             | <http://www.semanticweb.org/rohanchhokra/ontologies/2019/2/oscar-ontology#FilmCrew>     |
+| "Brave "                                                          | 838             | <https://schema.org/Person>                                                             |
+| "Brave "                                                          | 838             | <http://www.semanticweb.org/rohanchhokra/ontologies/2019/2/oscar-ontology#SupportActor> |
+| "Brave "                                                          | 838             | <http://www.semanticweb.org/rohanchhokra/ontologies/2019/2/oscar-ontology#Actor>        |
+| "Brave "                                                          | 1000            | <http://www.semanticweb.org/rohanchhokra/ontologies/2019/2/oscar-ontology#FilmCrew>     |
+| "Brave "                                                          | 1000            | <https://schema.org/Person>                                                             |
+| "Brave "                                                          | 1000            | <http://www.semanticweb.org/rohanchhokra/ontologies/2019/2/oscar-ontology#SupportActor> |
+| "Brave "                                                          | 1000            | <http://www.semanticweb.org/rohanchhokra/ontologies/2019/2/oscar-ontology#Actor>        |
+| "Star Trek Beyond "                                               | 681             | <http://www.semanticweb.org/rohanchhokra/ontologies/2019/2/oscar-ontology#Director>     |
+| "Star Trek Beyond "                                               | 681             | <http://www.semanticweb.org/rohanchhokra/ontologies/2019/2/oscar-ontology#FilmCrew>     |
+| "Star Trek Beyond "                                               | 681             | <https://schema.org/Person>                                                             |
+| "Star Trek Beyond "                                               | 105             | <http://www.semanticweb.org/rohanchhokra/ontologies/2019/2/oscar-ontology#FilmCrew>     |
+| "Star Trek Beyond "                                               | 105             | <https://schema.org/Person>                                                             |
+| "Star Trek Beyond "                                               | 105             | <http://www.semanticweb.org/rohanchhokra/ontologies/2019/2/oscar-ontology#SupportActor> |
+| "Star Trek Beyond "                                               | 105             | <http://www.semanticweb.org/rohanchhokra/ontologies/2019/2/oscar-ontology#Actor>        |
+| "Star Trek Beyond "                                               | 105             | <http://www.semanticweb.org/rohanchhokra/ontologies/2019/2/oscar-ontology#FilmCrew>     |
+| "Star Trek Beyond "                                               | 105             | <https://schema.org/Person>                                                             |
+| "Star Trek Beyond "                                               | 105             | <http://www.semanticweb.org/rohanchhokra/ontologies/2019/2/oscar-ontology#SupportActor> |
+| "Star Trek Beyond "                                               | 105             | <http://www.semanticweb.org/rohanchhokra/ontologies/2019/2/oscar-ontology#Actor>        |
+| "Star Trek Beyond "                                               | 119             | <http://www.semanticweb.org/rohanchhokra/ontologies/2019/2/oscar-ontology#FilmCrew>     |
+| "Star Trek Beyond "                                               | 119             | <https://schema.org/Person>                                                             |
+| "Star Trek Beyond "                                               | 119             | <http://www.semanticweb.org/rohanchhokra/ontologies/2019/2/oscar-ontology#SupportActor> |
+| "Star Trek Beyond "                                               | 119             | <http://www.semanticweb.org/rohanchhokra/ontologies/2019/2/oscar-ontology#Actor>        |
+| "WALL·E "                                                         | 475             | <http://www.semanticweb.org/rohanchhokra/ontologies/2019/2/oscar-ontology#Director>     |
+| "WALL·E "                                                         | 475             | <http://www.semanticweb.org/rohanchhokra/ontologies/2019/2/oscar-ontology#FilmCrew>     |
+| "WALL·E "                                                         | 475             | <https://schema.org/Person>                                                             |
+| "WALL·E "                                                         | 522             | <http://www.semanticweb.org/rohanchhokra/ontologies/2019/2/oscar-ontology#FilmCrew>     |
+| "WALL·E "                                                         | 522             | <https://schema.org/Person>                                                             |
+| "WALL·E "                                                         | 522             | <http://www.semanticweb.org/rohanchhokra/ontologies/2019/2/oscar-ontology#SupportActor> |
+| "WALL·E "                                                         | 522             | <http://www.semanticweb.org/rohanchhokra/ontologies/2019/2/oscar-ontology#Actor>        |
+| "WALL·E "                                                         | 522             | <http://www.semanticweb.org/rohanchhokra/ontologies/2019/2/oscar-ontology#FilmCrew>     |
+| "WALL·E "                                                         | 522             | <https://schema.org/Person>                                                             |
+| "WALL·E "                                                         | 522             | <http://www.semanticweb.org/rohanchhokra/ontologies/2019/2/oscar-ontology#SupportActor> |
+| "WALL·E "                                                         | 522             | <http://www.semanticweb.org/rohanchhokra/ontologies/2019/2/oscar-ontology#Actor>        |
+| "WALL·E "                                                         | 729             | <http://www.semanticweb.org/rohanchhokra/ontologies/2019/2/oscar-ontology#FilmCrew>     |
+| "WALL·E "                                                         | 729             | <https://schema.org/Person>                                                             |
+| "WALL·E "                                                         | 729             | <http://www.semanticweb.org/rohanchhokra/ontologies/2019/2/oscar-ontology#SupportActor> |
+| "WALL·E "                                                         | 729             | <http://www.semanticweb.org/rohanchhokra/ontologies/2019/2/oscar-ontology#Actor>        |
+| "Rush Hour 3 "                                                    | 420             | <http://www.semanticweb.org/rohanchhokra/ontologies/2019/2/oscar-ontology#Director>     |
+| "Rush Hour 3 "                                                    | 420             | <http://www.semanticweb.org/rohanchhokra/ontologies/2019/2/oscar-ontology#FilmCrew>     |
+| "Rush Hour 3 "                                                    | 420             | <https://schema.org/Person>                                                             |
+| "Rush Hour 3 "                                                    | 173             | <http://www.semanticweb.org/rohanchhokra/ontologies/2019/2/oscar-ontology#FilmCrew>     |
+| "Rush Hour 3 "                                                    | 173             | <https://schema.org/Person>                                                             |
+| "Rush Hour 3 "                                                    | 173             | <http://www.semanticweb.org/rohanchhokra/ontologies/2019/2/oscar-ontology#SupportActor> |
+| "Rush Hour 3 "                                                    | 173             | <http://www.semanticweb.org/rohanchhokra/ontologies/2019/2/oscar-ontology#Actor>        |
+| "Rush Hour 3 "                                                    | 173             | <http://www.semanticweb.org/rohanchhokra/ontologies/2019/2/oscar-ontology#FilmCrew>     |
+| "Rush Hour 3 "                                                    | 173             | <https://schema.org/Person>                                                             |
+| "Rush Hour 3 "                                                    | 173             | <http://www.semanticweb.org/rohanchhokra/ontologies/2019/2/oscar-ontology#SupportActor> |
+| "Rush Hour 3 "                                                    | 173             | <http://www.semanticweb.org/rohanchhokra/ontologies/2019/2/oscar-ontology#Actor>        |
+| "Rush Hour 3 "                                                    | 268             | <http://www.semanticweb.org/rohanchhokra/ontologies/2019/2/oscar-ontology#FilmCrew>     |
+| "Rush Hour 3 "                                                    | 268             | <https://schema.org/Person>                                                             |
+| "Rush Hour 3 "                                                    | 268             | <http://www.semanticweb.org/rohanchhokra/ontologies/2019/2/oscar-ontology#SupportActor> |
+| "Rush Hour 3 "                                                    | 268             | <http://www.semanticweb.org/rohanchhokra/ontologies/2019/2/oscar-ontology#Actor>        |
+| "2012 "                                                           | 776             | <http://www.semanticweb.org/rohanchhokra/ontologies/2019/2/oscar-ontology#Director>     |
+| "2012 "                                                           | 776             | <http://www.semanticweb.org/rohanchhokra/ontologies/2019/2/oscar-ontology#FilmCrew>     |
+| "2012 "                                                           | 776             | <https://schema.org/Person>                                                             |
+| "2012 "                                                           | 310             | <http://www.semanticweb.org/rohanchhokra/ontologies/2019/2/oscar-ontology#FilmCrew>     |
+| "2012 "                                                           | 310             | <https://schema.org/Person>                                                             |
+| "2012 "                                                           | 310             | <http://www.semanticweb.org/rohanchhokra/ontologies/2019/2/oscar-ontology#SupportActor> |
+| "2012 "                                                           | 310             | <http://www.semanticweb.org/rohanchhokra/ontologies/2019/2/oscar-ontology#Actor>        |
+| "2012 "                                                           | 310             | <http://www.semanticweb.org/rohanchhokra/ontologies/2019/2/oscar-ontology#FilmCrew>     |
+| "2012 "                                                           | 310             | <https://schema.org/Person>                                                             |
+| "2012 "                                                           | 310             | <http://www.semanticweb.org/rohanchhokra/ontologies/2019/2/oscar-ontology#SupportActor> |
+| "2012 "                                                           | 310             | <http://www.semanticweb.org/rohanchhokra/ontologies/2019/2/oscar-ontology#Actor>        |
+| "2012 "                                                           | 468             | <http://www.semanticweb.org/rohanchhokra/ontologies/2019/2/oscar-ontology#FilmCrew>     |
+| "2012 "                                                           | 468             | <https://schema.org/Person>                                                             |
+| "2012 "                                                           | 468             | <http://www.semanticweb.org/rohanchhokra/ontologies/2019/2/oscar-ontology#SupportActor> |
+| "2012 "                                                           | 468             | <http://www.semanticweb.org/rohanchhokra/ontologies/2019/2/oscar-ontology#Actor>        |
+| "A Christmas Carol "                                              | 0               | <http://www.semanticweb.org/rohanchhokra/ontologies/2019/2/oscar-ontology#Director>     |
+| "A Christmas Carol "                                              | 0               | <http://www.semanticweb.org/rohanchhokra/ontologies/2019/2/oscar-ontology#FilmCrew>     |
+| "A Christmas Carol "                                              | 0               | <https://schema.org/Person>                                                             |
+| "A Christmas Carol "                                              | 10000           | <http://www.semanticweb.org/rohanchhokra/ontologies/2019/2/oscar-ontology#FilmCrew>     |
+| "A Christmas Carol "                                              | 10000           | <https://schema.org/Person>                                                             |
+| "A Christmas Carol "                                              | 10000           | <http://www.semanticweb.org/rohanchhokra/ontologies/2019/2/oscar-ontology#SupportActor> |
+| "A Christmas Carol "                                              | 10000           | <http://www.semanticweb.org/rohanchhokra/ontologies/2019/2/oscar-ontology#Actor>        |
+| "A Christmas Carol "                                              | 10000           | <http://www.semanticweb.org/rohanchhokra/ontologies/2019/2/oscar-ontology#FilmCrew>     |
+| "A Christmas Carol "                                              | 10000           | <https://schema.org/Person>                                                             |
+| "A Christmas Carol "                                              | 10000           | <http://www.semanticweb.org/rohanchhokra/ontologies/2019/2/oscar-ontology#SupportActor> |
+| "A Christmas Carol "                                              | 10000           | <http://www.semanticweb.org/rohanchhokra/ontologies/2019/2/oscar-ontology#Actor>        |
+| "A Christmas Carol "                                              | 14000           | <http://www.semanticweb.org/rohanchhokra/ontologies/2019/2/oscar-ontology#FilmCrew>     |
+| "A Christmas Carol "                                              | 14000           | <https://schema.org/Person>                                                             |
+| "A Christmas Carol "                                              | 14000           | <http://www.semanticweb.org/rohanchhokra/ontologies/2019/2/oscar-ontology#SupportActor> |
+| "A Christmas Carol "                                              | 14000           | <http://www.semanticweb.org/rohanchhokra/ontologies/2019/2/oscar-ontology#Actor>        |
+| "Jupiter Ascending "                                              | 0               | <http://www.semanticweb.org/rohanchhokra/ontologies/2019/2/oscar-ontology#Director>     |
+| "Jupiter Ascending "                                              | 0               | <http://www.semanticweb.org/rohanchhokra/ontologies/2019/2/oscar-ontology#FilmCrew>     |
+| "Jupiter Ascending "                                              | 0               | <https://schema.org/Person>                                                             |
+| "Jupiter Ascending "                                              | 13000           | <http://www.semanticweb.org/rohanchhokra/ontologies/2019/2/oscar-ontology#FilmCrew>     |
+| "Jupiter Ascending "                                              | 13000           | <https://schema.org/Person>                                                             |
+| "Jupiter Ascending "                                              | 13000           | <http://www.semanticweb.org/rohanchhokra/ontologies/2019/2/oscar-ontology#SupportActor> |
+| "Jupiter Ascending "                                              | 13000           | <http://www.semanticweb.org/rohanchhokra/ontologies/2019/2/oscar-ontology#Actor>        |
+| "Jupiter Ascending "                                              | 13000           | <http://www.semanticweb.org/rohanchhokra/ontologies/2019/2/oscar-ontology#FilmCrew>     |
+| "Jupiter Ascending "                                              | 13000           | <https://schema.org/Person>                                                             |
+| "Jupiter Ascending "                                              | 13000           | <http://www.semanticweb.org/rohanchhokra/ontologies/2019/2/oscar-ontology#SupportActor> |
+| "Jupiter Ascending "                                              | 13000           | <http://www.semanticweb.org/rohanchhokra/ontologies/2019/2/oscar-ontology#Actor>        |
+| "Jupiter Ascending "                                              | 15000           | <http://www.semanticweb.org/rohanchhokra/ontologies/2019/2/oscar-ontology#FilmCrew>     |
+| "Jupiter Ascending "                                              | 15000           | <https://schema.org/Person>                                                             |
+| "Jupiter Ascending "                                              | 15000           | <http://www.semanticweb.org/rohanchhokra/ontologies/2019/2/oscar-ontology#SupportActor> |
+| "Jupiter Ascending "                                              | 15000           | <http://www.semanticweb.org/rohanchhokra/ontologies/2019/2/oscar-ontology#Actor>        |
+| "The Legend of Tarzan "                                           | 282             | <http://www.semanticweb.org/rohanchhokra/ontologies/2019/2/oscar-ontology#Director>     |
+| "The Legend of Tarzan "                                           | 282             | <http://www.semanticweb.org/rohanchhokra/ontologies/2019/2/oscar-ontology#FilmCrew>     |
+| "The Legend of Tarzan "                                           | 282             | <https://schema.org/Person>                                                             |
+| "The Legend of Tarzan "                                           | 103             | <http://www.semanticweb.org/rohanchhokra/ontologies/2019/2/oscar-ontology#FilmCrew>     |
+| "The Legend of Tarzan "                                           | 103             | <https://schema.org/Person>                                                             |
+| "The Legend of Tarzan "                                           | 103             | <http://www.semanticweb.org/rohanchhokra/ontologies/2019/2/oscar-ontology#SupportActor> |
+| "The Legend of Tarzan "                                           | 103             | <http://www.semanticweb.org/rohanchhokra/ontologies/2019/2/oscar-ontology#Actor>        |
+| "The Legend of Tarzan "                                           | 103             | <http://www.semanticweb.org/rohanchhokra/ontologies/2019/2/oscar-ontology#FilmCrew>     |
+| "The Legend of Tarzan "                                           | 103             | <https://schema.org/Person>                                                             |
+| "The Legend of Tarzan "                                           | 103             | <http://www.semanticweb.org/rohanchhokra/ontologies/2019/2/oscar-ontology#SupportActor> |
+| "The Legend of Tarzan "                                           | 103             | <http://www.semanticweb.org/rohanchhokra/ontologies/2019/2/oscar-ontology#Actor>        |
+| "The Legend of Tarzan "                                           | 10000           | <http://www.semanticweb.org/rohanchhokra/ontologies/2019/2/oscar-ontology#FilmCrew>     |
+| "The Legend of Tarzan "                                           | 10000           | <https://schema.org/Person>                                                             |
+| "The Legend of Tarzan "                                           | 10000           | <http://www.semanticweb.org/rohanchhokra/ontologies/2019/2/oscar-ontology#SupportActor> |
+| "The Legend of Tarzan "                                           | 10000           | <http://www.semanticweb.org/rohanchhokra/ontologies/2019/2/oscar-ontology#Actor>        |
+| "The Chronicles of Narnia: The Lion, the Witch and the Wardrobe " | 80              | <http://www.semanticweb.org/rohanchhokra/ontologies/2019/2/oscar-ontology#Director>     |
+| "The Chronicles of Narnia: The Lion, the Witch and the Wardrobe " | 80              | <http://www.semanticweb.org/rohanchhokra/ontologies/2019/2/oscar-ontology#FilmCrew>     |
+| "The Chronicles of Narnia: The Lion, the Witch and the Wardrobe " | 80              | <https://schema.org/Person>                                                             |
+| "The Chronicles of Narnia: The Lion, the Witch and the Wardrobe " | 82              | <http://www.semanticweb.org/rohanchhokra/ontologies/2019/2/oscar-ontology#FilmCrew>     |
+| "The Chronicles of Narnia: The Lion, the Witch and the Wardrobe " | 82              | <https://schema.org/Person>                                                             |
+| "The Chronicles of Narnia: The Lion, the Witch and the Wardrobe " | 82              | <http://www.semanticweb.org/rohanchhokra/ontologies/2019/2/oscar-ontology#SupportActor> |
+| "The Chronicles of Narnia: The Lion, the Witch and the Wardrobe " | 82              | <http://www.semanticweb.org/rohanchhokra/ontologies/2019/2/oscar-ontology#Actor>        |
+| "The Chronicles of Narnia: The Lion, the Witch and the Wardrobe " | 82              | <http://www.semanticweb.org/rohanchhokra/ontologies/2019/2/oscar-ontology#FilmCrew>     |
+| "The Chronicles of Narnia: The Lion, the Witch and the Wardrobe " | 82              | <https://schema.org/Person>                                                             |
+| "The Chronicles of Narnia: The Lion, the Witch and the Wardrobe " | 82              | <http://www.semanticweb.org/rohanchhokra/ontologies/2019/2/oscar-ontology#SupportActor> |
+| "The Chronicles of Narnia: The Lion, the Witch and the Wardrobe " | 82              | <http://www.semanticweb.org/rohanchhokra/ontologies/2019/2/oscar-ontology#Actor>        |
+| "The Chronicles of Narnia: The Lion, the Witch and the Wardrobe " | 190             | <http://www.semanticweb.org/rohanchhokra/ontologies/2019/2/oscar-ontology#FilmCrew>     |
+| "The Chronicles of Narnia: The Lion, the Witch and the Wardrobe " | 190             | <https://schema.org/Person>                                                             |
+| "The Chronicles of Narnia: The Lion, the Witch and the Wardrobe " | 190             | <http://www.semanticweb.org/rohanchhokra/ontologies/2019/2/oscar-ontology#SupportActor> |
+| "The Chronicles of Narnia: The Lion, the Witch and the Wardrobe " | 190             | <http://www.semanticweb.org/rohanchhokra/ontologies/2019/2/oscar-ontology#Actor>        |
+| "X-Men: Apocalypse "                                              | 0               | <http://www.semanticweb.org/rohanchhokra/ontologies/2019/2/oscar-ontology#Director>     |
+| "X-Men: Apocalypse "                                              | 0               | <http://www.semanticweb.org/rohanchhokra/ontologies/2019/2/oscar-ontology#FilmCrew>     |
+| "X-Men: Apocalypse "                                              | 0               | <https://schema.org/Person>                                                             |
+| "X-Men: Apocalypse "                                              | 1000            | <http://www.semanticweb.org/rohanchhokra/ontologies/2019/2/oscar-ontology#FilmCrew>     |
+| "X-Men: Apocalypse "                                              | 1000            | <https://schema.org/Person>                                                             |
+| "X-Men: Apocalypse "                                              | 1000            | <http://www.semanticweb.org/rohanchhokra/ontologies/2019/2/oscar-ontology#SupportActor> |
+| "X-Men: Apocalypse "                                              | 1000            | <http://www.semanticweb.org/rohanchhokra/ontologies/2019/2/oscar-ontology#Actor>        |
+| "X-Men: Apocalypse "                                              | 1000            | <http://www.semanticweb.org/rohanchhokra/ontologies/2019/2/oscar-ontology#FilmCrew>     |
+| "X-Men: Apocalypse "                                              | 1000            | <https://schema.org/Person>                                                             |
+| "X-Men: Apocalypse "                                              | 1000            | <http://www.semanticweb.org/rohanchhokra/ontologies/2019/2/oscar-ontology#SupportActor> |
+| "X-Men: Apocalypse "                                              | 1000            | <http://www.semanticweb.org/rohanchhokra/ontologies/2019/2/oscar-ontology#Actor>        |
+| "X-Men: Apocalypse "                                              | 13000           | <http://www.semanticweb.org/rohanchhokra/ontologies/2019/2/oscar-ontology#FilmCrew>     |
+| "X-Men: Apocalypse "                                              | 13000           | <https://schema.org/Person>                                                             |
+| "X-Men: Apocalypse "                                              | 13000           | <http://www.semanticweb.org/rohanchhokra/ontologies/2019/2/oscar-ontology#SupportActor> |
+| "X-Men: Apocalypse "                                              | 13000           | <http://www.semanticweb.org/rohanchhokra/ontologies/2019/2/oscar-ontology#Actor>        |
+| "The Dark Knight "                                                | 22000           | <http://www.semanticweb.org/rohanchhokra/ontologies/2019/2/oscar-ontology#Director>     |
+| "The Dark Knight "                                                | 22000           | <http://www.semanticweb.org/rohanchhokra/ontologies/2019/2/oscar-ontology#FilmCrew>     |
+| "The Dark Knight "                                                | 22000           | <https://schema.org/Person>                                                             |
+| "The Dark Knight "                                                | 11000           | <http://www.semanticweb.org/rohanchhokra/ontologies/2019/2/oscar-ontology#FilmCrew>     |
+| "The Dark Knight "                                                | 11000           | <https://schema.org/Person>                                                             |
+| "The Dark Knight "                                                | 11000           | <http://www.semanticweb.org/rohanchhokra/ontologies/2019/2/oscar-ontology#SupportActor> |
+| "The Dark Knight "                                                | 11000           | <http://www.semanticweb.org/rohanchhokra/ontologies/2019/2/oscar-ontology#Actor>        |
+| "The Dark Knight "                                                | 11000           | <http://www.semanticweb.org/rohanchhokra/ontologies/2019/2/oscar-ontology#FilmCrew>     |
+| "The Dark Knight "                                                | 11000           | <https://schema.org/Person>                                                             |
+| "The Dark Knight "                                                | 11000           | <http://www.semanticweb.org/rohanchhokra/ontologies/2019/2/oscar-ontology#SupportActor> |
+| "The Dark Knight "                                                | 11000           | <http://www.semanticweb.org/rohanchhokra/ontologies/2019/2/oscar-ontology#Actor>        |
+| "The Dark Knight "                                                | 13000           | <http://www.semanticweb.org/rohanchhokra/ontologies/2019/2/oscar-ontology#FilmCrew>     |
+| "The Dark Knight "                                                | 13000           | <https://schema.org/Person>                                                             |
+| "The Dark Knight "                                                | 13000           | <http://www.semanticweb.org/rohanchhokra/ontologies/2019/2/oscar-ontology#SupportActor> |
+| "The Dark Knight "                                                | 13000           | <http://www.semanticweb.org/rohanchhokra/ontologies/2019/2/oscar-ontology#Actor>        |
+| "Up "                                                             | 0               | <http://www.semanticweb.org/rohanchhokra/ontologies/2019/2/oscar-ontology#Director>     |
+| "Up "                                                             | 0               | <http://www.semanticweb.org/rohanchhokra/ontologies/2019/2/oscar-ontology#FilmCrew>     |
+| "Up "                                                             | 0               | <https://schema.org/Person>                                                             |
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------

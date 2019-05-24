@@ -1,0 +1,3299 @@
+<?xml version="1.0"?>
+<Ontology xmlns="http://www.w3.org/2002/07/owl#"
+     xml:base="http://schema.org/Movie"
+     xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+     xmlns:xml="http://www.w3.org/XML/1998/namespace"
+     xmlns:xsd="http://www.w3.org/2001/XMLSchema#"
+     xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+     ontologyIRI="http://schema.org/Movie">
+    <Prefix name="owl" IRI="http://www.w3.org/2002/07/owl#"/>
+    <Prefix name="rdf" IRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#"/>
+    <Prefix name="xml" IRI="http://www.w3.org/XML/1998/namespace"/>
+    <Prefix name="xsd" IRI="http://www.w3.org/2001/XMLSchema#"/>
+    <Prefix name="rdfs" IRI="http://www.w3.org/2000/01/rdf-schema#"/>
+    <Prefix name="schema" IRI="http://schema.org/"/>
+    <Prefix name="dcterms" IRI="http://purl.org/dc/terms/"/>
+    <Declaration>
+        <Class abbreviatedIRI="schema:CreativeWork"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI=""/>
+    </Declaration>
+    <Declaration>
+        <Class abbreviatedIRI="schema:Thing"/>
+    </Declaration>
+    <Declaration>
+        <AnnotationProperty abbreviatedIRI="schema:sponsor"/>
+    </Declaration>
+    <Declaration>
+        <AnnotationProperty abbreviatedIRI="schema:funder"/>
+    </Declaration>
+    <Declaration>
+        <AnnotationProperty abbreviatedIRI="schema:category"/>
+    </Declaration>
+    <Declaration>
+        <AnnotationProperty abbreviatedIRI="schema:description"/>
+    </Declaration>
+    <Declaration>
+        <AnnotationProperty abbreviatedIRI="dcterms:source"/>
+    </Declaration>
+    <Declaration>
+        <AnnotationProperty abbreviatedIRI="schema:disambiguatingDescription"/>
+    </Declaration>
+    <Declaration>
+        <AnnotationProperty abbreviatedIRI="schema:additionalType"/>
+    </Declaration>
+    <Declaration>
+        <AnnotationProperty abbreviatedIRI="schema:domainIncludes"/>
+    </Declaration>
+    <Declaration>
+        <AnnotationProperty abbreviatedIRI="schema:name"/>
+    </Declaration>
+    <Declaration>
+        <AnnotationProperty abbreviatedIRI="schema:mainEntity"/>
+    </Declaration>
+    <Declaration>
+        <AnnotationProperty abbreviatedIRI="schema:inverseOf"/>
+    </Declaration>
+    <Declaration>
+        <AnnotationProperty abbreviatedIRI="schema:supersededBy"/>
+    </Declaration>
+    <Declaration>
+        <AnnotationProperty IRI="rdfs:label"/>
+    </Declaration>
+    <Declaration>
+        <AnnotationProperty abbreviatedIRI="schema:isPartOf"/>
+    </Declaration>
+    <Declaration>
+        <AnnotationProperty abbreviatedIRI="schema:spatialCoverage"/>
+    </Declaration>
+    <Declaration>
+        <AnnotationProperty abbreviatedIRI="schema:contentLocation"/>
+    </Declaration>
+    <Declaration>
+        <AnnotationProperty abbreviatedIRI="schema:about"/>
+    </Declaration>
+    <Declaration>
+        <AnnotationProperty abbreviatedIRI="schema:rangeIncludes"/>
+    </Declaration>
+    <Declaration>
+        <AnnotationProperty abbreviatedIRI="rdf:type"/>
+    </Declaration>
+    <SubClassOf>
+        <Class abbreviatedIRI="schema:CreativeWork"/>
+        <Class abbreviatedIRI="schema:Thing"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI=""/>
+        <Class abbreviatedIRI="schema:CreativeWork"/>
+    </SubClassOf>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="dcterms:source"/>
+        <AbbreviatedIRI>schema:CreativeWork</AbbreviatedIRI>
+        <IRI>http://www.w3.org/wiki/WebSchemas/SchemaDotOrgSources#source_rNews</IRI>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:comment"/>
+        <AbbreviatedIRI>schema:CreativeWork</AbbreviatedIRI>
+        <Literal>The most generic kind of creative work, including books, movies, photographs, software programs, etc.</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <AbbreviatedIRI>schema:CreativeWork</AbbreviatedIRI>
+        <Literal>CreativeWork</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:comment"/>
+        <IRI></IRI>
+        <Literal>A movie.</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI></IRI>
+        <Literal>Movie</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:comment"/>
+        <AbbreviatedIRI>schema:Thing</AbbreviatedIRI>
+        <Literal>The most generic type of item.</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <AbbreviatedIRI>schema:Thing</AbbreviatedIRI>
+        <Literal>Thing</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="dcterms:source"/>
+        <AbbreviatedIRI>schema:about</AbbreviatedIRI>
+        <IRI>https://github.com/schemaorg/schemaorg/issues/1670</IRI>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="schema:category"/>
+        <AbbreviatedIRI>schema:about</AbbreviatedIRI>
+        <Literal>issue-1670</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="schema:domainIncludes"/>
+        <AbbreviatedIRI>schema:about</AbbreviatedIRI>
+        <AbbreviatedIRI>schema:CreativeWork</AbbreviatedIRI>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="schema:domainIncludes"/>
+        <AbbreviatedIRI>schema:about</AbbreviatedIRI>
+        <AbbreviatedIRI>schema:Event</AbbreviatedIRI>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="schema:inverseOf"/>
+        <AbbreviatedIRI>schema:about</AbbreviatedIRI>
+        <AbbreviatedIRI>schema:subjectOf</AbbreviatedIRI>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="schema:rangeIncludes"/>
+        <AbbreviatedIRI>schema:about</AbbreviatedIRI>
+        <AbbreviatedIRI>schema:Thing</AbbreviatedIRI>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:comment"/>
+        <AbbreviatedIRI>schema:about</AbbreviatedIRI>
+        <Literal>The subject matter of the content.</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <AbbreviatedIRI>schema:about</AbbreviatedIRI>
+        <Literal>about</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="dcterms:source"/>
+        <AbbreviatedIRI>schema:accessMode</AbbreviatedIRI>
+        <IRI>https://github.com/schemaorg/schemaorg/issues/1100</IRI>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="schema:category"/>
+        <AbbreviatedIRI>schema:accessMode</AbbreviatedIRI>
+        <Literal>issue-1110</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="schema:domainIncludes"/>
+        <AbbreviatedIRI>schema:accessMode</AbbreviatedIRI>
+        <AbbreviatedIRI>schema:CreativeWork</AbbreviatedIRI>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="schema:rangeIncludes"/>
+        <AbbreviatedIRI>schema:accessMode</AbbreviatedIRI>
+        <AbbreviatedIRI>schema:Text</AbbreviatedIRI>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:comment"/>
+        <AbbreviatedIRI>schema:accessMode</AbbreviatedIRI>
+        <Literal>The human sensory perceptual system or cognitive faculty through which a person may process or perceive information. Expected values include: auditory, tactile, textual, visual, colorDependent, chartOnVisual, chemOnVisual, diagramOnVisual, mathOnVisual, musicOnVisual, textOnVisual.</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <AbbreviatedIRI>schema:accessMode</AbbreviatedIRI>
+        <Literal>accessMode</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="dcterms:source"/>
+        <AbbreviatedIRI>schema:accessModeSufficient</AbbreviatedIRI>
+        <IRI>https://github.com/schemaorg/schemaorg/issues/1100</IRI>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="schema:category"/>
+        <AbbreviatedIRI>schema:accessModeSufficient</AbbreviatedIRI>
+        <Literal>issue-1110</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="schema:domainIncludes"/>
+        <AbbreviatedIRI>schema:accessModeSufficient</AbbreviatedIRI>
+        <AbbreviatedIRI>schema:CreativeWork</AbbreviatedIRI>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="schema:rangeIncludes"/>
+        <AbbreviatedIRI>schema:accessModeSufficient</AbbreviatedIRI>
+        <AbbreviatedIRI>schema:Text</AbbreviatedIRI>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:comment"/>
+        <AbbreviatedIRI>schema:accessModeSufficient</AbbreviatedIRI>
+        <Literal>A list of single or combined accessModes that are sufficient to understand all the intellectual content of a resource. Expected values include:  auditory, tactile, textual, visual.</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <AbbreviatedIRI>schema:accessModeSufficient</AbbreviatedIRI>
+        <Literal>accessModeSufficient</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="schema:domainIncludes"/>
+        <AbbreviatedIRI>schema:accessibilityAPI</AbbreviatedIRI>
+        <AbbreviatedIRI>schema:CreativeWork</AbbreviatedIRI>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="schema:rangeIncludes"/>
+        <AbbreviatedIRI>schema:accessibilityAPI</AbbreviatedIRI>
+        <AbbreviatedIRI>schema:Text</AbbreviatedIRI>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:comment"/>
+        <AbbreviatedIRI>schema:accessibilityAPI</AbbreviatedIRI>
+        <Literal>Indicates that the resource is compatible with the referenced accessibility API (&lt;a href=&quot;http://www.w3.org/wiki/WebSchemas/Accessibility&quot;&gt;WebSchemas wiki lists possible values&lt;/a&gt;).</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <AbbreviatedIRI>schema:accessibilityAPI</AbbreviatedIRI>
+        <Literal>accessibilityAPI</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="schema:domainIncludes"/>
+        <AbbreviatedIRI>schema:accessibilityControl</AbbreviatedIRI>
+        <AbbreviatedIRI>schema:CreativeWork</AbbreviatedIRI>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="schema:rangeIncludes"/>
+        <AbbreviatedIRI>schema:accessibilityControl</AbbreviatedIRI>
+        <AbbreviatedIRI>schema:Text</AbbreviatedIRI>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:comment"/>
+        <AbbreviatedIRI>schema:accessibilityControl</AbbreviatedIRI>
+        <Literal>Identifies input methods that are sufficient to fully control the described resource (&lt;a href=&quot;http://www.w3.org/wiki/WebSchemas/Accessibility&quot;&gt;WebSchemas wiki lists possible values&lt;/a&gt;).</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <AbbreviatedIRI>schema:accessibilityControl</AbbreviatedIRI>
+        <Literal>accessibilityControl</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="schema:domainIncludes"/>
+        <AbbreviatedIRI>schema:accessibilityFeature</AbbreviatedIRI>
+        <AbbreviatedIRI>schema:CreativeWork</AbbreviatedIRI>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="schema:rangeIncludes"/>
+        <AbbreviatedIRI>schema:accessibilityFeature</AbbreviatedIRI>
+        <AbbreviatedIRI>schema:Text</AbbreviatedIRI>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:comment"/>
+        <AbbreviatedIRI>schema:accessibilityFeature</AbbreviatedIRI>
+        <Literal>Content features of the resource, such as accessible media, alternatives and supported enhancements for accessibility (&lt;a href=&quot;http://www.w3.org/wiki/WebSchemas/Accessibility&quot;&gt;WebSchemas wiki lists possible values&lt;/a&gt;).</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <AbbreviatedIRI>schema:accessibilityFeature</AbbreviatedIRI>
+        <Literal>accessibilityFeature</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="schema:domainIncludes"/>
+        <AbbreviatedIRI>schema:accessibilityHazard</AbbreviatedIRI>
+        <AbbreviatedIRI>schema:CreativeWork</AbbreviatedIRI>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="schema:rangeIncludes"/>
+        <AbbreviatedIRI>schema:accessibilityHazard</AbbreviatedIRI>
+        <AbbreviatedIRI>schema:Text</AbbreviatedIRI>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:comment"/>
+        <AbbreviatedIRI>schema:accessibilityHazard</AbbreviatedIRI>
+        <Literal>A characteristic of the described resource that is physiologically dangerous to some users. Related to WCAG 2.0 guideline 2.3 (&lt;a href=&quot;http://www.w3.org/wiki/WebSchemas/Accessibility&quot;&gt;WebSchemas wiki lists possible values&lt;/a&gt;).</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <AbbreviatedIRI>schema:accessibilityHazard</AbbreviatedIRI>
+        <Literal>accessibilityHazard</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="dcterms:source"/>
+        <AbbreviatedIRI>schema:accessibilitySummary</AbbreviatedIRI>
+        <IRI>https://github.com/schemaorg/schemaorg/issues/1100</IRI>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="schema:category"/>
+        <AbbreviatedIRI>schema:accessibilitySummary</AbbreviatedIRI>
+        <Literal>issue-1110</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="schema:domainIncludes"/>
+        <AbbreviatedIRI>schema:accessibilitySummary</AbbreviatedIRI>
+        <AbbreviatedIRI>schema:CreativeWork</AbbreviatedIRI>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="schema:rangeIncludes"/>
+        <AbbreviatedIRI>schema:accessibilitySummary</AbbreviatedIRI>
+        <AbbreviatedIRI>schema:Text</AbbreviatedIRI>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:comment"/>
+        <AbbreviatedIRI>schema:accessibilitySummary</AbbreviatedIRI>
+        <Literal>A human-readable summary of specific accessibility features or deficiencies, consistent with the other accessibility metadata but expressing subtleties such as &quot;short descriptions are present but long descriptions will be needed for non-visual users&quot; or &quot;short descriptions are present and no long descriptions are needed.&quot;</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <AbbreviatedIRI>schema:accessibilitySummary</AbbreviatedIRI>
+        <Literal>accessibilitySummary</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="schema:domainIncludes"/>
+        <AbbreviatedIRI>schema:accountablePerson</AbbreviatedIRI>
+        <AbbreviatedIRI>schema:CreativeWork</AbbreviatedIRI>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="schema:rangeIncludes"/>
+        <AbbreviatedIRI>schema:accountablePerson</AbbreviatedIRI>
+        <AbbreviatedIRI>schema:Person</AbbreviatedIRI>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:comment"/>
+        <AbbreviatedIRI>schema:accountablePerson</AbbreviatedIRI>
+        <Literal>Specifies the Person that is legally accountable for the CreativeWork.</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <AbbreviatedIRI>schema:accountablePerson</AbbreviatedIRI>
+        <Literal>accountablePerson</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="schema:domainIncludes"/>
+        <AbbreviatedIRI>schema:actor</AbbreviatedIRI>
+        <AbbreviatedIRI>schema:Event</AbbreviatedIRI>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="schema:domainIncludes"/>
+        <AbbreviatedIRI>schema:actor</AbbreviatedIRI>
+        <IRI></IRI>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="schema:rangeIncludes"/>
+        <AbbreviatedIRI>schema:actor</AbbreviatedIRI>
+        <AbbreviatedIRI>schema:Person</AbbreviatedIRI>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:comment"/>
+        <AbbreviatedIRI>schema:actor</AbbreviatedIRI>
+        <Literal>An actor, e.g. in tv, radio, movie, video games etc., or in an event. Actors can be associated with individual items or with a series, episode, clip.</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <AbbreviatedIRI>schema:actor</AbbreviatedIRI>
+        <Literal>actor</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="schema:domainIncludes"/>
+        <AbbreviatedIRI>schema:actors</AbbreviatedIRI>
+        <IRI></IRI>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="schema:rangeIncludes"/>
+        <AbbreviatedIRI>schema:actors</AbbreviatedIRI>
+        <AbbreviatedIRI>schema:Person</AbbreviatedIRI>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="schema:supersededBy"/>
+        <AbbreviatedIRI>schema:actors</AbbreviatedIRI>
+        <AbbreviatedIRI>schema:actor</AbbreviatedIRI>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:comment"/>
+        <AbbreviatedIRI>schema:actors</AbbreviatedIRI>
+        <Literal>An actor, e.g. in tv, radio, movie, video games etc. Actors can be associated with individual items or with a series, episode, clip.</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <AbbreviatedIRI>schema:actors</AbbreviatedIRI>
+        <Literal>actors</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="schema:domainIncludes"/>
+        <AbbreviatedIRI>schema:additionalType</AbbreviatedIRI>
+        <AbbreviatedIRI>schema:Thing</AbbreviatedIRI>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="schema:rangeIncludes"/>
+        <AbbreviatedIRI>schema:additionalType</AbbreviatedIRI>
+        <AbbreviatedIRI>schema:URL</AbbreviatedIRI>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:comment"/>
+        <AbbreviatedIRI>schema:additionalType</AbbreviatedIRI>
+        <Literal>An additional type for the item, typically used for adding more specific types from external vocabularies in microdata syntax. This is a relationship between something and a class that the thing is in. In RDFa syntax, it is better to use the native RDFa syntax - the &apos;typeof&apos; attribute - for multiple types. Schema.org tools may have only weaker understanding of extra types, in particular those defined externally.</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <AbbreviatedIRI>schema:additionalType</AbbreviatedIRI>
+        <Literal>additionalType</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="schema:domainIncludes"/>
+        <AbbreviatedIRI>schema:aggregateRating</AbbreviatedIRI>
+        <AbbreviatedIRI>schema:Brand</AbbreviatedIRI>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="schema:domainIncludes"/>
+        <AbbreviatedIRI>schema:aggregateRating</AbbreviatedIRI>
+        <AbbreviatedIRI>schema:CreativeWork</AbbreviatedIRI>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="schema:domainIncludes"/>
+        <AbbreviatedIRI>schema:aggregateRating</AbbreviatedIRI>
+        <AbbreviatedIRI>schema:Event</AbbreviatedIRI>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="schema:domainIncludes"/>
+        <AbbreviatedIRI>schema:aggregateRating</AbbreviatedIRI>
+        <AbbreviatedIRI>schema:Offer</AbbreviatedIRI>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="schema:domainIncludes"/>
+        <AbbreviatedIRI>schema:aggregateRating</AbbreviatedIRI>
+        <AbbreviatedIRI>schema:Organization</AbbreviatedIRI>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="schema:domainIncludes"/>
+        <AbbreviatedIRI>schema:aggregateRating</AbbreviatedIRI>
+        <AbbreviatedIRI>schema:Place</AbbreviatedIRI>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="schema:domainIncludes"/>
+        <AbbreviatedIRI>schema:aggregateRating</AbbreviatedIRI>
+        <AbbreviatedIRI>schema:Product</AbbreviatedIRI>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="schema:domainIncludes"/>
+        <AbbreviatedIRI>schema:aggregateRating</AbbreviatedIRI>
+        <AbbreviatedIRI>schema:Service</AbbreviatedIRI>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="schema:rangeIncludes"/>
+        <AbbreviatedIRI>schema:aggregateRating</AbbreviatedIRI>
+        <AbbreviatedIRI>schema:AggregateRating</AbbreviatedIRI>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:comment"/>
+        <AbbreviatedIRI>schema:aggregateRating</AbbreviatedIRI>
+        <Literal>The overall rating, based on a collection of reviews or ratings, of the item.</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <AbbreviatedIRI>schema:aggregateRating</AbbreviatedIRI>
+        <Literal>aggregateRating</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="schema:domainIncludes"/>
+        <AbbreviatedIRI>schema:alternateName</AbbreviatedIRI>
+        <AbbreviatedIRI>schema:Thing</AbbreviatedIRI>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="schema:rangeIncludes"/>
+        <AbbreviatedIRI>schema:alternateName</AbbreviatedIRI>
+        <AbbreviatedIRI>schema:Text</AbbreviatedIRI>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:comment"/>
+        <AbbreviatedIRI>schema:alternateName</AbbreviatedIRI>
+        <Literal>An alias for the item.</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <AbbreviatedIRI>schema:alternateName</AbbreviatedIRI>
+        <Literal>alternateName</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="schema:domainIncludes"/>
+        <AbbreviatedIRI>schema:alternativeHeadline</AbbreviatedIRI>
+        <AbbreviatedIRI>schema:CreativeWork</AbbreviatedIRI>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="schema:rangeIncludes"/>
+        <AbbreviatedIRI>schema:alternativeHeadline</AbbreviatedIRI>
+        <AbbreviatedIRI>schema:Text</AbbreviatedIRI>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:comment"/>
+        <AbbreviatedIRI>schema:alternativeHeadline</AbbreviatedIRI>
+        <Literal>A secondary title of the CreativeWork.</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <AbbreviatedIRI>schema:alternativeHeadline</AbbreviatedIRI>
+        <Literal>alternativeHeadline</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="schema:domainIncludes"/>
+        <AbbreviatedIRI>schema:associatedMedia</AbbreviatedIRI>
+        <AbbreviatedIRI>schema:CreativeWork</AbbreviatedIRI>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:comment"/>
+        <AbbreviatedIRI>schema:associatedMedia</AbbreviatedIRI>
+        <Literal>A media object that encodes this CreativeWork. This property is a synonym for encoding.</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <AbbreviatedIRI>schema:associatedMedia</AbbreviatedIRI>
+        <Literal>associatedMedia</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="schema:domainIncludes"/>
+        <AbbreviatedIRI>schema:audience</AbbreviatedIRI>
+        <AbbreviatedIRI>schema:CreativeWork</AbbreviatedIRI>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="schema:domainIncludes"/>
+        <AbbreviatedIRI>schema:audience</AbbreviatedIRI>
+        <AbbreviatedIRI>schema:Event</AbbreviatedIRI>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="schema:domainIncludes"/>
+        <AbbreviatedIRI>schema:audience</AbbreviatedIRI>
+        <AbbreviatedIRI>schema:LodgingBusiness</AbbreviatedIRI>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="schema:domainIncludes"/>
+        <AbbreviatedIRI>schema:audience</AbbreviatedIRI>
+        <AbbreviatedIRI>schema:PlayAction</AbbreviatedIRI>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="schema:domainIncludes"/>
+        <AbbreviatedIRI>schema:audience</AbbreviatedIRI>
+        <AbbreviatedIRI>schema:Product</AbbreviatedIRI>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="schema:domainIncludes"/>
+        <AbbreviatedIRI>schema:audience</AbbreviatedIRI>
+        <AbbreviatedIRI>schema:Service</AbbreviatedIRI>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="schema:rangeIncludes"/>
+        <AbbreviatedIRI>schema:audience</AbbreviatedIRI>
+        <AbbreviatedIRI>schema:Audience</AbbreviatedIRI>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:comment"/>
+        <AbbreviatedIRI>schema:audience</AbbreviatedIRI>
+        <Literal>An intended audience, i.e. a group for whom something was created.</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <AbbreviatedIRI>schema:audience</AbbreviatedIRI>
+        <Literal>audience</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="schema:domainIncludes"/>
+        <AbbreviatedIRI>schema:audio</AbbreviatedIRI>
+        <AbbreviatedIRI>schema:CreativeWork</AbbreviatedIRI>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="schema:rangeIncludes"/>
+        <AbbreviatedIRI>schema:audio</AbbreviatedIRI>
+        <AbbreviatedIRI>schema:AudioObject</AbbreviatedIRI>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:comment"/>
+        <AbbreviatedIRI>schema:audio</AbbreviatedIRI>
+        <Literal>An embedded audio object.</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <AbbreviatedIRI>schema:audio</AbbreviatedIRI>
+        <Literal>audio</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="schema:domainIncludes"/>
+        <AbbreviatedIRI>schema:author</AbbreviatedIRI>
+        <AbbreviatedIRI>schema:CreativeWork</AbbreviatedIRI>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="schema:domainIncludes"/>
+        <AbbreviatedIRI>schema:author</AbbreviatedIRI>
+        <AbbreviatedIRI>schema:Rating</AbbreviatedIRI>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="schema:rangeIncludes"/>
+        <AbbreviatedIRI>schema:author</AbbreviatedIRI>
+        <AbbreviatedIRI>schema:Organization</AbbreviatedIRI>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="schema:rangeIncludes"/>
+        <AbbreviatedIRI>schema:author</AbbreviatedIRI>
+        <AbbreviatedIRI>schema:Person</AbbreviatedIRI>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:comment"/>
+        <AbbreviatedIRI>schema:author</AbbreviatedIRI>
+        <Literal>The author of this content or rating. Please note that author is special in that HTML 5 provides a special mechanism for indicating authorship via the rel tag. That is equivalent to this and may be used interchangeably.</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <AbbreviatedIRI>schema:author</AbbreviatedIRI>
+        <Literal>author</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="schema:domainIncludes"/>
+        <AbbreviatedIRI>schema:award</AbbreviatedIRI>
+        <AbbreviatedIRI>schema:CreativeWork</AbbreviatedIRI>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="schema:domainIncludes"/>
+        <AbbreviatedIRI>schema:award</AbbreviatedIRI>
+        <AbbreviatedIRI>schema:Organization</AbbreviatedIRI>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="schema:domainIncludes"/>
+        <AbbreviatedIRI>schema:award</AbbreviatedIRI>
+        <AbbreviatedIRI>schema:Person</AbbreviatedIRI>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="schema:domainIncludes"/>
+        <AbbreviatedIRI>schema:award</AbbreviatedIRI>
+        <AbbreviatedIRI>schema:Product</AbbreviatedIRI>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="schema:domainIncludes"/>
+        <AbbreviatedIRI>schema:award</AbbreviatedIRI>
+        <AbbreviatedIRI>schema:Service</AbbreviatedIRI>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="schema:rangeIncludes"/>
+        <AbbreviatedIRI>schema:award</AbbreviatedIRI>
+        <AbbreviatedIRI>schema:Text</AbbreviatedIRI>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:comment"/>
+        <AbbreviatedIRI>schema:award</AbbreviatedIRI>
+        <Literal>An award won by or for this item.</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <AbbreviatedIRI>schema:award</AbbreviatedIRI>
+        <Literal>award</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="schema:domainIncludes"/>
+        <AbbreviatedIRI>schema:awards</AbbreviatedIRI>
+        <AbbreviatedIRI>schema:CreativeWork</AbbreviatedIRI>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="schema:domainIncludes"/>
+        <AbbreviatedIRI>schema:awards</AbbreviatedIRI>
+        <AbbreviatedIRI>schema:Organization</AbbreviatedIRI>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="schema:domainIncludes"/>
+        <AbbreviatedIRI>schema:awards</AbbreviatedIRI>
+        <AbbreviatedIRI>schema:Person</AbbreviatedIRI>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="schema:domainIncludes"/>
+        <AbbreviatedIRI>schema:awards</AbbreviatedIRI>
+        <AbbreviatedIRI>schema:Product</AbbreviatedIRI>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="schema:rangeIncludes"/>
+        <AbbreviatedIRI>schema:awards</AbbreviatedIRI>
+        <AbbreviatedIRI>schema:Text</AbbreviatedIRI>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="schema:supersededBy"/>
+        <AbbreviatedIRI>schema:awards</AbbreviatedIRI>
+        <AbbreviatedIRI>schema:award</AbbreviatedIRI>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:comment"/>
+        <AbbreviatedIRI>schema:awards</AbbreviatedIRI>
+        <Literal>Awards won by or for this item.</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <AbbreviatedIRI>schema:awards</AbbreviatedIRI>
+        <Literal>awards</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="schema:domainIncludes"/>
+        <AbbreviatedIRI>schema:character</AbbreviatedIRI>
+        <AbbreviatedIRI>schema:CreativeWork</AbbreviatedIRI>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="schema:rangeIncludes"/>
+        <AbbreviatedIRI>schema:character</AbbreviatedIRI>
+        <AbbreviatedIRI>schema:Person</AbbreviatedIRI>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:comment"/>
+        <AbbreviatedIRI>schema:character</AbbreviatedIRI>
+        <Literal>Fictional person connected with a creative work.</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <AbbreviatedIRI>schema:character</AbbreviatedIRI>
+        <Literal>character</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="schema:domainIncludes"/>
+        <AbbreviatedIRI>schema:citation</AbbreviatedIRI>
+        <AbbreviatedIRI>schema:CreativeWork</AbbreviatedIRI>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="schema:rangeIncludes"/>
+        <AbbreviatedIRI>schema:citation</AbbreviatedIRI>
+        <AbbreviatedIRI>schema:CreativeWork</AbbreviatedIRI>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="schema:rangeIncludes"/>
+        <AbbreviatedIRI>schema:citation</AbbreviatedIRI>
+        <AbbreviatedIRI>schema:Text</AbbreviatedIRI>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:comment"/>
+        <AbbreviatedIRI>schema:citation</AbbreviatedIRI>
+        <Literal>A citation or reference to another creative work, such as another publication, web page, scholarly article, etc.</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <AbbreviatedIRI>schema:citation</AbbreviatedIRI>
+        <Literal>citation</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="schema:domainIncludes"/>
+        <AbbreviatedIRI>schema:comment</AbbreviatedIRI>
+        <AbbreviatedIRI>schema:CreativeWork</AbbreviatedIRI>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="schema:domainIncludes"/>
+        <AbbreviatedIRI>schema:comment</AbbreviatedIRI>
+        <AbbreviatedIRI>schema:RsvpAction</AbbreviatedIRI>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="schema:rangeIncludes"/>
+        <AbbreviatedIRI>schema:comment</AbbreviatedIRI>
+        <AbbreviatedIRI>schema:Comment</AbbreviatedIRI>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:comment"/>
+        <AbbreviatedIRI>schema:comment</AbbreviatedIRI>
+        <Literal>Comments, typically from users.</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <AbbreviatedIRI>schema:comment</AbbreviatedIRI>
+        <Literal>comment</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="schema:domainIncludes"/>
+        <AbbreviatedIRI>schema:commentCount</AbbreviatedIRI>
+        <AbbreviatedIRI>schema:CreativeWork</AbbreviatedIRI>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:comment"/>
+        <AbbreviatedIRI>schema:commentCount</AbbreviatedIRI>
+        <Literal>The number of comments this CreativeWork (e.g. Article, Question or Answer) has received. This is most applicable to works published in Web sites with commenting system; additional comments may exist elsewhere.</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <AbbreviatedIRI>schema:commentCount</AbbreviatedIRI>
+        <Literal>commentCount</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="schema:domainIncludes"/>
+        <AbbreviatedIRI>schema:contentLocation</AbbreviatedIRI>
+        <AbbreviatedIRI>schema:CreativeWork</AbbreviatedIRI>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="schema:rangeIncludes"/>
+        <AbbreviatedIRI>schema:contentLocation</AbbreviatedIRI>
+        <AbbreviatedIRI>schema:Place</AbbreviatedIRI>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:comment"/>
+        <AbbreviatedIRI>schema:contentLocation</AbbreviatedIRI>
+        <Literal>The location depicted or described in the content. For example, the location in a photograph or painting.</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <AbbreviatedIRI>schema:contentLocation</AbbreviatedIRI>
+        <Literal>contentLocation</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="schema:domainIncludes"/>
+        <AbbreviatedIRI>schema:contentRating</AbbreviatedIRI>
+        <AbbreviatedIRI>schema:CreativeWork</AbbreviatedIRI>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="schema:rangeIncludes"/>
+        <AbbreviatedIRI>schema:contentRating</AbbreviatedIRI>
+        <AbbreviatedIRI>schema:Rating</AbbreviatedIRI>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="schema:rangeIncludes"/>
+        <AbbreviatedIRI>schema:contentRating</AbbreviatedIRI>
+        <AbbreviatedIRI>schema:Text</AbbreviatedIRI>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:comment"/>
+        <AbbreviatedIRI>schema:contentRating</AbbreviatedIRI>
+        <Literal>Official rating of a piece of content&amp;#x2014;for example,&apos;MPAA PG-13&apos;.</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <AbbreviatedIRI>schema:contentRating</AbbreviatedIRI>
+        <Literal>contentRating</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="dcterms:source"/>
+        <AbbreviatedIRI>schema:contentReferenceTime</AbbreviatedIRI>
+        <IRI>https://github.com/schemaorg/schemaorg/issues/1050</IRI>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="schema:category"/>
+        <AbbreviatedIRI>schema:contentReferenceTime</AbbreviatedIRI>
+        <Literal>issue-1050</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="schema:domainIncludes"/>
+        <AbbreviatedIRI>schema:contentReferenceTime</AbbreviatedIRI>
+        <AbbreviatedIRI>schema:CreativeWork</AbbreviatedIRI>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="schema:isPartOf"/>
+        <AbbreviatedIRI>schema:contentReferenceTime</AbbreviatedIRI>
+        <IRI>http://pending.schema.org</IRI>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="schema:rangeIncludes"/>
+        <AbbreviatedIRI>schema:contentReferenceTime</AbbreviatedIRI>
+        <AbbreviatedIRI>schema:DateTime</AbbreviatedIRI>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:comment"/>
+        <AbbreviatedIRI>schema:contentReferenceTime</AbbreviatedIRI>
+        <Literal>The specific time described by a creative work, for works (e.g. articles, video objects etc.) that emphasise a particular moment within an Event.</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <AbbreviatedIRI>schema:contentReferenceTime</AbbreviatedIRI>
+        <Literal>contentReferenceTime</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="schema:domainIncludes"/>
+        <AbbreviatedIRI>schema:contributor</AbbreviatedIRI>
+        <AbbreviatedIRI>schema:CreativeWork</AbbreviatedIRI>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="schema:domainIncludes"/>
+        <AbbreviatedIRI>schema:contributor</AbbreviatedIRI>
+        <AbbreviatedIRI>schema:Event</AbbreviatedIRI>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="schema:rangeIncludes"/>
+        <AbbreviatedIRI>schema:contributor</AbbreviatedIRI>
+        <AbbreviatedIRI>schema:Organization</AbbreviatedIRI>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="schema:rangeIncludes"/>
+        <AbbreviatedIRI>schema:contributor</AbbreviatedIRI>
+        <AbbreviatedIRI>schema:Person</AbbreviatedIRI>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:comment"/>
+        <AbbreviatedIRI>schema:contributor</AbbreviatedIRI>
+        <Literal>A secondary contributor to the CreativeWork or Event.</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <AbbreviatedIRI>schema:contributor</AbbreviatedIRI>
+        <Literal>contributor</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="schema:domainIncludes"/>
+        <AbbreviatedIRI>schema:copyrightHolder</AbbreviatedIRI>
+        <AbbreviatedIRI>schema:CreativeWork</AbbreviatedIRI>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="schema:rangeIncludes"/>
+        <AbbreviatedIRI>schema:copyrightHolder</AbbreviatedIRI>
+        <AbbreviatedIRI>schema:Organization</AbbreviatedIRI>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="schema:rangeIncludes"/>
+        <AbbreviatedIRI>schema:copyrightHolder</AbbreviatedIRI>
+        <AbbreviatedIRI>schema:Person</AbbreviatedIRI>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:comment"/>
+        <AbbreviatedIRI>schema:copyrightHolder</AbbreviatedIRI>
+        <Literal>The party holding the legal copyright to the CreativeWork.</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <AbbreviatedIRI>schema:copyrightHolder</AbbreviatedIRI>
+        <Literal>copyrightHolder</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="schema:domainIncludes"/>
+        <AbbreviatedIRI>schema:copyrightYear</AbbreviatedIRI>
+        <AbbreviatedIRI>schema:CreativeWork</AbbreviatedIRI>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="schema:rangeIncludes"/>
+        <AbbreviatedIRI>schema:copyrightYear</AbbreviatedIRI>
+        <AbbreviatedIRI>schema:Number</AbbreviatedIRI>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:comment"/>
+        <AbbreviatedIRI>schema:copyrightYear</AbbreviatedIRI>
+        <Literal>The year during which the claimed copyright for the CreativeWork was first asserted.</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <AbbreviatedIRI>schema:copyrightYear</AbbreviatedIRI>
+        <Literal>copyrightYear</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="dcterms:source"/>
+        <AbbreviatedIRI>schema:correction</AbbreviatedIRI>
+        <IRI>https://github.com/schemaorg/schemaorg/issues/1950</IRI>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="dcterms:source"/>
+        <AbbreviatedIRI>schema:correction</AbbreviatedIRI>
+        <IRI>https://www.w3.org/wiki/WebSchemas/SchemaDotOrgSources#TP</IRI>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="schema:category"/>
+        <AbbreviatedIRI>schema:correction</AbbreviatedIRI>
+        <Literal>issue-1688</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="schema:category"/>
+        <AbbreviatedIRI>schema:correction</AbbreviatedIRI>
+        <Literal>issue-1950</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="schema:domainIncludes"/>
+        <AbbreviatedIRI>schema:correction</AbbreviatedIRI>
+        <AbbreviatedIRI>schema:CreativeWork</AbbreviatedIRI>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="schema:isPartOf"/>
+        <AbbreviatedIRI>schema:correction</AbbreviatedIRI>
+        <IRI>http://pending.schema.org</IRI>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="schema:rangeIncludes"/>
+        <AbbreviatedIRI>schema:correction</AbbreviatedIRI>
+        <AbbreviatedIRI>schema:CorrectionComment</AbbreviatedIRI>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="schema:rangeIncludes"/>
+        <AbbreviatedIRI>schema:correction</AbbreviatedIRI>
+        <AbbreviatedIRI>schema:Text</AbbreviatedIRI>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="schema:rangeIncludes"/>
+        <AbbreviatedIRI>schema:correction</AbbreviatedIRI>
+        <AbbreviatedIRI>schema:URL</AbbreviatedIRI>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:comment"/>
+        <AbbreviatedIRI>schema:correction</AbbreviatedIRI>
+        <Literal>Indicates a correction to a &lt;a class=&quot;localLink&quot; href=&quot;http://schema.org/CreativeWork&quot;&gt;CreativeWork&lt;/a&gt;, either via a &lt;a class=&quot;localLink&quot; href=&quot;http://schema.org/CorrectionComment&quot;&gt;CorrectionComment&lt;/a&gt;, textually or in another document.</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <AbbreviatedIRI>schema:correction</AbbreviatedIRI>
+        <Literal>correction</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="schema:domainIncludes"/>
+        <AbbreviatedIRI>schema:countryOfOrigin</AbbreviatedIRI>
+        <IRI></IRI>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="schema:rangeIncludes"/>
+        <AbbreviatedIRI>schema:countryOfOrigin</AbbreviatedIRI>
+        <AbbreviatedIRI>schema:Country</AbbreviatedIRI>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:comment"/>
+        <AbbreviatedIRI>schema:countryOfOrigin</AbbreviatedIRI>
+        <Literal>The country of the principal offices of the production company or individual responsible for the movie or program.</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <AbbreviatedIRI>schema:countryOfOrigin</AbbreviatedIRI>
+        <Literal>countryOfOrigin</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="schema:domainIncludes"/>
+        <AbbreviatedIRI>schema:creator</AbbreviatedIRI>
+        <AbbreviatedIRI>schema:CreativeWork</AbbreviatedIRI>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="schema:domainIncludes"/>
+        <AbbreviatedIRI>schema:creator</AbbreviatedIRI>
+        <AbbreviatedIRI>schema:UserComments</AbbreviatedIRI>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="schema:rangeIncludes"/>
+        <AbbreviatedIRI>schema:creator</AbbreviatedIRI>
+        <AbbreviatedIRI>schema:Organization</AbbreviatedIRI>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="schema:rangeIncludes"/>
+        <AbbreviatedIRI>schema:creator</AbbreviatedIRI>
+        <AbbreviatedIRI>schema:Person</AbbreviatedIRI>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:comment"/>
+        <AbbreviatedIRI>schema:creator</AbbreviatedIRI>
+        <Literal>The creator/author of this CreativeWork. This is the same as the Author property for CreativeWork.</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <AbbreviatedIRI>schema:creator</AbbreviatedIRI>
+        <Literal>creator</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="schema:domainIncludes"/>
+        <AbbreviatedIRI>schema:dateCreated</AbbreviatedIRI>
+        <AbbreviatedIRI>schema:CreativeWork</AbbreviatedIRI>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="schema:rangeIncludes"/>
+        <AbbreviatedIRI>schema:dateCreated</AbbreviatedIRI>
+        <AbbreviatedIRI>schema:Date</AbbreviatedIRI>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="schema:rangeIncludes"/>
+        <AbbreviatedIRI>schema:dateCreated</AbbreviatedIRI>
+        <AbbreviatedIRI>schema:DateTime</AbbreviatedIRI>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:comment"/>
+        <AbbreviatedIRI>schema:dateCreated</AbbreviatedIRI>
+        <Literal>The date on which the CreativeWork was created or the item was added to a DataFeed.</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <AbbreviatedIRI>schema:dateCreated</AbbreviatedIRI>
+        <Literal>dateCreated</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="schema:domainIncludes"/>
+        <AbbreviatedIRI>schema:dateModified</AbbreviatedIRI>
+        <AbbreviatedIRI>schema:CreativeWork</AbbreviatedIRI>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="schema:rangeIncludes"/>
+        <AbbreviatedIRI>schema:dateModified</AbbreviatedIRI>
+        <AbbreviatedIRI>schema:Date</AbbreviatedIRI>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="schema:rangeIncludes"/>
+        <AbbreviatedIRI>schema:dateModified</AbbreviatedIRI>
+        <AbbreviatedIRI>schema:DateTime</AbbreviatedIRI>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:comment"/>
+        <AbbreviatedIRI>schema:dateModified</AbbreviatedIRI>
+        <Literal>The date on which the CreativeWork was most recently modified or when the item&apos;s entry was modified within a DataFeed.</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <AbbreviatedIRI>schema:dateModified</AbbreviatedIRI>
+        <Literal>dateModified</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="schema:domainIncludes"/>
+        <AbbreviatedIRI>schema:datePublished</AbbreviatedIRI>
+        <AbbreviatedIRI>schema:CreativeWork</AbbreviatedIRI>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="schema:rangeIncludes"/>
+        <AbbreviatedIRI>schema:datePublished</AbbreviatedIRI>
+        <AbbreviatedIRI>schema:Date</AbbreviatedIRI>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:comment"/>
+        <AbbreviatedIRI>schema:datePublished</AbbreviatedIRI>
+        <Literal>Date of first broadcast/publication.</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <AbbreviatedIRI>schema:datePublished</AbbreviatedIRI>
+        <Literal>datePublished</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="schema:domainIncludes"/>
+        <AbbreviatedIRI>schema:description</AbbreviatedIRI>
+        <AbbreviatedIRI>schema:Thing</AbbreviatedIRI>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="schema:rangeIncludes"/>
+        <AbbreviatedIRI>schema:description</AbbreviatedIRI>
+        <AbbreviatedIRI>schema:Text</AbbreviatedIRI>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:comment"/>
+        <AbbreviatedIRI>schema:description</AbbreviatedIRI>
+        <Literal>A description of the item.</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <AbbreviatedIRI>schema:description</AbbreviatedIRI>
+        <Literal>description</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="schema:domainIncludes"/>
+        <AbbreviatedIRI>schema:director</AbbreviatedIRI>
+        <AbbreviatedIRI>schema:Event</AbbreviatedIRI>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="schema:domainIncludes"/>
+        <AbbreviatedIRI>schema:director</AbbreviatedIRI>
+        <IRI></IRI>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="schema:rangeIncludes"/>
+        <AbbreviatedIRI>schema:director</AbbreviatedIRI>
+        <AbbreviatedIRI>schema:Person</AbbreviatedIRI>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:comment"/>
+        <AbbreviatedIRI>schema:director</AbbreviatedIRI>
+        <Literal>A director of e.g. tv, radio, movie, video gaming etc. content, or of an event. Directors can be associated with individual items or with a series, episode, clip.</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <AbbreviatedIRI>schema:director</AbbreviatedIRI>
+        <Literal>director</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="schema:domainIncludes"/>
+        <AbbreviatedIRI>schema:directors</AbbreviatedIRI>
+        <IRI></IRI>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="schema:rangeIncludes"/>
+        <AbbreviatedIRI>schema:directors</AbbreviatedIRI>
+        <AbbreviatedIRI>schema:Person</AbbreviatedIRI>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="schema:supersededBy"/>
+        <AbbreviatedIRI>schema:directors</AbbreviatedIRI>
+        <AbbreviatedIRI>schema:director</AbbreviatedIRI>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:comment"/>
+        <AbbreviatedIRI>schema:directors</AbbreviatedIRI>
+        <Literal>A director of e.g. tv, radio, movie, video games etc. content. Directors can be associated with individual items or with a series, episode, clip.</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <AbbreviatedIRI>schema:directors</AbbreviatedIRI>
+        <Literal>directors</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="schema:domainIncludes"/>
+        <AbbreviatedIRI>schema:disambiguatingDescription</AbbreviatedIRI>
+        <AbbreviatedIRI>schema:Thing</AbbreviatedIRI>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="schema:rangeIncludes"/>
+        <AbbreviatedIRI>schema:disambiguatingDescription</AbbreviatedIRI>
+        <AbbreviatedIRI>schema:Text</AbbreviatedIRI>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:comment"/>
+        <AbbreviatedIRI>schema:disambiguatingDescription</AbbreviatedIRI>
+        <Literal>A sub property of description. A short description of the item used to disambiguate from other, similar items. Information from other properties (in particular, name) may be necessary for the description to be useful for disambiguation.</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <AbbreviatedIRI>schema:disambiguatingDescription</AbbreviatedIRI>
+        <Literal>disambiguatingDescription</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="schema:domainIncludes"/>
+        <AbbreviatedIRI>schema:discussionUrl</AbbreviatedIRI>
+        <AbbreviatedIRI>schema:CreativeWork</AbbreviatedIRI>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="schema:rangeIncludes"/>
+        <AbbreviatedIRI>schema:discussionUrl</AbbreviatedIRI>
+        <AbbreviatedIRI>schema:URL</AbbreviatedIRI>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:comment"/>
+        <AbbreviatedIRI>schema:discussionUrl</AbbreviatedIRI>
+        <Literal>A link to the page containing the comments of the CreativeWork.</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <AbbreviatedIRI>schema:discussionUrl</AbbreviatedIRI>
+        <Literal>discussionUrl</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="dcterms:source"/>
+        <AbbreviatedIRI>schema:duration</AbbreviatedIRI>
+        <IRI>https://github.com/schemaorg/schemaorg/issues/1698</IRI>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="schema:category"/>
+        <AbbreviatedIRI>schema:duration</AbbreviatedIRI>
+        <Literal>issue-1698</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="schema:domainIncludes"/>
+        <AbbreviatedIRI>schema:duration</AbbreviatedIRI>
+        <AbbreviatedIRI>schema:Event</AbbreviatedIRI>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="schema:domainIncludes"/>
+        <AbbreviatedIRI>schema:duration</AbbreviatedIRI>
+        <IRI></IRI>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:comment"/>
+        <AbbreviatedIRI>schema:duration</AbbreviatedIRI>
+        <Literal>The duration of the item (movie, audio recording, event, etc.) in &lt;a href=&quot;http://en.wikipedia.org/wiki/ISO_8601&quot;&gt;ISO 8601 date format&lt;/a&gt;.</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <AbbreviatedIRI>schema:duration</AbbreviatedIRI>
+        <Literal>duration</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="schema:domainIncludes"/>
+        <AbbreviatedIRI>schema:editor</AbbreviatedIRI>
+        <AbbreviatedIRI>schema:CreativeWork</AbbreviatedIRI>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="schema:rangeIncludes"/>
+        <AbbreviatedIRI>schema:editor</AbbreviatedIRI>
+        <AbbreviatedIRI>schema:Person</AbbreviatedIRI>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:comment"/>
+        <AbbreviatedIRI>schema:editor</AbbreviatedIRI>
+        <Literal>Specifies the Person who edited the CreativeWork.</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <AbbreviatedIRI>schema:editor</AbbreviatedIRI>
+        <Literal>editor</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="schema:domainIncludes"/>
+        <AbbreviatedIRI>schema:educationalAlignment</AbbreviatedIRI>
+        <AbbreviatedIRI>schema:CreativeWork</AbbreviatedIRI>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="schema:rangeIncludes"/>
+        <AbbreviatedIRI>schema:educationalAlignment</AbbreviatedIRI>
+        <AbbreviatedIRI>schema:AlignmentObject</AbbreviatedIRI>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:comment"/>
+        <AbbreviatedIRI>schema:educationalAlignment</AbbreviatedIRI>
+        <Literal>An alignment to an established educational framework.</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <AbbreviatedIRI>schema:educationalAlignment</AbbreviatedIRI>
+        <Literal>educationalAlignment</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="schema:domainIncludes"/>
+        <AbbreviatedIRI>schema:educationalUse</AbbreviatedIRI>
+        <AbbreviatedIRI>schema:CreativeWork</AbbreviatedIRI>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="schema:rangeIncludes"/>
+        <AbbreviatedIRI>schema:educationalUse</AbbreviatedIRI>
+        <AbbreviatedIRI>schema:Text</AbbreviatedIRI>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:comment"/>
+        <AbbreviatedIRI>schema:educationalUse</AbbreviatedIRI>
+        <Literal>The purpose of a work in the context of education; for example, &apos;assignment&apos;, &apos;group work&apos;.</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <AbbreviatedIRI>schema:educationalUse</AbbreviatedIRI>
+        <Literal>educationalUse</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="schema:domainIncludes"/>
+        <AbbreviatedIRI>schema:encoding</AbbreviatedIRI>
+        <AbbreviatedIRI>schema:CreativeWork</AbbreviatedIRI>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="schema:inverseOf"/>
+        <AbbreviatedIRI>schema:encoding</AbbreviatedIRI>
+        <AbbreviatedIRI>schema:encodesCreativeWork</AbbreviatedIRI>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:comment"/>
+        <AbbreviatedIRI>schema:encoding</AbbreviatedIRI>
+        <Literal>A media object that encodes this CreativeWork. This property is a synonym for associatedMedia.</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <AbbreviatedIRI>schema:encoding</AbbreviatedIRI>
+        <Literal>encoding</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="schema:domainIncludes"/>
+        <AbbreviatedIRI>schema:encodingFormat</AbbreviatedIRI>
+        <AbbreviatedIRI>schema:CreativeWork</AbbreviatedIRI>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="schema:rangeIncludes"/>
+        <AbbreviatedIRI>schema:encodingFormat</AbbreviatedIRI>
+        <AbbreviatedIRI>schema:Text</AbbreviatedIRI>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="schema:rangeIncludes"/>
+        <AbbreviatedIRI>schema:encodingFormat</AbbreviatedIRI>
+        <AbbreviatedIRI>schema:URL</AbbreviatedIRI>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:comment"/>
+        <AbbreviatedIRI>schema:encodingFormat</AbbreviatedIRI>
+        <Literal>Media type typically expressed using a MIME format (see &lt;a href=&quot;http://www.iana.org/assignments/media-types/media-types.xhtml&quot;&gt;IANA site&lt;/a&gt; and &lt;a href=&quot;https://developer.mozilla.org/en-US/docs/Web/HTTP/Basics_of_HTTP/MIME_types&quot;&gt;MDN reference&lt;/a&gt;) e.g. application/zip for a SoftwareApplication binary, audio/mpeg for .mp3 etc.).&lt;br/&gt;&lt;br/&gt;
+
+In cases where a &lt;a class=&quot;localLink&quot; href=&quot;http://schema.org/CreativeWork&quot;&gt;CreativeWork&lt;/a&gt; has several media type representations, &lt;a class=&quot;localLink&quot; href=&quot;http://schema.org/encoding&quot;&gt;encoding&lt;/a&gt; can be used to indicate each &lt;a class=&quot;localLink&quot; href=&quot;http://schema.org/MediaObject&quot;&gt;MediaObject&lt;/a&gt; alongside particular &lt;a class=&quot;localLink&quot; href=&quot;http://schema.org/encodingFormat&quot;&gt;encodingFormat&lt;/a&gt; information.&lt;br/&gt;&lt;br/&gt;
+
+Unregistered or niche encoding and file formats can be indicated instead via the most appropriate URL, e.g. defining Web page or a Wikipedia/Wikidata entry.</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <AbbreviatedIRI>schema:encodingFormat</AbbreviatedIRI>
+        <Literal>encodingFormat</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="schema:domainIncludes"/>
+        <AbbreviatedIRI>schema:encodings</AbbreviatedIRI>
+        <AbbreviatedIRI>schema:CreativeWork</AbbreviatedIRI>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="schema:supersededBy"/>
+        <AbbreviatedIRI>schema:encodings</AbbreviatedIRI>
+        <AbbreviatedIRI>schema:encoding</AbbreviatedIRI>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:comment"/>
+        <AbbreviatedIRI>schema:encodings</AbbreviatedIRI>
+        <Literal>A media object that encodes this CreativeWork.</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <AbbreviatedIRI>schema:encodings</AbbreviatedIRI>
+        <Literal>encodings</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="dcterms:source"/>
+        <AbbreviatedIRI>schema:exampleOfWork</AbbreviatedIRI>
+        <IRI>http://www.w3.org/wiki/WebSchemas/SchemaDotOrgSources#source_bibex</IRI>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="schema:domainIncludes"/>
+        <AbbreviatedIRI>schema:exampleOfWork</AbbreviatedIRI>
+        <AbbreviatedIRI>schema:CreativeWork</AbbreviatedIRI>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="schema:inverseOf"/>
+        <AbbreviatedIRI>schema:exampleOfWork</AbbreviatedIRI>
+        <AbbreviatedIRI>schema:workExample</AbbreviatedIRI>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="schema:rangeIncludes"/>
+        <AbbreviatedIRI>schema:exampleOfWork</AbbreviatedIRI>
+        <AbbreviatedIRI>schema:CreativeWork</AbbreviatedIRI>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:comment"/>
+        <AbbreviatedIRI>schema:exampleOfWork</AbbreviatedIRI>
+        <Literal>A creative work that this work is an example/instance/realization/derivation of.</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <AbbreviatedIRI>schema:exampleOfWork</AbbreviatedIRI>
+        <Literal>exampleOfWork</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="schema:domainIncludes"/>
+        <AbbreviatedIRI>schema:expires</AbbreviatedIRI>
+        <AbbreviatedIRI>schema:CreativeWork</AbbreviatedIRI>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="schema:rangeIncludes"/>
+        <AbbreviatedIRI>schema:expires</AbbreviatedIRI>
+        <AbbreviatedIRI>schema:Date</AbbreviatedIRI>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:comment"/>
+        <AbbreviatedIRI>schema:expires</AbbreviatedIRI>
+        <Literal>Date the content expires and is no longer useful or available. For example a &lt;a class=&quot;localLink&quot; href=&quot;http://schema.org/VideoObject&quot;&gt;VideoObject&lt;/a&gt; or &lt;a class=&quot;localLink&quot; href=&quot;http://schema.org/NewsArticle&quot;&gt;NewsArticle&lt;/a&gt; whose availability or relevance is time-limited, or a &lt;a class=&quot;localLink&quot; href=&quot;http://schema.org/ClaimReview&quot;&gt;ClaimReview&lt;/a&gt; fact check whose publisher wants to indicate that it may no longer be relevant (or helpful to highlight) after some date.</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <AbbreviatedIRI>schema:expires</AbbreviatedIRI>
+        <Literal>expires</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="schema:domainIncludes"/>
+        <AbbreviatedIRI>schema:fileFormat</AbbreviatedIRI>
+        <AbbreviatedIRI>schema:CreativeWork</AbbreviatedIRI>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="schema:rangeIncludes"/>
+        <AbbreviatedIRI>schema:fileFormat</AbbreviatedIRI>
+        <AbbreviatedIRI>schema:Text</AbbreviatedIRI>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="schema:rangeIncludes"/>
+        <AbbreviatedIRI>schema:fileFormat</AbbreviatedIRI>
+        <AbbreviatedIRI>schema:URL</AbbreviatedIRI>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="schema:supersededBy"/>
+        <AbbreviatedIRI>schema:fileFormat</AbbreviatedIRI>
+        <AbbreviatedIRI>schema:encodingFormat</AbbreviatedIRI>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:comment"/>
+        <AbbreviatedIRI>schema:fileFormat</AbbreviatedIRI>
+        <Literal>Media type, typically MIME format (see &lt;a href=&quot;http://www.iana.org/assignments/media-types/media-types.xhtml&quot;&gt;IANA site&lt;/a&gt;) of the content e.g. application/zip of a SoftwareApplication binary. In cases where a CreativeWork has several media type representations, &apos;encoding&apos; can be used to indicate each MediaObject alongside particular fileFormat information. Unregistered or niche file formats can be indicated instead via the most appropriate URL, e.g. defining Web page or a Wikipedia entry.</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <AbbreviatedIRI>schema:fileFormat</AbbreviatedIRI>
+        <Literal>fileFormat</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="schema:domainIncludes"/>
+        <AbbreviatedIRI>schema:funder</AbbreviatedIRI>
+        <AbbreviatedIRI>schema:CreativeWork</AbbreviatedIRI>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="schema:domainIncludes"/>
+        <AbbreviatedIRI>schema:funder</AbbreviatedIRI>
+        <AbbreviatedIRI>schema:Event</AbbreviatedIRI>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="schema:domainIncludes"/>
+        <AbbreviatedIRI>schema:funder</AbbreviatedIRI>
+        <AbbreviatedIRI>schema:MonetaryGrant</AbbreviatedIRI>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="schema:domainIncludes"/>
+        <AbbreviatedIRI>schema:funder</AbbreviatedIRI>
+        <AbbreviatedIRI>schema:Organization</AbbreviatedIRI>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="schema:domainIncludes"/>
+        <AbbreviatedIRI>schema:funder</AbbreviatedIRI>
+        <AbbreviatedIRI>schema:Person</AbbreviatedIRI>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="schema:rangeIncludes"/>
+        <AbbreviatedIRI>schema:funder</AbbreviatedIRI>
+        <AbbreviatedIRI>schema:Organization</AbbreviatedIRI>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="schema:rangeIncludes"/>
+        <AbbreviatedIRI>schema:funder</AbbreviatedIRI>
+        <AbbreviatedIRI>schema:Person</AbbreviatedIRI>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:comment"/>
+        <AbbreviatedIRI>schema:funder</AbbreviatedIRI>
+        <Literal>A person or organization that supports (sponsors) something through some kind of financial contribution.</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <AbbreviatedIRI>schema:funder</AbbreviatedIRI>
+        <Literal>funder</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="schema:domainIncludes"/>
+        <AbbreviatedIRI>schema:genre</AbbreviatedIRI>
+        <AbbreviatedIRI>schema:CreativeWork</AbbreviatedIRI>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="schema:rangeIncludes"/>
+        <AbbreviatedIRI>schema:genre</AbbreviatedIRI>
+        <AbbreviatedIRI>schema:Text</AbbreviatedIRI>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="schema:rangeIncludes"/>
+        <AbbreviatedIRI>schema:genre</AbbreviatedIRI>
+        <AbbreviatedIRI>schema:URL</AbbreviatedIRI>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:comment"/>
+        <AbbreviatedIRI>schema:genre</AbbreviatedIRI>
+        <Literal>Genre of the creative work, broadcast channel or group.</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <AbbreviatedIRI>schema:genre</AbbreviatedIRI>
+        <Literal>genre</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="dcterms:source"/>
+        <AbbreviatedIRI>schema:hasPart</AbbreviatedIRI>
+        <IRI>http://www.w3.org/wiki/WebSchemas/SchemaDotOrgSources#source_bibex</IRI>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="schema:domainIncludes"/>
+        <AbbreviatedIRI>schema:hasPart</AbbreviatedIRI>
+        <AbbreviatedIRI>schema:CreativeWork</AbbreviatedIRI>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="schema:inverseOf"/>
+        <AbbreviatedIRI>schema:hasPart</AbbreviatedIRI>
+        <AbbreviatedIRI>schema:isPartOf</AbbreviatedIRI>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="schema:rangeIncludes"/>
+        <AbbreviatedIRI>schema:hasPart</AbbreviatedIRI>
+        <AbbreviatedIRI>schema:CreativeWork</AbbreviatedIRI>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:comment"/>
+        <AbbreviatedIRI>schema:hasPart</AbbreviatedIRI>
+        <Literal>Indicates an item or CreativeWork that is part of this item, or CreativeWork (in some sense).</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <AbbreviatedIRI>schema:hasPart</AbbreviatedIRI>
+        <Literal>hasPart</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="schema:domainIncludes"/>
+        <AbbreviatedIRI>schema:headline</AbbreviatedIRI>
+        <AbbreviatedIRI>schema:CreativeWork</AbbreviatedIRI>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="schema:rangeIncludes"/>
+        <AbbreviatedIRI>schema:headline</AbbreviatedIRI>
+        <AbbreviatedIRI>schema:Text</AbbreviatedIRI>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:comment"/>
+        <AbbreviatedIRI>schema:headline</AbbreviatedIRI>
+        <Literal>Headline of the article.</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <AbbreviatedIRI>schema:headline</AbbreviatedIRI>
+        <Literal>headline</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="schema:domainIncludes"/>
+        <AbbreviatedIRI>schema:identifier</AbbreviatedIRI>
+        <AbbreviatedIRI>schema:Thing</AbbreviatedIRI>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="schema:rangeIncludes"/>
+        <AbbreviatedIRI>schema:identifier</AbbreviatedIRI>
+        <AbbreviatedIRI>schema:PropertyValue</AbbreviatedIRI>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="schema:rangeIncludes"/>
+        <AbbreviatedIRI>schema:identifier</AbbreviatedIRI>
+        <AbbreviatedIRI>schema:Text</AbbreviatedIRI>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="schema:rangeIncludes"/>
+        <AbbreviatedIRI>schema:identifier</AbbreviatedIRI>
+        <AbbreviatedIRI>schema:URL</AbbreviatedIRI>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:comment"/>
+        <AbbreviatedIRI>schema:identifier</AbbreviatedIRI>
+        <Literal>The identifier property represents any kind of identifier for any kind of &lt;a class=&quot;localLink&quot; href=&quot;http://schema.org/Thing&quot;&gt;Thing&lt;/a&gt;, such as ISBNs, GTIN codes, UUIDs etc. Schema.org provides dedicated properties for representing many of these, either as textual strings or as URL (URI) links. See &lt;a href=&quot;/docs/datamodel.html#identifierBg&quot;&gt;background notes&lt;/a&gt; for more details.</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <AbbreviatedIRI>schema:identifier</AbbreviatedIRI>
+        <Literal>identifier</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="schema:domainIncludes"/>
+        <AbbreviatedIRI>schema:image</AbbreviatedIRI>
+        <AbbreviatedIRI>schema:Thing</AbbreviatedIRI>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="schema:rangeIncludes"/>
+        <AbbreviatedIRI>schema:image</AbbreviatedIRI>
+        <AbbreviatedIRI>schema:ImageObject</AbbreviatedIRI>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="schema:rangeIncludes"/>
+        <AbbreviatedIRI>schema:image</AbbreviatedIRI>
+        <AbbreviatedIRI>schema:URL</AbbreviatedIRI>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:comment"/>
+        <AbbreviatedIRI>schema:image</AbbreviatedIRI>
+        <Literal>An image of the item. This can be a &lt;a class=&quot;localLink&quot; href=&quot;http://schema.org/URL&quot;&gt;URL&lt;/a&gt; or a fully described &lt;a class=&quot;localLink&quot; href=&quot;http://schema.org/ImageObject&quot;&gt;ImageObject&lt;/a&gt;.</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <AbbreviatedIRI>schema:image</AbbreviatedIRI>
+        <Literal>image</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="schema:domainIncludes"/>
+        <AbbreviatedIRI>schema:inLanguage</AbbreviatedIRI>
+        <AbbreviatedIRI>schema:CreativeWork</AbbreviatedIRI>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="schema:domainIncludes"/>
+        <AbbreviatedIRI>schema:inLanguage</AbbreviatedIRI>
+        <AbbreviatedIRI>schema:Event</AbbreviatedIRI>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="schema:rangeIncludes"/>
+        <AbbreviatedIRI>schema:inLanguage</AbbreviatedIRI>
+        <AbbreviatedIRI>schema:Language</AbbreviatedIRI>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="schema:rangeIncludes"/>
+        <AbbreviatedIRI>schema:inLanguage</AbbreviatedIRI>
+        <AbbreviatedIRI>schema:Text</AbbreviatedIRI>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:comment"/>
+        <AbbreviatedIRI>schema:inLanguage</AbbreviatedIRI>
+        <Literal>The language of the content or performance or used in an action. Please use one of the language codes from the &lt;a href=&quot;http://tools.ietf.org/html/bcp47&quot;&gt;IETF BCP 47 standard&lt;/a&gt;. See also &lt;a class=&quot;localLink&quot; href=&quot;http://schema.org/availableLanguage&quot;&gt;availableLanguage&lt;/a&gt;.</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <AbbreviatedIRI>schema:inLanguage</AbbreviatedIRI>
+        <Literal>inLanguage</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="schema:domainIncludes"/>
+        <AbbreviatedIRI>schema:interactionStatistic</AbbreviatedIRI>
+        <AbbreviatedIRI>schema:CreativeWork</AbbreviatedIRI>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="schema:rangeIncludes"/>
+        <AbbreviatedIRI>schema:interactionStatistic</AbbreviatedIRI>
+        <AbbreviatedIRI>schema:InteractionCounter</AbbreviatedIRI>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:comment"/>
+        <AbbreviatedIRI>schema:interactionStatistic</AbbreviatedIRI>
+        <Literal>The number of interactions for the CreativeWork using the WebSite or SoftwareApplication. The most specific child type of InteractionCounter should be used.</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <AbbreviatedIRI>schema:interactionStatistic</AbbreviatedIRI>
+        <Literal>interactionStatistic</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="schema:domainIncludes"/>
+        <AbbreviatedIRI>schema:interactivityType</AbbreviatedIRI>
+        <AbbreviatedIRI>schema:CreativeWork</AbbreviatedIRI>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="schema:rangeIncludes"/>
+        <AbbreviatedIRI>schema:interactivityType</AbbreviatedIRI>
+        <AbbreviatedIRI>schema:Text</AbbreviatedIRI>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:comment"/>
+        <AbbreviatedIRI>schema:interactivityType</AbbreviatedIRI>
+        <Literal>The predominant mode of learning supported by the learning resource. Acceptable values are &apos;active&apos;, &apos;expositive&apos;, or &apos;mixed&apos;.</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <AbbreviatedIRI>schema:interactivityType</AbbreviatedIRI>
+        <Literal>interactivityType</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="schema:domainIncludes"/>
+        <AbbreviatedIRI>schema:isAccessibleForFree</AbbreviatedIRI>
+        <AbbreviatedIRI>schema:CreativeWork</AbbreviatedIRI>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="schema:domainIncludes"/>
+        <AbbreviatedIRI>schema:isAccessibleForFree</AbbreviatedIRI>
+        <AbbreviatedIRI>schema:Event</AbbreviatedIRI>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="schema:domainIncludes"/>
+        <AbbreviatedIRI>schema:isAccessibleForFree</AbbreviatedIRI>
+        <AbbreviatedIRI>schema:Place</AbbreviatedIRI>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="schema:domainIncludes"/>
+        <AbbreviatedIRI>schema:isAccessibleForFree</AbbreviatedIRI>
+        <AbbreviatedIRI>schema:PublicationEvent</AbbreviatedIRI>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="schema:rangeIncludes"/>
+        <AbbreviatedIRI>schema:isAccessibleForFree</AbbreviatedIRI>
+        <AbbreviatedIRI>schema:Boolean</AbbreviatedIRI>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:comment"/>
+        <AbbreviatedIRI>schema:isAccessibleForFree</AbbreviatedIRI>
+        <Literal>A flag to signal that the item, event, or place is accessible for free.</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <AbbreviatedIRI>schema:isAccessibleForFree</AbbreviatedIRI>
+        <Literal>isAccessibleForFree</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="schema:domainIncludes"/>
+        <AbbreviatedIRI>schema:isBasedOn</AbbreviatedIRI>
+        <AbbreviatedIRI>schema:CreativeWork</AbbreviatedIRI>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="schema:rangeIncludes"/>
+        <AbbreviatedIRI>schema:isBasedOn</AbbreviatedIRI>
+        <AbbreviatedIRI>schema:CreativeWork</AbbreviatedIRI>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="schema:rangeIncludes"/>
+        <AbbreviatedIRI>schema:isBasedOn</AbbreviatedIRI>
+        <AbbreviatedIRI>schema:Product</AbbreviatedIRI>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="schema:rangeIncludes"/>
+        <AbbreviatedIRI>schema:isBasedOn</AbbreviatedIRI>
+        <AbbreviatedIRI>schema:URL</AbbreviatedIRI>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:comment"/>
+        <AbbreviatedIRI>schema:isBasedOn</AbbreviatedIRI>
+        <Literal>A resource that was used in the creation of this resource. This term can be repeated for multiple sources. For example, http://example.com/great-multiplication-intro.html.</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <AbbreviatedIRI>schema:isBasedOn</AbbreviatedIRI>
+        <Literal>isBasedOn</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="schema:domainIncludes"/>
+        <AbbreviatedIRI>schema:isBasedOnUrl</AbbreviatedIRI>
+        <AbbreviatedIRI>schema:CreativeWork</AbbreviatedIRI>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="schema:rangeIncludes"/>
+        <AbbreviatedIRI>schema:isBasedOnUrl</AbbreviatedIRI>
+        <AbbreviatedIRI>schema:CreativeWork</AbbreviatedIRI>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="schema:rangeIncludes"/>
+        <AbbreviatedIRI>schema:isBasedOnUrl</AbbreviatedIRI>
+        <AbbreviatedIRI>schema:Product</AbbreviatedIRI>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="schema:rangeIncludes"/>
+        <AbbreviatedIRI>schema:isBasedOnUrl</AbbreviatedIRI>
+        <AbbreviatedIRI>schema:URL</AbbreviatedIRI>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="schema:supersededBy"/>
+        <AbbreviatedIRI>schema:isBasedOnUrl</AbbreviatedIRI>
+        <AbbreviatedIRI>schema:isBasedOn</AbbreviatedIRI>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:comment"/>
+        <AbbreviatedIRI>schema:isBasedOnUrl</AbbreviatedIRI>
+        <Literal>A resource that was used in the creation of this resource. This term can be repeated for multiple sources. For example, http://example.com/great-multiplication-intro.html.</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <AbbreviatedIRI>schema:isBasedOnUrl</AbbreviatedIRI>
+        <Literal>isBasedOnUrl</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="schema:domainIncludes"/>
+        <AbbreviatedIRI>schema:isFamilyFriendly</AbbreviatedIRI>
+        <AbbreviatedIRI>schema:CreativeWork</AbbreviatedIRI>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="schema:rangeIncludes"/>
+        <AbbreviatedIRI>schema:isFamilyFriendly</AbbreviatedIRI>
+        <AbbreviatedIRI>schema:Boolean</AbbreviatedIRI>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:comment"/>
+        <AbbreviatedIRI>schema:isFamilyFriendly</AbbreviatedIRI>
+        <Literal>Indicates whether this content is family friendly.</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <AbbreviatedIRI>schema:isFamilyFriendly</AbbreviatedIRI>
+        <Literal>isFamilyFriendly</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="schema:domainIncludes"/>
+        <AbbreviatedIRI>schema:isPartOf</AbbreviatedIRI>
+        <AbbreviatedIRI>schema:CreativeWork</AbbreviatedIRI>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="schema:inverseOf"/>
+        <AbbreviatedIRI>schema:isPartOf</AbbreviatedIRI>
+        <AbbreviatedIRI>schema:hasPart</AbbreviatedIRI>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="schema:rangeIncludes"/>
+        <AbbreviatedIRI>schema:isPartOf</AbbreviatedIRI>
+        <AbbreviatedIRI>schema:CreativeWork</AbbreviatedIRI>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:comment"/>
+        <AbbreviatedIRI>schema:isPartOf</AbbreviatedIRI>
+        <Literal>Indicates an item or CreativeWork that this item, or CreativeWork (in some sense), is part of.</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <AbbreviatedIRI>schema:isPartOf</AbbreviatedIRI>
+        <Literal>isPartOf</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="schema:domainIncludes"/>
+        <AbbreviatedIRI>schema:keywords</AbbreviatedIRI>
+        <AbbreviatedIRI>schema:CreativeWork</AbbreviatedIRI>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="schema:rangeIncludes"/>
+        <AbbreviatedIRI>schema:keywords</AbbreviatedIRI>
+        <AbbreviatedIRI>schema:Text</AbbreviatedIRI>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:comment"/>
+        <AbbreviatedIRI>schema:keywords</AbbreviatedIRI>
+        <Literal>Keywords or tags used to describe this content. Multiple entries in a keywords list are typically delimited by commas.</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <AbbreviatedIRI>schema:keywords</AbbreviatedIRI>
+        <Literal>keywords</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="schema:domainIncludes"/>
+        <AbbreviatedIRI>schema:learningResourceType</AbbreviatedIRI>
+        <AbbreviatedIRI>schema:CreativeWork</AbbreviatedIRI>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="schema:rangeIncludes"/>
+        <AbbreviatedIRI>schema:learningResourceType</AbbreviatedIRI>
+        <AbbreviatedIRI>schema:Text</AbbreviatedIRI>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:comment"/>
+        <AbbreviatedIRI>schema:learningResourceType</AbbreviatedIRI>
+        <Literal>The predominant type or kind characterizing the learning resource. For example, &apos;presentation&apos;, &apos;handout&apos;.</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <AbbreviatedIRI>schema:learningResourceType</AbbreviatedIRI>
+        <Literal>learningResourceType</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="schema:domainIncludes"/>
+        <AbbreviatedIRI>schema:license</AbbreviatedIRI>
+        <AbbreviatedIRI>schema:CreativeWork</AbbreviatedIRI>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="schema:rangeIncludes"/>
+        <AbbreviatedIRI>schema:license</AbbreviatedIRI>
+        <AbbreviatedIRI>schema:CreativeWork</AbbreviatedIRI>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="schema:rangeIncludes"/>
+        <AbbreviatedIRI>schema:license</AbbreviatedIRI>
+        <AbbreviatedIRI>schema:URL</AbbreviatedIRI>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:comment"/>
+        <AbbreviatedIRI>schema:license</AbbreviatedIRI>
+        <Literal>A license document that applies to this content, typically indicated by URL.</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <AbbreviatedIRI>schema:license</AbbreviatedIRI>
+        <Literal>license</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="schema:domainIncludes"/>
+        <AbbreviatedIRI>schema:locationCreated</AbbreviatedIRI>
+        <AbbreviatedIRI>schema:CreativeWork</AbbreviatedIRI>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="schema:rangeIncludes"/>
+        <AbbreviatedIRI>schema:locationCreated</AbbreviatedIRI>
+        <AbbreviatedIRI>schema:Place</AbbreviatedIRI>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:comment"/>
+        <AbbreviatedIRI>schema:locationCreated</AbbreviatedIRI>
+        <Literal>The location where the CreativeWork was created, which may not be the same as the location depicted in the CreativeWork.</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <AbbreviatedIRI>schema:locationCreated</AbbreviatedIRI>
+        <Literal>locationCreated</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="schema:domainIncludes"/>
+        <AbbreviatedIRI>schema:mainEntity</AbbreviatedIRI>
+        <AbbreviatedIRI>schema:CreativeWork</AbbreviatedIRI>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="schema:inverseOf"/>
+        <AbbreviatedIRI>schema:mainEntity</AbbreviatedIRI>
+        <AbbreviatedIRI>schema:mainEntityOfPage</AbbreviatedIRI>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="schema:rangeIncludes"/>
+        <AbbreviatedIRI>schema:mainEntity</AbbreviatedIRI>
+        <AbbreviatedIRI>schema:Thing</AbbreviatedIRI>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:comment"/>
+        <AbbreviatedIRI>schema:mainEntity</AbbreviatedIRI>
+        <Literal>Indicates the primary entity described in some page or other CreativeWork.</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <AbbreviatedIRI>schema:mainEntity</AbbreviatedIRI>
+        <Literal>mainEntity</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="schema:domainIncludes"/>
+        <AbbreviatedIRI>schema:mainEntityOfPage</AbbreviatedIRI>
+        <AbbreviatedIRI>schema:Thing</AbbreviatedIRI>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="schema:inverseOf"/>
+        <AbbreviatedIRI>schema:mainEntityOfPage</AbbreviatedIRI>
+        <AbbreviatedIRI>schema:mainEntity</AbbreviatedIRI>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="schema:rangeIncludes"/>
+        <AbbreviatedIRI>schema:mainEntityOfPage</AbbreviatedIRI>
+        <AbbreviatedIRI>schema:CreativeWork</AbbreviatedIRI>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="schema:rangeIncludes"/>
+        <AbbreviatedIRI>schema:mainEntityOfPage</AbbreviatedIRI>
+        <AbbreviatedIRI>schema:URL</AbbreviatedIRI>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:comment"/>
+        <AbbreviatedIRI>schema:mainEntityOfPage</AbbreviatedIRI>
+        <Literal>Indicates a page (or other CreativeWork) for which this thing is the main entity being described. See &lt;a href=&quot;/docs/datamodel.html#mainEntityBackground&quot;&gt;background notes&lt;/a&gt; for details.</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <AbbreviatedIRI>schema:mainEntityOfPage</AbbreviatedIRI>
+        <Literal>mainEntityOfPage</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="schema:domainIncludes"/>
+        <AbbreviatedIRI>schema:material</AbbreviatedIRI>
+        <AbbreviatedIRI>schema:CreativeWork</AbbreviatedIRI>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="schema:domainIncludes"/>
+        <AbbreviatedIRI>schema:material</AbbreviatedIRI>
+        <AbbreviatedIRI>schema:Product</AbbreviatedIRI>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="schema:rangeIncludes"/>
+        <AbbreviatedIRI>schema:material</AbbreviatedIRI>
+        <AbbreviatedIRI>schema:Product</AbbreviatedIRI>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="schema:rangeIncludes"/>
+        <AbbreviatedIRI>schema:material</AbbreviatedIRI>
+        <AbbreviatedIRI>schema:Text</AbbreviatedIRI>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="schema:rangeIncludes"/>
+        <AbbreviatedIRI>schema:material</AbbreviatedIRI>
+        <AbbreviatedIRI>schema:URL</AbbreviatedIRI>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:comment"/>
+        <AbbreviatedIRI>schema:material</AbbreviatedIRI>
+        <Literal>A material that something is made from, e.g. leather, wool, cotton, paper.</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <AbbreviatedIRI>schema:material</AbbreviatedIRI>
+        <Literal>material</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="dcterms:source"/>
+        <AbbreviatedIRI>schema:materialExtent</AbbreviatedIRI>
+        <IRI>https://github.com/schemaorg/schemaorg/issues/1759</IRI>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="schema:category"/>
+        <AbbreviatedIRI>schema:materialExtent</AbbreviatedIRI>
+        <Literal xml:lang="en">issue-1759</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="schema:domainIncludes"/>
+        <AbbreviatedIRI>schema:materialExtent</AbbreviatedIRI>
+        <AbbreviatedIRI>schema:CreativeWork</AbbreviatedIRI>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="schema:isPartOf"/>
+        <AbbreviatedIRI>schema:materialExtent</AbbreviatedIRI>
+        <IRI>http://pending.schema.org</IRI>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="schema:rangeIncludes"/>
+        <AbbreviatedIRI>schema:materialExtent</AbbreviatedIRI>
+        <AbbreviatedIRI>schema:QuantitativeValue</AbbreviatedIRI>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="schema:rangeIncludes"/>
+        <AbbreviatedIRI>schema:materialExtent</AbbreviatedIRI>
+        <AbbreviatedIRI>schema:Text</AbbreviatedIRI>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:comment"/>
+        <AbbreviatedIRI>schema:materialExtent</AbbreviatedIRI>
+        <Literal>The quantity of the materials being described or an expression of the physical space they occupy.</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <AbbreviatedIRI>schema:materialExtent</AbbreviatedIRI>
+        <Literal xml:lang="en">materialExtent</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="schema:domainIncludes"/>
+        <AbbreviatedIRI>schema:mentions</AbbreviatedIRI>
+        <AbbreviatedIRI>schema:CreativeWork</AbbreviatedIRI>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="schema:rangeIncludes"/>
+        <AbbreviatedIRI>schema:mentions</AbbreviatedIRI>
+        <AbbreviatedIRI>schema:Thing</AbbreviatedIRI>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:comment"/>
+        <AbbreviatedIRI>schema:mentions</AbbreviatedIRI>
+        <Literal>Indicates that the CreativeWork contains a reference to, but is not necessarily about a concept.</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <AbbreviatedIRI>schema:mentions</AbbreviatedIRI>
+        <Literal>mentions</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="schema:domainIncludes"/>
+        <AbbreviatedIRI>schema:musicBy</AbbreviatedIRI>
+        <IRI></IRI>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="schema:rangeIncludes"/>
+        <AbbreviatedIRI>schema:musicBy</AbbreviatedIRI>
+        <AbbreviatedIRI>schema:Person</AbbreviatedIRI>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:comment"/>
+        <AbbreviatedIRI>schema:musicBy</AbbreviatedIRI>
+        <Literal>The composer of the soundtrack.</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <AbbreviatedIRI>schema:musicBy</AbbreviatedIRI>
+        <Literal>musicBy</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="schema:domainIncludes"/>
+        <AbbreviatedIRI>schema:name</AbbreviatedIRI>
+        <AbbreviatedIRI>schema:Thing</AbbreviatedIRI>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="schema:rangeIncludes"/>
+        <AbbreviatedIRI>schema:name</AbbreviatedIRI>
+        <AbbreviatedIRI>schema:Text</AbbreviatedIRI>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:comment"/>
+        <AbbreviatedIRI>schema:name</AbbreviatedIRI>
+        <Literal>The name of the item.</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <AbbreviatedIRI>schema:name</AbbreviatedIRI>
+        <Literal>name</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="schema:domainIncludes"/>
+        <AbbreviatedIRI>schema:offers</AbbreviatedIRI>
+        <AbbreviatedIRI>schema:AggregateOffer</AbbreviatedIRI>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="schema:domainIncludes"/>
+        <AbbreviatedIRI>schema:offers</AbbreviatedIRI>
+        <AbbreviatedIRI>schema:CreativeWork</AbbreviatedIRI>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="schema:domainIncludes"/>
+        <AbbreviatedIRI>schema:offers</AbbreviatedIRI>
+        <AbbreviatedIRI>schema:Event</AbbreviatedIRI>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="schema:domainIncludes"/>
+        <AbbreviatedIRI>schema:offers</AbbreviatedIRI>
+        <AbbreviatedIRI>schema:MenuItem</AbbreviatedIRI>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="schema:domainIncludes"/>
+        <AbbreviatedIRI>schema:offers</AbbreviatedIRI>
+        <AbbreviatedIRI>schema:Product</AbbreviatedIRI>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="schema:domainIncludes"/>
+        <AbbreviatedIRI>schema:offers</AbbreviatedIRI>
+        <AbbreviatedIRI>schema:Service</AbbreviatedIRI>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="schema:domainIncludes"/>
+        <AbbreviatedIRI>schema:offers</AbbreviatedIRI>
+        <AbbreviatedIRI>schema:Trip</AbbreviatedIRI>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="schema:rangeIncludes"/>
+        <AbbreviatedIRI>schema:offers</AbbreviatedIRI>
+        <AbbreviatedIRI>schema:Offer</AbbreviatedIRI>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:comment"/>
+        <AbbreviatedIRI>schema:offers</AbbreviatedIRI>
+        <Literal>An offer to provide this item&amp;#x2014;for example, an offer to sell a product, rent the DVD of a movie, perform a service, or give away tickets to an event.</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <AbbreviatedIRI>schema:offers</AbbreviatedIRI>
+        <Literal>offers</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="schema:domainIncludes"/>
+        <AbbreviatedIRI>schema:position</AbbreviatedIRI>
+        <AbbreviatedIRI>schema:CreativeWork</AbbreviatedIRI>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="schema:domainIncludes"/>
+        <AbbreviatedIRI>schema:position</AbbreviatedIRI>
+        <AbbreviatedIRI>schema:ListItem</AbbreviatedIRI>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="schema:rangeIncludes"/>
+        <AbbreviatedIRI>schema:position</AbbreviatedIRI>
+        <AbbreviatedIRI>schema:Text</AbbreviatedIRI>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:comment"/>
+        <AbbreviatedIRI>schema:position</AbbreviatedIRI>
+        <Literal>The position of an item in a series or sequence of items.</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <AbbreviatedIRI>schema:position</AbbreviatedIRI>
+        <Literal>position</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="schema:domainIncludes"/>
+        <AbbreviatedIRI>schema:potentialAction</AbbreviatedIRI>
+        <AbbreviatedIRI>schema:Thing</AbbreviatedIRI>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="schema:rangeIncludes"/>
+        <AbbreviatedIRI>schema:potentialAction</AbbreviatedIRI>
+        <AbbreviatedIRI>schema:Action</AbbreviatedIRI>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:comment"/>
+        <AbbreviatedIRI>schema:potentialAction</AbbreviatedIRI>
+        <Literal>Indicates a potential Action, which describes an idealized action in which this thing would play an &apos;object&apos; role.</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <AbbreviatedIRI>schema:potentialAction</AbbreviatedIRI>
+        <Literal>potentialAction</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="schema:domainIncludes"/>
+        <AbbreviatedIRI>schema:producer</AbbreviatedIRI>
+        <AbbreviatedIRI>schema:CreativeWork</AbbreviatedIRI>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="schema:rangeIncludes"/>
+        <AbbreviatedIRI>schema:producer</AbbreviatedIRI>
+        <AbbreviatedIRI>schema:Organization</AbbreviatedIRI>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="schema:rangeIncludes"/>
+        <AbbreviatedIRI>schema:producer</AbbreviatedIRI>
+        <AbbreviatedIRI>schema:Person</AbbreviatedIRI>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:comment"/>
+        <AbbreviatedIRI>schema:producer</AbbreviatedIRI>
+        <Literal>The person or organization who produced the work (e.g. music album, movie, tv/radio series etc.).</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <AbbreviatedIRI>schema:producer</AbbreviatedIRI>
+        <Literal>producer</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="schema:domainIncludes"/>
+        <AbbreviatedIRI>schema:productionCompany</AbbreviatedIRI>
+        <IRI></IRI>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="schema:rangeIncludes"/>
+        <AbbreviatedIRI>schema:productionCompany</AbbreviatedIRI>
+        <AbbreviatedIRI>schema:Organization</AbbreviatedIRI>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:comment"/>
+        <AbbreviatedIRI>schema:productionCompany</AbbreviatedIRI>
+        <Literal>The production company or studio responsible for the item e.g. series, video game, episode etc.</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <AbbreviatedIRI>schema:productionCompany</AbbreviatedIRI>
+        <Literal>productionCompany</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="schema:domainIncludes"/>
+        <AbbreviatedIRI>schema:provider</AbbreviatedIRI>
+        <AbbreviatedIRI>schema:CreativeWork</AbbreviatedIRI>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="schema:domainIncludes"/>
+        <AbbreviatedIRI>schema:provider</AbbreviatedIRI>
+        <AbbreviatedIRI>schema:Invoice</AbbreviatedIRI>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="schema:domainIncludes"/>
+        <AbbreviatedIRI>schema:provider</AbbreviatedIRI>
+        <AbbreviatedIRI>schema:ParcelDelivery</AbbreviatedIRI>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="schema:domainIncludes"/>
+        <AbbreviatedIRI>schema:provider</AbbreviatedIRI>
+        <AbbreviatedIRI>schema:Reservation</AbbreviatedIRI>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="schema:domainIncludes"/>
+        <AbbreviatedIRI>schema:provider</AbbreviatedIRI>
+        <AbbreviatedIRI>schema:Service</AbbreviatedIRI>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="schema:domainIncludes"/>
+        <AbbreviatedIRI>schema:provider</AbbreviatedIRI>
+        <AbbreviatedIRI>schema:Trip</AbbreviatedIRI>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="schema:rangeIncludes"/>
+        <AbbreviatedIRI>schema:provider</AbbreviatedIRI>
+        <AbbreviatedIRI>schema:Organization</AbbreviatedIRI>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="schema:rangeIncludes"/>
+        <AbbreviatedIRI>schema:provider</AbbreviatedIRI>
+        <AbbreviatedIRI>schema:Person</AbbreviatedIRI>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:comment"/>
+        <AbbreviatedIRI>schema:provider</AbbreviatedIRI>
+        <Literal>The service provider, service operator, or service performer; the goods producer. Another party (a seller) may offer those services or goods on behalf of the provider. A provider may also serve as the seller.</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <AbbreviatedIRI>schema:provider</AbbreviatedIRI>
+        <Literal>provider</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="schema:domainIncludes"/>
+        <AbbreviatedIRI>schema:publication</AbbreviatedIRI>
+        <AbbreviatedIRI>schema:CreativeWork</AbbreviatedIRI>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="schema:rangeIncludes"/>
+        <AbbreviatedIRI>schema:publication</AbbreviatedIRI>
+        <AbbreviatedIRI>schema:PublicationEvent</AbbreviatedIRI>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:comment"/>
+        <AbbreviatedIRI>schema:publication</AbbreviatedIRI>
+        <Literal>A publication event associated with the item.</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <AbbreviatedIRI>schema:publication</AbbreviatedIRI>
+        <Literal>publication</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="schema:domainIncludes"/>
+        <AbbreviatedIRI>schema:publisher</AbbreviatedIRI>
+        <AbbreviatedIRI>schema:CreativeWork</AbbreviatedIRI>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="schema:rangeIncludes"/>
+        <AbbreviatedIRI>schema:publisher</AbbreviatedIRI>
+        <AbbreviatedIRI>schema:Organization</AbbreviatedIRI>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="schema:rangeIncludes"/>
+        <AbbreviatedIRI>schema:publisher</AbbreviatedIRI>
+        <AbbreviatedIRI>schema:Person</AbbreviatedIRI>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:comment"/>
+        <AbbreviatedIRI>schema:publisher</AbbreviatedIRI>
+        <Literal>The publisher of the creative work.</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <AbbreviatedIRI>schema:publisher</AbbreviatedIRI>
+        <Literal>publisher</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="schema:category"/>
+        <AbbreviatedIRI>schema:publisherImprint</AbbreviatedIRI>
+        <Literal xml:lang="en">Comics</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="schema:domainIncludes"/>
+        <AbbreviatedIRI>schema:publisherImprint</AbbreviatedIRI>
+        <AbbreviatedIRI>schema:CreativeWork</AbbreviatedIRI>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="schema:isPartOf"/>
+        <AbbreviatedIRI>schema:publisherImprint</AbbreviatedIRI>
+        <IRI>http://bib.schema.org</IRI>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="schema:rangeIncludes"/>
+        <AbbreviatedIRI>schema:publisherImprint</AbbreviatedIRI>
+        <AbbreviatedIRI>schema:Organization</AbbreviatedIRI>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:comment"/>
+        <AbbreviatedIRI>schema:publisherImprint</AbbreviatedIRI>
+        <Literal>The publishing division which published the comic.</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <AbbreviatedIRI>schema:publisherImprint</AbbreviatedIRI>
+        <Literal xml:lang="en">publisherImprint</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="schema:domainIncludes"/>
+        <AbbreviatedIRI>schema:publishingPrinciples</AbbreviatedIRI>
+        <AbbreviatedIRI>schema:CreativeWork</AbbreviatedIRI>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="schema:domainIncludes"/>
+        <AbbreviatedIRI>schema:publishingPrinciples</AbbreviatedIRI>
+        <AbbreviatedIRI>schema:Organization</AbbreviatedIRI>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="schema:domainIncludes"/>
+        <AbbreviatedIRI>schema:publishingPrinciples</AbbreviatedIRI>
+        <AbbreviatedIRI>schema:Person</AbbreviatedIRI>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="schema:rangeIncludes"/>
+        <AbbreviatedIRI>schema:publishingPrinciples</AbbreviatedIRI>
+        <AbbreviatedIRI>schema:CreativeWork</AbbreviatedIRI>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="schema:rangeIncludes"/>
+        <AbbreviatedIRI>schema:publishingPrinciples</AbbreviatedIRI>
+        <AbbreviatedIRI>schema:URL</AbbreviatedIRI>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:comment"/>
+        <AbbreviatedIRI>schema:publishingPrinciples</AbbreviatedIRI>
+        <Literal>The publishingPrinciples property indicates (typically via &lt;a class=&quot;localLink&quot; href=&quot;http://schema.org/URL&quot;&gt;URL&lt;/a&gt;) a document describing the editorial principles of an &lt;a class=&quot;localLink&quot; href=&quot;http://schema.org/Organization&quot;&gt;Organization&lt;/a&gt; (or individual e.g. a &lt;a class=&quot;localLink&quot; href=&quot;http://schema.org/Person&quot;&gt;Person&lt;/a&gt; writing a blog) that relate to their activities as a publisher, e.g. ethics or diversity policies. When applied to a &lt;a class=&quot;localLink&quot; href=&quot;http://schema.org/CreativeWork&quot;&gt;CreativeWork&lt;/a&gt; (e.g. &lt;a class=&quot;localLink&quot; href=&quot;http://schema.org/NewsArticle&quot;&gt;NewsArticle&lt;/a&gt;) the principles are those of the party primarily responsible for the creation of the &lt;a class=&quot;localLink&quot; href=&quot;http://schema.org/CreativeWork&quot;&gt;CreativeWork&lt;/a&gt;.&lt;br/&gt;&lt;br/&gt;
+
+While such policies are most typically expressed in natural language, sometimes related information (e.g. indicating a &lt;a class=&quot;localLink&quot; href=&quot;http://schema.org/funder&quot;&gt;funder&lt;/a&gt;) can be expressed using schema.org terminology.</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <AbbreviatedIRI>schema:publishingPrinciples</AbbreviatedIRI>
+        <Literal>publishingPrinciples</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="schema:domainIncludes"/>
+        <AbbreviatedIRI>schema:recordedAt</AbbreviatedIRI>
+        <AbbreviatedIRI>schema:CreativeWork</AbbreviatedIRI>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="schema:inverseOf"/>
+        <AbbreviatedIRI>schema:recordedAt</AbbreviatedIRI>
+        <AbbreviatedIRI>schema:recordedIn</AbbreviatedIRI>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="schema:rangeIncludes"/>
+        <AbbreviatedIRI>schema:recordedAt</AbbreviatedIRI>
+        <AbbreviatedIRI>schema:Event</AbbreviatedIRI>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:comment"/>
+        <AbbreviatedIRI>schema:recordedAt</AbbreviatedIRI>
+        <Literal>The Event where the CreativeWork was recorded. The CreativeWork may capture all or part of the event.</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <AbbreviatedIRI>schema:recordedAt</AbbreviatedIRI>
+        <Literal>recordedAt</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="schema:domainIncludes"/>
+        <AbbreviatedIRI>schema:releasedEvent</AbbreviatedIRI>
+        <AbbreviatedIRI>schema:CreativeWork</AbbreviatedIRI>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="schema:rangeIncludes"/>
+        <AbbreviatedIRI>schema:releasedEvent</AbbreviatedIRI>
+        <AbbreviatedIRI>schema:PublicationEvent</AbbreviatedIRI>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:comment"/>
+        <AbbreviatedIRI>schema:releasedEvent</AbbreviatedIRI>
+        <Literal>The place and time the release was issued, expressed as a PublicationEvent.</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <AbbreviatedIRI>schema:releasedEvent</AbbreviatedIRI>
+        <Literal>releasedEvent</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="schema:domainIncludes"/>
+        <AbbreviatedIRI>schema:review</AbbreviatedIRI>
+        <AbbreviatedIRI>schema:Brand</AbbreviatedIRI>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="schema:domainIncludes"/>
+        <AbbreviatedIRI>schema:review</AbbreviatedIRI>
+        <AbbreviatedIRI>schema:CreativeWork</AbbreviatedIRI>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="schema:domainIncludes"/>
+        <AbbreviatedIRI>schema:review</AbbreviatedIRI>
+        <AbbreviatedIRI>schema:Event</AbbreviatedIRI>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="schema:domainIncludes"/>
+        <AbbreviatedIRI>schema:review</AbbreviatedIRI>
+        <AbbreviatedIRI>schema:Offer</AbbreviatedIRI>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="schema:domainIncludes"/>
+        <AbbreviatedIRI>schema:review</AbbreviatedIRI>
+        <AbbreviatedIRI>schema:Organization</AbbreviatedIRI>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="schema:domainIncludes"/>
+        <AbbreviatedIRI>schema:review</AbbreviatedIRI>
+        <AbbreviatedIRI>schema:Place</AbbreviatedIRI>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="schema:domainIncludes"/>
+        <AbbreviatedIRI>schema:review</AbbreviatedIRI>
+        <AbbreviatedIRI>schema:Product</AbbreviatedIRI>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="schema:domainIncludes"/>
+        <AbbreviatedIRI>schema:review</AbbreviatedIRI>
+        <AbbreviatedIRI>schema:Service</AbbreviatedIRI>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="schema:rangeIncludes"/>
+        <AbbreviatedIRI>schema:review</AbbreviatedIRI>
+        <AbbreviatedIRI>schema:Review</AbbreviatedIRI>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:comment"/>
+        <AbbreviatedIRI>schema:review</AbbreviatedIRI>
+        <Literal>A review of the item.</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <AbbreviatedIRI>schema:review</AbbreviatedIRI>
+        <Literal>review</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="schema:domainIncludes"/>
+        <AbbreviatedIRI>schema:reviews</AbbreviatedIRI>
+        <AbbreviatedIRI>schema:CreativeWork</AbbreviatedIRI>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="schema:domainIncludes"/>
+        <AbbreviatedIRI>schema:reviews</AbbreviatedIRI>
+        <AbbreviatedIRI>schema:Offer</AbbreviatedIRI>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="schema:domainIncludes"/>
+        <AbbreviatedIRI>schema:reviews</AbbreviatedIRI>
+        <AbbreviatedIRI>schema:Organization</AbbreviatedIRI>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="schema:domainIncludes"/>
+        <AbbreviatedIRI>schema:reviews</AbbreviatedIRI>
+        <AbbreviatedIRI>schema:Place</AbbreviatedIRI>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="schema:domainIncludes"/>
+        <AbbreviatedIRI>schema:reviews</AbbreviatedIRI>
+        <AbbreviatedIRI>schema:Product</AbbreviatedIRI>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="schema:rangeIncludes"/>
+        <AbbreviatedIRI>schema:reviews</AbbreviatedIRI>
+        <AbbreviatedIRI>schema:Review</AbbreviatedIRI>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="schema:supersededBy"/>
+        <AbbreviatedIRI>schema:reviews</AbbreviatedIRI>
+        <AbbreviatedIRI>schema:review</AbbreviatedIRI>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:comment"/>
+        <AbbreviatedIRI>schema:reviews</AbbreviatedIRI>
+        <Literal>Review of the item.</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <AbbreviatedIRI>schema:reviews</AbbreviatedIRI>
+        <Literal>reviews</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="schema:domainIncludes"/>
+        <AbbreviatedIRI>schema:sameAs</AbbreviatedIRI>
+        <AbbreviatedIRI>schema:Thing</AbbreviatedIRI>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="schema:rangeIncludes"/>
+        <AbbreviatedIRI>schema:sameAs</AbbreviatedIRI>
+        <AbbreviatedIRI>schema:URL</AbbreviatedIRI>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:comment"/>
+        <AbbreviatedIRI>schema:sameAs</AbbreviatedIRI>
+        <Literal>URL of a reference Web page that unambiguously indicates the item&apos;s identity. E.g. the URL of the item&apos;s Wikipedia page, Wikidata entry, or official website.</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <AbbreviatedIRI>schema:sameAs</AbbreviatedIRI>
+        <Literal>sameAs</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="schema:domainIncludes"/>
+        <AbbreviatedIRI>schema:schemaVersion</AbbreviatedIRI>
+        <AbbreviatedIRI>schema:CreativeWork</AbbreviatedIRI>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="schema:rangeIncludes"/>
+        <AbbreviatedIRI>schema:schemaVersion</AbbreviatedIRI>
+        <AbbreviatedIRI>schema:Text</AbbreviatedIRI>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="schema:rangeIncludes"/>
+        <AbbreviatedIRI>schema:schemaVersion</AbbreviatedIRI>
+        <AbbreviatedIRI>schema:URL</AbbreviatedIRI>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:comment"/>
+        <AbbreviatedIRI>schema:schemaVersion</AbbreviatedIRI>
+        <Literal>Indicates (by URL or string) a particular version of a schema used in some CreativeWork. For example, a document could declare a schemaVersion using an URL such as http://schema.org/version/2.0/ if precise indication of schema version was required by some application.</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <AbbreviatedIRI>schema:schemaVersion</AbbreviatedIRI>
+        <Literal>schemaVersion</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="dcterms:source"/>
+        <AbbreviatedIRI>schema:sdDatePublished</AbbreviatedIRI>
+        <IRI>https://github.com/schemaorg/schemaorg/issues/1886</IRI>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="schema:category"/>
+        <AbbreviatedIRI>schema:sdDatePublished</AbbreviatedIRI>
+        <Literal>issue-1886</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="schema:domainIncludes"/>
+        <AbbreviatedIRI>schema:sdDatePublished</AbbreviatedIRI>
+        <AbbreviatedIRI>schema:CreativeWork</AbbreviatedIRI>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="schema:isPartOf"/>
+        <AbbreviatedIRI>schema:sdDatePublished</AbbreviatedIRI>
+        <IRI>http://pending.schema.org</IRI>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="schema:rangeIncludes"/>
+        <AbbreviatedIRI>schema:sdDatePublished</AbbreviatedIRI>
+        <AbbreviatedIRI>schema:Date</AbbreviatedIRI>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:comment"/>
+        <AbbreviatedIRI>schema:sdDatePublished</AbbreviatedIRI>
+        <Literal>Indicates the date on which the current structured data was generated / published. Typically used alongside &lt;a class=&quot;localLink&quot; href=&quot;http://schema.org/sdPublisher&quot;&gt;sdPublisher&lt;/a&gt;</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <AbbreviatedIRI>schema:sdDatePublished</AbbreviatedIRI>
+        <Literal>sdDatePublished</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="dcterms:source"/>
+        <AbbreviatedIRI>schema:sdLicense</AbbreviatedIRI>
+        <IRI>https://github.com/schemaorg/schemaorg/issues/1886</IRI>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="schema:category"/>
+        <AbbreviatedIRI>schema:sdLicense</AbbreviatedIRI>
+        <Literal>issue-1886</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="schema:domainIncludes"/>
+        <AbbreviatedIRI>schema:sdLicense</AbbreviatedIRI>
+        <AbbreviatedIRI>schema:CreativeWork</AbbreviatedIRI>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="schema:isPartOf"/>
+        <AbbreviatedIRI>schema:sdLicense</AbbreviatedIRI>
+        <IRI>http://pending.schema.org</IRI>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="schema:rangeIncludes"/>
+        <AbbreviatedIRI>schema:sdLicense</AbbreviatedIRI>
+        <AbbreviatedIRI>schema:CreativeWork</AbbreviatedIRI>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="schema:rangeIncludes"/>
+        <AbbreviatedIRI>schema:sdLicense</AbbreviatedIRI>
+        <AbbreviatedIRI>schema:URL</AbbreviatedIRI>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:comment"/>
+        <AbbreviatedIRI>schema:sdLicense</AbbreviatedIRI>
+        <Literal>A license document that applies to this structured data, typically indicated by URL.</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <AbbreviatedIRI>schema:sdLicense</AbbreviatedIRI>
+        <Literal>sdLicense</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="dcterms:source"/>
+        <AbbreviatedIRI>schema:sdPublisher</AbbreviatedIRI>
+        <IRI>https://github.com/schemaorg/schemaorg/issues/1886</IRI>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="schema:category"/>
+        <AbbreviatedIRI>schema:sdPublisher</AbbreviatedIRI>
+        <Literal>issue-1886</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="schema:domainIncludes"/>
+        <AbbreviatedIRI>schema:sdPublisher</AbbreviatedIRI>
+        <AbbreviatedIRI>schema:CreativeWork</AbbreviatedIRI>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="schema:isPartOf"/>
+        <AbbreviatedIRI>schema:sdPublisher</AbbreviatedIRI>
+        <IRI>http://pending.schema.org</IRI>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="schema:rangeIncludes"/>
+        <AbbreviatedIRI>schema:sdPublisher</AbbreviatedIRI>
+        <AbbreviatedIRI>schema:Organization</AbbreviatedIRI>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="schema:rangeIncludes"/>
+        <AbbreviatedIRI>schema:sdPublisher</AbbreviatedIRI>
+        <AbbreviatedIRI>schema:Person</AbbreviatedIRI>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:comment"/>
+        <AbbreviatedIRI>schema:sdPublisher</AbbreviatedIRI>
+        <Literal>Indicates the party responsible for generating and publishing the current structured data markup, typically in cases where the structured data is derived automatically from existing published content but published on a different site. For example, student projects and open data initiatives often re-publish existing content with more explicitly structured metadata. The
+&lt;a class=&quot;localLink&quot; href=&quot;http://schema.org/sdPublisher&quot;&gt;sdPublisher&lt;/a&gt; property helps make such practices more explicit.</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <AbbreviatedIRI>schema:sdPublisher</AbbreviatedIRI>
+        <Literal>sdPublisher</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="schema:domainIncludes"/>
+        <AbbreviatedIRI>schema:sourceOrganization</AbbreviatedIRI>
+        <AbbreviatedIRI>schema:CreativeWork</AbbreviatedIRI>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="schema:rangeIncludes"/>
+        <AbbreviatedIRI>schema:sourceOrganization</AbbreviatedIRI>
+        <AbbreviatedIRI>schema:Organization</AbbreviatedIRI>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:comment"/>
+        <AbbreviatedIRI>schema:sourceOrganization</AbbreviatedIRI>
+        <Literal>The Organization on whose behalf the creator was working.</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <AbbreviatedIRI>schema:sourceOrganization</AbbreviatedIRI>
+        <Literal>sourceOrganization</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="schema:domainIncludes"/>
+        <AbbreviatedIRI>schema:spatial</AbbreviatedIRI>
+        <AbbreviatedIRI>schema:CreativeWork</AbbreviatedIRI>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="schema:rangeIncludes"/>
+        <AbbreviatedIRI>schema:spatial</AbbreviatedIRI>
+        <AbbreviatedIRI>schema:Place</AbbreviatedIRI>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:comment"/>
+        <AbbreviatedIRI>schema:spatial</AbbreviatedIRI>
+        <Literal>The &quot;spatial&quot; property can be used in cases when more specific properties
+(e.g. &lt;a class=&quot;localLink&quot; href=&quot;http://schema.org/locationCreated&quot;&gt;locationCreated&lt;/a&gt;, &lt;a class=&quot;localLink&quot; href=&quot;http://schema.org/spatialCoverage&quot;&gt;spatialCoverage&lt;/a&gt;, &lt;a class=&quot;localLink&quot; href=&quot;http://schema.org/contentLocation&quot;&gt;contentLocation&lt;/a&gt;) are not known to be appropriate.</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <AbbreviatedIRI>schema:spatial</AbbreviatedIRI>
+        <Literal>spatial</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="schema:domainIncludes"/>
+        <AbbreviatedIRI>schema:spatialCoverage</AbbreviatedIRI>
+        <AbbreviatedIRI>schema:CreativeWork</AbbreviatedIRI>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="schema:rangeIncludes"/>
+        <AbbreviatedIRI>schema:spatialCoverage</AbbreviatedIRI>
+        <AbbreviatedIRI>schema:Place</AbbreviatedIRI>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:comment"/>
+        <AbbreviatedIRI>schema:spatialCoverage</AbbreviatedIRI>
+        <Literal>The spatialCoverage of a CreativeWork indicates the place(s) which are the focus of the content. It is a subproperty of
+      contentLocation intended primarily for more technical and detailed materials. For example with a Dataset, it indicates
+      areas that the dataset describes: a dataset of New York weather would have spatialCoverage which was the place: the state of New York.</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <AbbreviatedIRI>schema:spatialCoverage</AbbreviatedIRI>
+        <Literal>spatialCoverage</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="schema:domainIncludes"/>
+        <AbbreviatedIRI>schema:sponsor</AbbreviatedIRI>
+        <AbbreviatedIRI>schema:CreativeWork</AbbreviatedIRI>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="schema:domainIncludes"/>
+        <AbbreviatedIRI>schema:sponsor</AbbreviatedIRI>
+        <AbbreviatedIRI>schema:Event</AbbreviatedIRI>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="schema:domainIncludes"/>
+        <AbbreviatedIRI>schema:sponsor</AbbreviatedIRI>
+        <AbbreviatedIRI>schema:Grant</AbbreviatedIRI>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="schema:domainIncludes"/>
+        <AbbreviatedIRI>schema:sponsor</AbbreviatedIRI>
+        <AbbreviatedIRI>schema:MedicalStudy</AbbreviatedIRI>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="schema:domainIncludes"/>
+        <AbbreviatedIRI>schema:sponsor</AbbreviatedIRI>
+        <AbbreviatedIRI>schema:Organization</AbbreviatedIRI>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="schema:domainIncludes"/>
+        <AbbreviatedIRI>schema:sponsor</AbbreviatedIRI>
+        <AbbreviatedIRI>schema:Person</AbbreviatedIRI>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="schema:rangeIncludes"/>
+        <AbbreviatedIRI>schema:sponsor</AbbreviatedIRI>
+        <AbbreviatedIRI>schema:Organization</AbbreviatedIRI>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="schema:rangeIncludes"/>
+        <AbbreviatedIRI>schema:sponsor</AbbreviatedIRI>
+        <AbbreviatedIRI>schema:Person</AbbreviatedIRI>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:comment"/>
+        <AbbreviatedIRI>schema:sponsor</AbbreviatedIRI>
+        <Literal>A person or organization that supports a thing through a pledge, promise, or financial contribution. e.g. a sponsor of a Medical Study or a corporate sponsor of an event.</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <AbbreviatedIRI>schema:sponsor</AbbreviatedIRI>
+        <Literal>sponsor</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="dcterms:source"/>
+        <AbbreviatedIRI>schema:subjectOf</AbbreviatedIRI>
+        <IRI>https://github.com/schemaorg/schemaorg/issues/1670</IRI>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="schema:category"/>
+        <AbbreviatedIRI>schema:subjectOf</AbbreviatedIRI>
+        <Literal>issue-1670</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="schema:domainIncludes"/>
+        <AbbreviatedIRI>schema:subjectOf</AbbreviatedIRI>
+        <AbbreviatedIRI>schema:Thing</AbbreviatedIRI>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="schema:inverseOf"/>
+        <AbbreviatedIRI>schema:subjectOf</AbbreviatedIRI>
+        <AbbreviatedIRI>schema:about</AbbreviatedIRI>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="schema:rangeIncludes"/>
+        <AbbreviatedIRI>schema:subjectOf</AbbreviatedIRI>
+        <AbbreviatedIRI>schema:CreativeWork</AbbreviatedIRI>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="schema:rangeIncludes"/>
+        <AbbreviatedIRI>schema:subjectOf</AbbreviatedIRI>
+        <AbbreviatedIRI>schema:Event</AbbreviatedIRI>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:comment"/>
+        <AbbreviatedIRI>schema:subjectOf</AbbreviatedIRI>
+        <Literal>A CreativeWork or Event about this Thing..</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <AbbreviatedIRI>schema:subjectOf</AbbreviatedIRI>
+        <Literal>subjectOf</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="schema:domainIncludes"/>
+        <AbbreviatedIRI>schema:subtitleLanguage</AbbreviatedIRI>
+        <IRI></IRI>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="schema:domainIncludes"/>
+        <AbbreviatedIRI>schema:subtitleLanguage</AbbreviatedIRI>
+        <AbbreviatedIRI>schema:ScreeningEvent</AbbreviatedIRI>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="schema:rangeIncludes"/>
+        <AbbreviatedIRI>schema:subtitleLanguage</AbbreviatedIRI>
+        <AbbreviatedIRI>schema:Language</AbbreviatedIRI>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="schema:rangeIncludes"/>
+        <AbbreviatedIRI>schema:subtitleLanguage</AbbreviatedIRI>
+        <AbbreviatedIRI>schema:Text</AbbreviatedIRI>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:comment"/>
+        <AbbreviatedIRI>schema:subtitleLanguage</AbbreviatedIRI>
+        <Literal>Languages in which subtitles/captions are available, in &lt;a href=&quot;http://tools.ietf.org/html/bcp47&quot;&gt;IETF BCP 47 standard format&lt;/a&gt;.</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <AbbreviatedIRI>schema:subtitleLanguage</AbbreviatedIRI>
+        <Literal>subtitleLanguage</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="schema:domainIncludes"/>
+        <AbbreviatedIRI>schema:temporal</AbbreviatedIRI>
+        <AbbreviatedIRI>schema:CreativeWork</AbbreviatedIRI>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="schema:rangeIncludes"/>
+        <AbbreviatedIRI>schema:temporal</AbbreviatedIRI>
+        <AbbreviatedIRI>schema:DateTime</AbbreviatedIRI>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="schema:rangeIncludes"/>
+        <AbbreviatedIRI>schema:temporal</AbbreviatedIRI>
+        <AbbreviatedIRI>schema:Text</AbbreviatedIRI>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:comment"/>
+        <AbbreviatedIRI>schema:temporal</AbbreviatedIRI>
+        <Literal>The &quot;temporal&quot; property can be used in cases where more specific properties
+(e.g. &lt;a class=&quot;localLink&quot; href=&quot;http://schema.org/temporalCoverage&quot;&gt;temporalCoverage&lt;/a&gt;, &lt;a class=&quot;localLink&quot; href=&quot;http://schema.org/dateCreated&quot;&gt;dateCreated&lt;/a&gt;, &lt;a class=&quot;localLink&quot; href=&quot;http://schema.org/dateModified&quot;&gt;dateModified&lt;/a&gt;, &lt;a class=&quot;localLink&quot; href=&quot;http://schema.org/datePublished&quot;&gt;datePublished&lt;/a&gt;) are not known to be appropriate.</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <AbbreviatedIRI>schema:temporal</AbbreviatedIRI>
+        <Literal>temporal</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="schema:domainIncludes"/>
+        <AbbreviatedIRI>schema:temporalCoverage</AbbreviatedIRI>
+        <AbbreviatedIRI>schema:CreativeWork</AbbreviatedIRI>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="schema:rangeIncludes"/>
+        <AbbreviatedIRI>schema:temporalCoverage</AbbreviatedIRI>
+        <AbbreviatedIRI>schema:DateTime</AbbreviatedIRI>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="schema:rangeIncludes"/>
+        <AbbreviatedIRI>schema:temporalCoverage</AbbreviatedIRI>
+        <AbbreviatedIRI>schema:Text</AbbreviatedIRI>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="schema:rangeIncludes"/>
+        <AbbreviatedIRI>schema:temporalCoverage</AbbreviatedIRI>
+        <AbbreviatedIRI>schema:URL</AbbreviatedIRI>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:comment"/>
+        <AbbreviatedIRI>schema:temporalCoverage</AbbreviatedIRI>
+        <Literal>The temporalCoverage of a CreativeWork indicates the period that the content applies to, i.e. that it describes, either as a DateTime or as a textual string indicating a time period in &lt;a href=&quot;https://en.wikipedia.org/wiki/ISO_8601#Time_intervals&quot;&gt;ISO 8601 time interval format&lt;/a&gt;. In
+      the case of a Dataset it will typically indicate the relevant time period in a precise notation (e.g. for a 2011 census dataset, the year 2011 would be written &quot;2011/2012&quot;). Other forms of content e.g. ScholarlyArticle, Book, TVSeries or TVEpisode may indicate their temporalCoverage in broader terms - textually or via well-known URL.
+      Written works such as books may sometimes have precise temporal coverage too, e.g. a work set in 1939 - 1945 can be indicated in ISO 8601 interval format format via &quot;1939/1945&quot;.&lt;br/&gt;&lt;br/&gt;
+
+Open-ended date ranges can be written with &quot;..&quot; in place of the end date. For example, &quot;2015-11/..&quot; indicates a range beginning in November 2015 and with no specified final date. This is tentative and might be updated in future when ISO 8601 is officially updated.</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <AbbreviatedIRI>schema:temporalCoverage</AbbreviatedIRI>
+        <Literal>temporalCoverage</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="schema:domainIncludes"/>
+        <AbbreviatedIRI>schema:text</AbbreviatedIRI>
+        <AbbreviatedIRI>schema:CreativeWork</AbbreviatedIRI>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="schema:rangeIncludes"/>
+        <AbbreviatedIRI>schema:text</AbbreviatedIRI>
+        <AbbreviatedIRI>schema:Text</AbbreviatedIRI>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:comment"/>
+        <AbbreviatedIRI>schema:text</AbbreviatedIRI>
+        <Literal>The textual content of this CreativeWork.</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <AbbreviatedIRI>schema:text</AbbreviatedIRI>
+        <Literal>text</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="schema:domainIncludes"/>
+        <AbbreviatedIRI>schema:thumbnailUrl</AbbreviatedIRI>
+        <AbbreviatedIRI>schema:CreativeWork</AbbreviatedIRI>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="schema:rangeIncludes"/>
+        <AbbreviatedIRI>schema:thumbnailUrl</AbbreviatedIRI>
+        <AbbreviatedIRI>schema:URL</AbbreviatedIRI>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:comment"/>
+        <AbbreviatedIRI>schema:thumbnailUrl</AbbreviatedIRI>
+        <Literal>A thumbnail image relevant to the Thing.</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <AbbreviatedIRI>schema:thumbnailUrl</AbbreviatedIRI>
+        <Literal>thumbnailUrl</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="schema:domainIncludes"/>
+        <AbbreviatedIRI>schema:timeRequired</AbbreviatedIRI>
+        <AbbreviatedIRI>schema:CreativeWork</AbbreviatedIRI>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:comment"/>
+        <AbbreviatedIRI>schema:timeRequired</AbbreviatedIRI>
+        <Literal>Approximate or typical time it takes to work with or through this learning resource for the typical intended target audience, e.g. &apos;P30M&apos;, &apos;P1H25M&apos;.</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <AbbreviatedIRI>schema:timeRequired</AbbreviatedIRI>
+        <Literal>timeRequired</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="schema:domainIncludes"/>
+        <AbbreviatedIRI>schema:trailer</AbbreviatedIRI>
+        <IRI></IRI>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:comment"/>
+        <AbbreviatedIRI>schema:trailer</AbbreviatedIRI>
+        <Literal>The trailer of a movie or tv/radio series, season, episode, etc.</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <AbbreviatedIRI>schema:trailer</AbbreviatedIRI>
+        <Literal>trailer</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="schema:domainIncludes"/>
+        <AbbreviatedIRI>schema:translationOfWork</AbbreviatedIRI>
+        <AbbreviatedIRI>schema:CreativeWork</AbbreviatedIRI>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="schema:inverseOf"/>
+        <AbbreviatedIRI>schema:translationOfWork</AbbreviatedIRI>
+        <AbbreviatedIRI>schema:workTranslation</AbbreviatedIRI>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="schema:isPartOf"/>
+        <AbbreviatedIRI>schema:translationOfWork</AbbreviatedIRI>
+        <IRI>http://bib.schema.org</IRI>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="schema:rangeIncludes"/>
+        <AbbreviatedIRI>schema:translationOfWork</AbbreviatedIRI>
+        <AbbreviatedIRI>schema:CreativeWork</AbbreviatedIRI>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:comment"/>
+        <AbbreviatedIRI>schema:translationOfWork</AbbreviatedIRI>
+        <Literal>The work that this work has been translated from. e.g. 物种起源 is a translationOf “On the Origin of Species”</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <AbbreviatedIRI>schema:translationOfWork</AbbreviatedIRI>
+        <Literal xml:lang="en">translationOfWork</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="schema:domainIncludes"/>
+        <AbbreviatedIRI>schema:translator</AbbreviatedIRI>
+        <AbbreviatedIRI>schema:CreativeWork</AbbreviatedIRI>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="schema:domainIncludes"/>
+        <AbbreviatedIRI>schema:translator</AbbreviatedIRI>
+        <AbbreviatedIRI>schema:Event</AbbreviatedIRI>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="schema:rangeIncludes"/>
+        <AbbreviatedIRI>schema:translator</AbbreviatedIRI>
+        <AbbreviatedIRI>schema:Organization</AbbreviatedIRI>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="schema:rangeIncludes"/>
+        <AbbreviatedIRI>schema:translator</AbbreviatedIRI>
+        <AbbreviatedIRI>schema:Person</AbbreviatedIRI>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:comment"/>
+        <AbbreviatedIRI>schema:translator</AbbreviatedIRI>
+        <Literal>Organization or person who adapts a creative work to different languages, regional differences and technical requirements of a target market, or that translates during some event.</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <AbbreviatedIRI>schema:translator</AbbreviatedIRI>
+        <Literal>translator</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="schema:domainIncludes"/>
+        <AbbreviatedIRI>schema:typicalAgeRange</AbbreviatedIRI>
+        <AbbreviatedIRI>schema:CreativeWork</AbbreviatedIRI>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="schema:domainIncludes"/>
+        <AbbreviatedIRI>schema:typicalAgeRange</AbbreviatedIRI>
+        <AbbreviatedIRI>schema:Event</AbbreviatedIRI>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="schema:rangeIncludes"/>
+        <AbbreviatedIRI>schema:typicalAgeRange</AbbreviatedIRI>
+        <AbbreviatedIRI>schema:Text</AbbreviatedIRI>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:comment"/>
+        <AbbreviatedIRI>schema:typicalAgeRange</AbbreviatedIRI>
+        <Literal>The typical expected age range, e.g. &apos;7-9&apos;, &apos;11-&apos;.</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <AbbreviatedIRI>schema:typicalAgeRange</AbbreviatedIRI>
+        <Literal>typicalAgeRange</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="schema:domainIncludes"/>
+        <AbbreviatedIRI>schema:url</AbbreviatedIRI>
+        <AbbreviatedIRI>schema:Thing</AbbreviatedIRI>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="schema:rangeIncludes"/>
+        <AbbreviatedIRI>schema:url</AbbreviatedIRI>
+        <AbbreviatedIRI>schema:URL</AbbreviatedIRI>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:comment"/>
+        <AbbreviatedIRI>schema:url</AbbreviatedIRI>
+        <Literal>URL of the item.</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <AbbreviatedIRI>schema:url</AbbreviatedIRI>
+        <Literal>url</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="schema:domainIncludes"/>
+        <AbbreviatedIRI>schema:version</AbbreviatedIRI>
+        <AbbreviatedIRI>schema:CreativeWork</AbbreviatedIRI>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="schema:rangeIncludes"/>
+        <AbbreviatedIRI>schema:version</AbbreviatedIRI>
+        <AbbreviatedIRI>schema:Number</AbbreviatedIRI>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="schema:rangeIncludes"/>
+        <AbbreviatedIRI>schema:version</AbbreviatedIRI>
+        <AbbreviatedIRI>schema:Text</AbbreviatedIRI>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:comment"/>
+        <AbbreviatedIRI>schema:version</AbbreviatedIRI>
+        <Literal>The version of the CreativeWork embodied by a specified resource.</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <AbbreviatedIRI>schema:version</AbbreviatedIRI>
+        <Literal>version</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="schema:domainIncludes"/>
+        <AbbreviatedIRI>schema:video</AbbreviatedIRI>
+        <AbbreviatedIRI>schema:CreativeWork</AbbreviatedIRI>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:comment"/>
+        <AbbreviatedIRI>schema:video</AbbreviatedIRI>
+        <Literal>An embedded video object.</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <AbbreviatedIRI>schema:video</AbbreviatedIRI>
+        <Literal>video</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="dcterms:source"/>
+        <AbbreviatedIRI>schema:workExample</AbbreviatedIRI>
+        <IRI>http://www.w3.org/wiki/WebSchemas/SchemaDotOrgSources#source_bibex</IRI>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="schema:domainIncludes"/>
+        <AbbreviatedIRI>schema:workExample</AbbreviatedIRI>
+        <AbbreviatedIRI>schema:CreativeWork</AbbreviatedIRI>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="schema:inverseOf"/>
+        <AbbreviatedIRI>schema:workExample</AbbreviatedIRI>
+        <AbbreviatedIRI>schema:exampleOfWork</AbbreviatedIRI>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="schema:rangeIncludes"/>
+        <AbbreviatedIRI>schema:workExample</AbbreviatedIRI>
+        <AbbreviatedIRI>schema:CreativeWork</AbbreviatedIRI>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:comment"/>
+        <AbbreviatedIRI>schema:workExample</AbbreviatedIRI>
+        <Literal>Example/instance/realization/derivation of the concept of this creative work. eg. The paperback edition, first edition, or eBook.</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <AbbreviatedIRI>schema:workExample</AbbreviatedIRI>
+        <Literal>workExample</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="schema:rangeIncludes"/>
+        <AbbreviatedIRI>schema:workPresented</AbbreviatedIRI>
+        <IRI></IRI>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="schema:domainIncludes"/>
+        <AbbreviatedIRI>schema:workTranslation</AbbreviatedIRI>
+        <AbbreviatedIRI>schema:CreativeWork</AbbreviatedIRI>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="schema:inverseOf"/>
+        <AbbreviatedIRI>schema:workTranslation</AbbreviatedIRI>
+        <AbbreviatedIRI>schema:translationOfWork</AbbreviatedIRI>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="schema:isPartOf"/>
+        <AbbreviatedIRI>schema:workTranslation</AbbreviatedIRI>
+        <IRI>http://bib.schema.org</IRI>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="schema:rangeIncludes"/>
+        <AbbreviatedIRI>schema:workTranslation</AbbreviatedIRI>
+        <AbbreviatedIRI>schema:CreativeWork</AbbreviatedIRI>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:comment"/>
+        <AbbreviatedIRI>schema:workTranslation</AbbreviatedIRI>
+        <Literal>A work that is a translation of the content of this work. e.g. 西遊記 has an English workTranslation “Journey to the West”,a German workTranslation “Monkeys Pilgerfahrt” and a Vietnamese  translation Tây du ký bình khảo.</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <AbbreviatedIRI>schema:workTranslation</AbbreviatedIRI>
+        <Literal xml:lang="en">workTranslation</Literal>
+    </AnnotationAssertion>
+    <SubAnnotationPropertyOf>
+        <AnnotationProperty abbreviatedIRI="schema:additionalType"/>
+        <AnnotationProperty abbreviatedIRI="rdf:type"/>
+    </SubAnnotationPropertyOf>
+    <SubAnnotationPropertyOf>
+        <AnnotationProperty abbreviatedIRI="schema:disambiguatingDescription"/>
+        <AnnotationProperty abbreviatedIRI="schema:description"/>
+    </SubAnnotationPropertyOf>
+    <SubAnnotationPropertyOf>
+        <AnnotationProperty abbreviatedIRI="schema:funder"/>
+        <AnnotationProperty abbreviatedIRI="schema:sponsor"/>
+    </SubAnnotationPropertyOf>
+    <SubAnnotationPropertyOf>
+        <AnnotationProperty abbreviatedIRI="schema:mainEntity"/>
+        <AnnotationProperty abbreviatedIRI="schema:about"/>
+    </SubAnnotationPropertyOf>
+    <SubAnnotationPropertyOf>
+        <AnnotationProperty abbreviatedIRI="schema:name"/>
+        <AnnotationProperty IRI="rdfs:label"/>
+    </SubAnnotationPropertyOf>
+    <SubAnnotationPropertyOf>
+        <AnnotationProperty abbreviatedIRI="schema:spatialCoverage"/>
+        <AnnotationProperty abbreviatedIRI="schema:contentLocation"/>
+    </SubAnnotationPropertyOf>
+</Ontology>
+
+
+
+<!-- Generated by the OWL API (version 4.5.9.2019-02-01T07:24:44Z) https://github.com/owlcs/owlapi -->
+

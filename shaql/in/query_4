@@ -1,0 +1,13 @@
+SELECT ?Subject1 ?Predicate1 ?Object1 ?Predicate2 ?Object2 ?Predicate3 ?Object3 ?Predicate4 ?Object4 ?Subject2 ?Predicate5 ?Object5 ?Predicate6 ?Object6 ?Predicate7 ?Object7 ?Predicate8
+WHERE {
+	?Subject1 ?Predicate1 ?Object1.
+	?Subject1 ?Predicate2 ?Object2.
+	?Subject1 ?Predicate3 ?Object3.
+	?Subject1 ?Predicate4 ?Object4.
+	?Subject2 ?Predicate5 ?Object5.
+	?Subject2 ?Predicate6 ?Object6.
+	?Subject2 ?Predicate7 ?Object7.
+	?Subject2 ?Predicate8 ?Object2.
+	FILTER(?Subject1!=?Subject2)
+}
+LIMIT 100

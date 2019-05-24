@@ -1,0 +1,8 @@
+SELECT ?Object ?Pred1 ?Subj1 ?Pred2 ?Subj2 ?Pred3 ?Subj3 
+WHERE { 
+?Subj1 ?Pred1 ?Object. 
+?Subj2 ?Pred2 ?Object. 
+?Subj3 ?Pred3 ?Object. 
+FILTER(?Pred1!=?Pred2 && ?Pred2!=?Pred3 && ?Pred3!=?Pred1)  
+}
+LIMIT 500

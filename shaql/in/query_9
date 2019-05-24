@@ -1,0 +1,8 @@
+SELECT ?mov_title ?film_crew_likes ?typex
+{
+?mov <https://schema.org/name>/<http://www.semanticweb.org/rohanchhokra/ontologies/2019/2/oscar-ontology#textString> ?mov_title .
+?mov (<https://schema.org/director>|<http://www.semanticweb.org/rohanchhokra/ontologies/2019/2/oscar-ontology#leadActor>|<http://www.semanticweb.org/rohanchhokra/ontologies/2019/2/oscar-ontology#supportActor>) ?var .
+?var <https://schema.org/interactionStatistic>/<https://schema.org/userInteractionCount>/<http://www.semanticweb.org/rohanchhokra/ontologies/2019/2/oscar-ontology#numberInt> ?film_crew_likes .
+?var <http://www.semanticweb.org/rohanchhokra/ontologies/2019/2/oscar-ontology#type> ?typex .
+}
+LIMIT 1000

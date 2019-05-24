@@ -1,0 +1,12 @@
+<http://www.semanticweb.org/rohanchhokra/ontologies/2019/2/oscar-ontology#Shape1>
+a <http://www.w3.org/ns/shacl#NodeShape> ;
+<http://www.w3.org/ns/shacl#targetNode> <http://www.semanticweb.org/rohanchhokra/ontologies/2019/2/oscar-ontology#_year_1> ;
+<http://www.w3.org/ns/shacl#closed> true;
+<http://www.w3.org/ns/shacl#ignoredProperties> (<http://www.semanticweb.org/rohanchhokra/ontologies/2019/2/oscar-ontology#type>);
+<http://www.w3.org/ns/shacl#property> [
+	<http://www.w3.org/ns/shacl#path> <http://www.semanticweb.org/rohanchhokra/ontologies/2019/2/oscar-ontology#dateYear> ;
+	<http://www.w3.org/ns/shacl#minInclusive> 1998 ;
+	<http://www.w3.org/ns/shacl#maxExclusive> 2019 ;
+	<http://www.w3.org/ns/shacl#datatype> <http://www.w3.org/2001/XMLSchema#integer> ;
+	<http://www.w3.org/ns/shacl#severity> <http://www.w3.org/ns/shacl#Violation> ;
+] .

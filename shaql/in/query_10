@@ -1,0 +1,9 @@
+ASK
+        {
+        ?dirname <http://www.semanticweb.org/rohanchhokra/ontologies/2019/2/oscar-ontology#textString> ?director .
+        ?dir <https://schema.org/name> ?dirname .
+        ?mov <https://schema.org/director> ?dir .
+        ?mov <http://www.semanticweb.org/rohanchhokra/ontologies/2019/2/oscar-ontology#gross> ?gross .
+        }
+        GROUP BY ?director
+        HAVING (SUM(?gross) > 1000000000)

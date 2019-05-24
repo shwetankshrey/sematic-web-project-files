@@ -1,0 +1,136 @@
+data:
+0, string
+1, string
+2, int
+3, int
+4, int
+5, int
+6, string
+7, int
+8, int
+9, string[]
+10, string
+11, string
+12, int
+13, int
+14, string
+15, int
+16, string[]
+17, string
+18, int
+19, string
+20, string
+21, string
+22, int
+23, int
+24, int
+25, float
+26, float
+27, int
+
+properties:
+schema:Text, _title_
+sweb:textString, _title_, 11
+schema:Movie, _movie_
+schema:name, _movie_, _title_
+sweb:colorType, _movie_, 0
+schema:Text, _dirname_
+sweb:textString, _dirname_, 1
+sweb:Director, _director_
+sweb:FilmCrew, _director_
+schema:Person, _director_
+schema:name, _director_, _dirname_
+schema:director, _movie_, _director_
+schema:filmCrew, _movie_, _director_
+schema:Number, _duration_
+sweb:numberInt, _duration_, 3
+schema:duration, _movie_, _duration_
+schema:Number, _dirlikes_
+sweb:numberInt, _dirlikes_, 4
+schema:InteractionCounter, _dirinteract_
+schema:userInteractionCount, _dirinteract_, _dirlikes_
+schema:interactionStatistic, _director_, _dirinteract_
+schema:Number, _act3likes_
+sweb:numberInt, _act3likes_, 5
+schema:InteractionCounter, _act3interact_
+schema:userInteractionCount, _act3interact_, _act3likes_
+sweb:SupportActor, _actor3_
+sweb:Actor, _actor3_
+sweb:FilmCrew, _actor3_
+schema:Person, _actor3_
+schema:interactionStatistic, _actor3_, _act3interact_
+sweb:supportActor, _movie_, _actor3_
+schema:actor, _movie_, _actor3_
+sweb:filmCrew, _movie_, _actor3_
+schema:Text, _act2name_
+sweb:textString, _act2name_, 6
+sweb:SupportActor, _actor2_
+sweb:Actor, _actor2_
+sweb:FilmCrew, _actor2_
+schema:Person, _actor2_
+schema:name, _actor2_, _act2name_
+sweb:supportActor, _movie_, _actor2_
+schema:actor, _movie_, _actor2_
+sweb:filmCrew, _movie_, _actor2_
+schema:Number, _act1likes_
+sweb:numberInt, _act1likes_, 5
+schema:InteractionCounter, _act1interact_
+schema:userInteractionCount, _act1interact_, _act1likes_
+sweb:SupportActor, _actor1_
+sweb:Actor, _actor1_
+sweb:FilmCrew, _actor1_
+schema:Person, _actor1_
+schema:interactionStatistic, _actor1_, _act1interact_
+sweb:leadActor, _movie_, _actor1_
+schema:actor, _movie_, _actor1_
+sweb:filmCrew, _movie_, _actor1_
+sweb:gross, _movie_, 8
+schema:Text, _genres_
+sweb:textString, _genres_, 9
+schema:genre, _movie_, _genres_
+schema:Text, _act1name_
+sweb:textString, _act1name_, 10
+schema:name, _actor1_, _act1name_
+schema:Number, _ratcnt_
+sweb:numberInt, _ratcnt_, 12
+schema:AggregateRating, _aggrat_
+schema:ratingCount, _aggrat_, _ratcnt_
+schema:aggregateRating, _movie_, _aggrat_
+schema:Text, _act3name_
+sweb:textString, _act3name_, 14
+schema:name, _actor3_, _act3name_
+schema:Text, _keywords_
+sweb:textString, _keywords_, 9
+schema:keywords, _movie_, _keywords_
+schema:URL, _url_
+sweb:urlString, _url_, 17
+schema:url, _movie_, _url_
+schema:Number, _revcnt_
+sweb:numberInt, _revcnt_, 18
+schema:reviewCount, _aggrat_, _revcnt_
+schema:Language, _lang_
+sweb:languageString, _lang_, 19
+schema:inLanguage, _movie_, _lang_
+schema:Country, _country_
+sweb:countryString, _country_, 20
+schema:countryOfOrigin, _movie_, _country_
+schema:Text, _pgrat_
+sweb:textString, _pgrat_, 21
+schema:contentRating, _movie_, _pgrat_
+sweb:budget, _movie_, 22
+schema:Date, _year_
+sweb:dateYear, _year_, 23
+schema:dateCreated, _movie_, _year_
+schema:Number, _act2likes_
+sweb:numberInt, _act2likes_, 24
+schema:InteractionCounter, _act2interact_
+schema:userInteractionCount, _act2interact_, _act2likes_
+schema:interactionStatistic, _actor2_, _act2interact_
+schema:Number, _imdb_
+sweb:numberFloat, _imdb_, 25
+schema:ratingValue, _aggrat_, _imdb_
+schema:Number, _movlikes_
+sweb:numberInt, _movlikes_, 27
+schema:InteractionCounter, _movinteract_
+schema:userInteractionCount, _movinteract_, _movlikes_
+schema:interactionStatistic, _movie_, _movinteract_
